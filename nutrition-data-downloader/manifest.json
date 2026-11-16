@@ -1,0 +1,171 @@
+{
+  "tw_fda_food_nutrition/metadata.json": {
+    "source_url": "https://data.gov.tw/api/v2/rest/dataset/8543",
+    "sha256": "0845e3c7902433ca920bea86652acf6429b69fcef9640fda6270a289b5899c97",
+    "bytes": 14015,
+    "checked_at": "2026-09-17T10:59:13+00:00",
+    "status": "unchanged"
+  },
+  "tw_fda_food_nutrition/UTF-8' '20_2.csv.zip": {
+    "source_url": "https://data.fda.gov.tw/data/opendata/export/20/csv",
+    "sha256": "5e4456a8b7cb025fd0a64e7c3d6642fd5a2f7c262a27988dc6662603d5ee4ced",
+    "bytes": 3050521,
+    "checked_at": "2026-09-17T10:59:16+00:00",
+    "status": "unchanged"
+  },
+  "tw_fda_food_nutrition/UTF-8' '20_5.json.zip": {
+    "source_url": "https://data.fda.gov.tw/data/opendata/export/20/json",
+    "sha256": "c1ef5502ceceead6d5ce3b7ee21fe544702b1e508be73b196fce2cf0e61985cb",
+    "bytes": 4489506,
+    "checked_at": "2026-09-17T10:59:19+00:00",
+    "status": "unchanged"
+  },
+  "tw_fda_food_nutrition/UTF-8' '20_1.xml.zip": {
+    "source_url": "https://data.fda.gov.tw/data/opendata/export/20/xml",
+    "sha256": "ee7ba162d6fc6fd1b8188e5672c6ea171e8d0dd8afebd0d73b7e5da1cae99d69",
+    "bytes": 5228322,
+    "checked_at": "2026-09-17T10:59:22+00:00",
+    "status": "unchanged"
+  },
+  "tw_fda_food_nutrition/exportDataList.do": {
+    "source_url": "https://data.fda.gov.tw/opendata/exportDataList.do?methodopenDataApi&InfoId20The",
+    "sha256": "bb9928afd0ea8c12e124c42fef58fb080f36770389684badb2a4dcf548624eeb",
+    "bytes": 734,
+    "checked_at": "2026-09-17T10:59:26+00:00",
+    "status": "unchanged"
+  },
+  "pubmed/2026-09-17_raw.xml": {
+    "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+    "sha256": "2c2c5b633454ae86e64ade01f973b987da0d687448577623b971a97a903a65b3",
+    "bytes": 895165,
+    "checked_at": "2026-09-17T11:00:24+00:00",
+    "status": "unchanged"
+  },
+  "pubmed/2026-09-17_summary.csv": {
+    "source_url": "(\"weight loss\"[Title/Abstract] AND diet[Title/Abstract]) AND \"last 1 year\"[dp]",
+    "sha256": "d1f74fe52e96b68a9d7beb422de033bf57c5424905329e87afe87d79ad27f142",
+    "bytes": 110002,
+    "checked_at": "2026-09-17T11:00:24+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/1.「國人膳食營養素參考攝取量」第八版_背景說明及名詞對照.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=38e8ed05967b4d8a8f375aa38f4c2e8f",
+    "sha256": "306edba7b7ce25bf7c4e1eebe76ac8aa497a0d326ac35f83661bceffec75c5dd",
+    "bytes": 96077,
+    "checked_at": "2026-09-17T10:59:31+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/國人膳食營養素參考攝取量-1140106.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=a67b0afc22034e1c91793ebe57e370f1",
+    "sha256": "c62ec670813ed96bdc86c3e30ec75ff7f88ac9038c29a770500bbcb85d387c8d",
+    "bytes": 19822725,
+    "checked_at": "2026-09-17T10:59:36+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/2.「國人膳食營養素參考攝取量」第八版_Q&A.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=90450ba80e084ff7ac178662a920891d",
+    "sha256": "7c8f3495ce426f81cdf1c005dba3e9e945d58dd26b3c308ca40dbbaf8c2719ee",
+    "bytes": 284085,
+    "checked_at": "2026-09-17T10:59:39+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/3.「國人膳食營養素參考攝取量」第八版_總表(1111020).pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=39051473d7c94d6ea1e34d55eba7fdd3",
+    "sha256": "7c132106d8f879ba89c7522e66f6d2ba9a403c71812f5f3a99106776169f83d2",
+    "bytes": 294251,
+    "checked_at": "2026-09-17T10:59:41+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/4.「國人膳食營養素參考攝取量」第八版_名詞說明.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=b7877d0e97d6426c8bc5f7595951ad29",
+    "sha256": "141e2fd5ba648a228aef9cc69c75062ead304428fb061a7b61dd79454dd95956",
+    "bytes": 692994,
+    "checked_at": "2026-09-17T10:59:43+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/「國人膳食營養素參考攝取量」第八版-碳水化合物.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=526069d9c7234954a25cd27033da35ec",
+    "sha256": "290b7ac4f77401bd61ebd24faf5ee75db6623330c48b60c6043b3abee5b0df73",
+    "bytes": 563844,
+    "checked_at": "2026-09-17T10:59:45+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/「國人膳食營養素參考攝取量」第八版- 鈣.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=2562d48a40b44ce493730e5a201732e3",
+    "sha256": "edf9671e919846c21814fb1a8cd0ed1481c69be9dab1126e837eaf4f66a5be19",
+    "bytes": 1591220,
+    "checked_at": "2026-09-17T10:59:47+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/「國人膳食營養素參考攝取量」第八版- 碘.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=8dc9aada62c04f6ca2f56a05e7458815",
+    "sha256": "91e6cd8aaa41827f9353e4b2089f19850e188f841dd7145f4bff70f4282c391c",
+    "bytes": 748884,
+    "checked_at": "2026-09-17T10:59:50+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/「國人膳食營養素參考攝取量」第八版-維生素 D.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=a78f3f62575a4b22ae27d54cd3580ad8",
+    "sha256": "6dafc4f419b14e4393790122255b747786096d39db5d91196dcc128719a4a796",
+    "bytes": 486263,
+    "checked_at": "2026-09-17T10:59:52+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/5.「國人膳食營養素參考攝取量」第八版_蛋白質.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=a69411ddb08748cfbf0cbb9930a57f57",
+    "sha256": "2fb04affb74d20fb2181dd959faf5a68cfe082f6ef4200270c8b2fc3c4267f1f",
+    "bytes": 621138,
+    "checked_at": "2026-09-17T10:59:54+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/6.「國人膳食營養素參考攝取量」第八版_脂質.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=099d82730d464694984cd71a22ba8524",
+    "sha256": "9c150c11fb10ec252f7efa531f536317b48353b37d4d5961939247b8fc98edc3",
+    "bytes": 1052269,
+    "checked_at": "2026-09-17T10:59:56+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/7.「國人膳食營養素參考攝取量」第八版_鈉.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=4897b35f96f64520af8e2686a2b754d6",
+    "sha256": "806241c93fdd5b1bcd5eab4b73467ae0729ef91a88699eea981836905906b9cc",
+    "bytes": 1211247,
+    "checked_at": "2026-09-17T10:59:58+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/8.「國人膳食營養素參考攝取量」第八版_鉀.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=13cc282cd92441468eb4e4876c232233",
+    "sha256": "24b53f1d52f3b8816c2528a7a89adc9bde1f7cec057ce68952f18b559ade8977",
+    "bytes": 1291922,
+    "checked_at": "2026-09-17T11:00:01+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/9.「國人膳食營養素參考攝取量」第八版_鐵.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=6587959741534e47863767ea59d538b1",
+    "sha256": "c7b7fa80c884c183e1952fc8421617f13e6cc3fb69b994ab1880328978b5f8de",
+    "bytes": 1403146,
+    "checked_at": "2026-09-17T11:00:03+00:00",
+    "status": "unchanged"
+  },
+  "tw_hpa/dris_8th/10.「國人膳食營養素參考攝取量」第八版_鎂.pdf": {
+    "source_url": "https://www.hpa.gov.tw/Pages/ashx/GetFile.ashx?lang=c&type=1&sid=787355a4e18b4ec0a49023d3746ca7a7",
+    "sha256": "90978df00dc2dd488d6783a50fdec9998f918b0c4e31f6d316d1c9c48f678a7c",
+    "bytes": 1075831,
+    "checked_at": "2026-09-17T11:00:05+00:00",
+    "status": "unchanged"
+  },
+  "usda_fdc/foundation_foods.json": {
+    "source_url": "https://api.nal.usda.gov/fdc/v1/foods/list?dataType=Foundation",
+    "sha256": "8a11c99b155668d64286f45baa7da48fbaf08b514081e4cd07154eafc3e18261",
+    "bytes": 3444163,
+    "checked_at": "2026-09-17T11:00:18+00:00",
+    "status": "new"
+  },
+  "tw_hpa/dris_9th_draft/附件1-第九版「國人膳食營養素參考攝取量」各章節增修訂說明(新竹縣衛生局轉載).pdf": {
+    "source_url": "https://dep.hcchb.gov.tw/uploaddowndoc?file=announcement%2F202603091453230.pdf&filedisplay=%E9%99%84%E4%BB%B61-%E7%AC%AC%E4%B9%9D%E7%89%88%E3%80%8C%E5%9C%8B%E4%BA%BA%E8%86%B3%E9%A3%9F%E7%87%9F%E9%A4%8A%E7%B4%A0%E5%8F%83%E8%80%83%E6%94%9D%E5%8F%96%E9%87%8F%E3%80%8D%E5%90%84%E7%AB%A0%E7%AF%80%E5%A2%9E%E4%BF%AE%E8%A8%82%E8%AA%AA%E6%98%8E%28%E5%A5%89%E6%A0%B8%29.pdf&flag=doc",
+    "sha256": "0c32083b625a57befd242abfb9594d2dbb81d4383ebe6d517c15ff693e32817a",
+    "bytes": 1953764,
+    "checked_at": "2026-09-17T11:01:29+00:00",
+    "status": "new",
+    "note": "國健署原頁(nodeid=129&pid=19883)已下架；此為新竹縣衛生局轉載副本，手動下載"
+  }
+}
