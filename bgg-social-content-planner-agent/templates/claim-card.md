@@ -1,0 +1,11 @@
+# Claim Card
+- Claim ID:
+- Claim:
+- Status: VERIFIED / USER_CONFIRMED / IMPORTED / HYPOTHESIS / BLOCKED
+- Source:
+- Source date:
+- Checked date:
+- Exact support:
+- Scope:
+- Caveat:
+- Expiry / recheck:

@@ -1,0 +1,1307 @@
+# 7.「國人膳食營養素參考攝取量」第八版_鈉.pdf
+# 來源：國民健康署（本機副本 tw_hpa/dris_8th）
+
+=== p.1 ===
+1 
+ 
+鈉 
+董家堯、章雅惠、潘文涵 
+ 
+前言 
+鈉（sodium, Na）是必需營養素，為人體重要的電解質，具有調節細胞外液
+容積與滲透壓、維持酸鹼平衡、協助神經衝動的傳遞、肌肉收縮及幫助葡萄糖和
+胺基酸吸收等功能(1)。鈉通常以氯化鈉（食鹽）的形式出現在大多數食品中。鈉
+攝取量增多與許多非傳染性疾病 （non-communicable diseases, NCDs） 有關，包括
+高血壓 、冠心病和中風等，適當的鈉攝取可能降低血壓和相關非傳染性疾病的風
+險(2)。世界衛生組織（World Health Organization, WHO）建議成人鈉的攝取一天
+以不超過 2000 毫克為宜(2)，但歷年國民營養健康狀況變遷調查成人每日鈉平均
+攝取量皆高於 3000 毫克(3-5)。過去國人膳食營養素參考攝取量 （Dietary Reference 
+Intakes, 以下簡稱 DRIs）(6)並無鈉的部分，故此次新增鈉之攝取建議，期能提供
+於公共衛生營養計畫和政策之參考， 協助國人適當的攝取鈉， 進而減少非傳染性
+疾病的風險。 
+目前仍缺乏足夠的證據來 訂定 鈉的 平 均 需 要 量（ Estimated Average 
+Requirement, 以下簡稱 EAR）與建議攝取量（Recommended Dietary Allowance , 
+以下簡稱 RDA）。為了預防 0-6 個月嬰兒鈉攝取不足 ， 且7-12 個月嬰兒開始攝取
+副食品，鈉含量也需控制，故此次一歲以下嬰兒訂定鈉的足夠攝取量（Adequate 
+Intake, 以下簡稱 AI）。一歲以上，為避免鈉攝取過量增加罹患慢性病之風險，且
+已有充分科學證據顯示鈉攝取量與慢性疾病風險之間的因果關係和攝取 劑量-效
+應（intake–response） 關係，因而以預防慢性疾病之概念，新定鈉的「慢性疾病風
+險降低攝取量」（Chronic Disease Risk Reduction Intake, 以下簡稱 CDRR）。除了
+慢性疾病風險外 ，對於健康族群，沒有足夠的證據指出高鈉攝取量會引起毒理學
+風險，因此沒有訂定上限攝取量（Tolerable Upper Intake Levels, 以下簡稱 UL）。 
+營養生化生理功能 
+一、理化性質 
+鈉為鹼金屬族元素 ，是週期表第三列的第一個元素 ，原子序 11， 原子量22.99，
+唯一天然的安定性同位素是 Na-23，可應用於磁振造影技術和離子顯微鏡技術。
+在常溫常壓之下，鈉是銀白色立方體結構金屬，以金屬鍵結合。鈉的價電子解離
+能很低（495.9 千焦耳/莫耳），很容易失去電子，在水中與空氣中的化性非常活
+潑，因此在自然界中不以元素態存在，而以離子化合物的形式分布，並在水溶液
+=== p.2 ===
+2 
+ 
+中解離，生成一價的陽離子 Na+(7-9)。 
+飲食中鈉的主要形式為氯化鈉（NaCl，食鹽） ， 1 克的食鹽約對應於 400 毫
+克的鈉。 
+二、營養生化功能 
+鈉是人體必需的巨量礦物質營養素 ，總量在金屬營養素中排名第三 ， 僅次於
+鈣和鉀。鈉在人體內主要的生理功能為： 
+(一) 調節細胞外液容積與滲透壓 
+鈉是人體細胞外液之主要陽離子，全身大約 95％的鈉離子都存在
+於細胞外(1)，因此鈉對細胞外液容積與血漿滲透壓的維持具有重要的作
+用(2, 7, 10, 11)。 
+(二) 維持酸鹼平衡 
+血漿中的碳酸氫鈉緩衝系統占全血緩衝能力的 35％，而體內鈉離
+子的含量可以影響碳酸氫鈉的消長；鈉在腎臟再吸收時與氫離子交換 ，
+以排出體內的酸性代謝產物，而保持體液酸鹼度的恆定(2, 7)。 
+(三) 協助神經衝動的傳遞和肌肉收縮 
+神經衝動的傳遞和肌肉收縮主要倚賴鈉和鉀通過細胞膜所產生的
+電位差。細胞內鈉的濃度通常不到細胞外鈉的 10％，細胞膜上的鈉鉀
+泵（Na+/K+-ATPase pump）以主動運輸將三個鈉離子送出細胞，同時將
+兩個鉀離子送進細胞，來維持該濃度梯度（concentration gradient），產
+生細胞膜電位差（cellular membrane potentials）。當膜去極化時在軸突產
+生動作電位差，並引起突觸釋放神經傳導物質(2, 7, 10)。 
+(四) 幫助葡萄糖和胺基酸吸收 
+當葡萄糖和胺基酸以主動運輸機制穿過小腸刷狀緣時 ， 需要鈉與能
+量的協助，將其運送入小腸細胞內(7, 12)。 
+三、生理吸收代謝、分布、儲存與排泄 
+鈉通常以氯化鈉型式廣泛存在各種食物中，約98％在小腸吸收(1, 10)。 吸收的
+鈉經由血液循環運送，主要分布在全身的細胞外液中，包括血漿（140 毫莫耳/公
+升）和間質液（interstitial fluid ）（145 毫莫耳/公升），共佔全身總鈉量的 98％；
+肌肉等組織的細胞內鈉濃度為 3 毫莫耳/公升(10)。 
+(一) 吸收 
+小腸和大腸都可以吸收鈉，無論攝取量低或高，吸收率都超過 96％以上。
+美國健康成人的平衡實驗結果，每日平均鈉攝取量為 3.4 克，平均吸收率為
+98.5％(13)。日本年輕成人的平衡實驗結果，攝取量範圍是每天 2.2-6.8 克，吸收
+率平均為 97.8％(14)。當每天攝取量高達 34.5 克時，24 小時尿鈉量平均為 33.2
+克，反映鈉吸收率仍維持在 96％以上(15)。 
+(二) 尿液與恆定調節 
+=== p.3 ===
+3 
+ 
+    鈉的流失管道主要是經由腎臟 、 消化道和皮膚 ， 其中腎臟是調節鈉恆定的主
+要器官，控制鈉的排泄和保留量。只要不大量出汗，大部分攝取的鈉都可從尿液
+排出。處於溫和氣候且不流汗的人，其鈉和體液平衡處於恆定狀態，尿鈉排泄量
+大約等於鈉攝取量（尿液排鈉量約占攝取量 90-95％） 。針對35 個尿鈉排泄量與
+攝取量研究的整合分析指出，24 小時的尿鈉排泄量對攝取量的比率平均為 92.8
+％(16)。 同樣根據24 小時尿鈉量計算 ， 在一年四季各一次為期一週的平衡實驗中 ，
+尿鈉量占攝取量的 86％(13)；另一項為期三天的研究則尿鈉排泄比率為 98％(17)。
+成年人尿鈉不可避免的流失量約為 23 毫克/天(18)。 
+過去認為，在恆定狀態下，每日尿鈉排泄量大致等於攝取量，因為正常人的
+腎臟每天能夠過濾大約 25,000 毫莫耳的鈉，並通過極精確的機制 99％再吸收或
+更多的過濾負荷(10) ；再吸收率大約是近曲小管 60-70％，亨氏管 20-30％，遠曲
+小管 5-10％，集尿管 5％(19)。近年來有新證據指出，皮膚和肌肉中可能存在鈉儲
+存池（sodium storage pools），尿鈉排泄量不一定反映短期飲食攝取量(1)。 
+鈉和體液的恆定受多種荷爾蒙和神經系統的調節(1, 10)： 
+1. 腎素 -血管 張力 素- 醛 固 酮 系 統（renin-angiotensin-aldosterone system , 
+RAAS） 
+RAAS 是維持血液中鈉離子與水分濃度的動態平衡與調節血壓的
+關鍵內分泌系統。當鈉攝取過低、低血壓或低血容積時會刺激 RAAS，
+使腎臟分泌腎素，活化生成血管張力素 II，作用於腎元的近曲小管，促
+進鈉的保留；並刺激腎上腺皮質分泌醛固酮，作用於遠曲小管，促進腎
+臟對鈉的再吸收。 
+2. 心房排鈉肽（atrial natriuretic peptide, ANP） 
+ANP 由心房分泌，為 RAAS 之反向調節系統，在鈉攝取增加、血
+壓升高或血容積增加時會增加分泌。ANP 可降低腎素的分泌，進而降
+低血管張力素 II 和醛固酮合成 ， 減少腎臟對於鈉和水分的再吸收 ， 並增
+加腎絲球過濾率，有助於減少血容積量和降低血壓。 
+3. 交感神經系統（sympathetic nervous system） 
+交感神經系統以至少三種機制調節鈉的再吸收與排泄： 腎髓質血流
+量的改變、腎素的分泌、以及對腎小管的直接影響。與RAAS 相似，交
+感神經系統在缺鈉時被激活 ， 而在鈉過多時被抑制(20)。當攝取高鈉時 ，
+隨著細胞外液體積增加 ， 髓質中的血流量增加 ， 導致運送至亨氏環上升
+支（ascending limb of Henle’s loop）的濾液之鈉濃度降低，進而減少腎
+元對鈉的再吸收，使更多的鈉被運送至遠曲小管進行排泄。 
+4. 腎內機制（intrarenal mechanisms） 
+腎內機制調節交感神經系統和腎循環 ， 包括包括局部分泌的前列腺
+素、血管張力素、激肽（kinins）等。 
+(三) 糞便 
+    經糞便排出的鈉極少。隨著胃液、小腸液、胰液和膽汁等消化液的分泌，
+=== p.4 ===
+4 
+ 
+消化液中的鈉也進入小腸，並在大腸中吸收。在早期的鈉平衡研究中，鈉攝取
+量分別為 1.5、4.0 和 8.0 公克/天時，糞便鈉排泄量隨鈉攝取量的增加而升高，
+但即使在最高鈉攝取量下，糞便中的鈉排泄量仍不到攝取量的 5％(21)。近代平
+衡實驗的結果，鈉攝取量範圍從每天 1.2 克到 12.7 克，糞便的排鈉量都相當穩
+定，約佔攝取量的 2％(13, 22, 23)。 
+(四) 皮膚與汗液 
+    1950 年代的研究指出皮膚鈉的平均流失量少於 25 毫克/天(24, 25)。近代研究
+指出，在適中的溫度和運動程度之下，無論鈉攝取量高或低，汗鈉流失量都很
+少且相當穩定，約為 120-130 毫克(22, 23)。不過運動程度增強或高溫環境中，汗
+液的鈉流失會顯著增多。汗液中鈉的流失量取決於許多因素，如出汗頻率、鈉
+攝取量、和熱適應(21)，因此汗液中鈉的濃度變化很大，從每公升 10 毫莫耳到
+180 毫莫耳(26)。 
+(五) 儲存 
+人體的鈉總量大約是每公斤體重 1.3-1.5 克，其中 95％分布在細胞外液。長
+期以來根據營養學教科書建立的穩定狀態理論（steady-state theory），人體的鈉
+量相當穩定而變動幅度不大；另外根據動態平衡理論（equilibrium theory），人
+體鈉量增加必伴有細胞外液量的增加以維持穩定的滲透壓，並經由腎臟 24 小時
+的尿鈉排泄量之增減來維持恆定狀態（homeostasis），因此 24 小時的尿鈉量足
+以代表一日之鈉攝取量。 
+然而新的研究條件和測量技術所得的資料顯示，鈉可以儲存在皮膚、肌肉
+和骨骼中，並不伴有細胞外液量的改變，也不會影響體重(27)。多數的鈉平衡實
+驗為期 3-8 天，都屬短期的平衡。歐洲航太計畫的研究期程模擬火星任務長達
+105 天，全程分為四個時段，依序每天鈉攝取量為 12、9、6 克各 30 天，然後
+12 克 60 天；每天收集 24 小時尿液。結果發現，體鈉量的變動不必伴有體重和
+細胞外液的變化，而且鈉的排泄和保留模式獨立於血壓和體液的變化；可見體
+內有動態的鈉儲存(28)。 
+利用 Na-23 磁振造影技術(23Na MRI)定量皮膚和肌肉組織中鈉，臨床上應
+用於健康者和高血壓者(29)。檢查結果顯示，高血壓者的組織鈉量比正常者多；
+肌肉鈉量只有男性會隨著年齡而增多，但水分並未增多；皮膚與肌肉不同，其
+鈉量隨著年齡而增多，並伴有水分的增多，可能與保水性有關；但兩者都以女
+性少於男性。當控制年齡時，頑固性高血壓（refractory hypertension）患者的組
+織鈉比血壓健康者為多。目前的研究成果仍然有限，但輔以動物實驗的發現，
+調變組織的鈉量可以預測血壓的變動，可知組織鈉儲存對健康與疾病都有影響
+(27)。 
+  
+=== p.5 ===
+5 
+ 
+需要量評估與營養缺乏症 
+一、評估方法與指標 
+(一) 鈉平衡（sodium balance） 
+代謝平衡實驗被應用於訂定蛋白質和多種巨量與微量礦物質營養素的平均
+需要量。營養平衡的基本原理是：健康者的營養素攝取量與身體流失量必須相
+當，才不至造成負平衡，導致攝取不敷身體之需而危害健康。理論上，個人的
+生理需求量等於營養平衡時的攝取量。平衡實驗的精確程度取決於攝取量和排
+泄量的精確測量，包括平衡實驗的天數，攝取量的完整紀錄和估算，以及糞
+便、尿液、皮膚和汗液等排泄管道的完整收集與分析。 
+當沒有大量出汗時，鈉的必需流失量（obligatory sodium losses）非常小，
+約每天 180 毫克或 8 毫莫耳(21, 24)，主要由尿液、糞便及皮膚排出。歐美國家有
+數項科學證據度較高的成人和兒童的鈉平衡研究。只有一項美國的研究有嚴謹
+完整的攝取和排泄量(23)，一項英國研究的攝取量不盡完整(21)，兩項美國研究的
+排泄量不完整(13, 30)。美國少女的研究結果，每天鈉攝取量 1300 和 4000 毫克，
+都達到正平衡(23)。英國成人研究三種攝取量的結果，每天 1.5 克可得平衡，每
+天 4 與 8 克則為正平衡；攝取 1.5 克時血中醛固酮濃度上升，顯示適應調節
+(21)。美國成人的研究結果，每天 8729 與 10229 毫克都達正平衡(30)；男性每天
+4200 毫克與女性每天 2700 毫克，都可達正平衡(13)。 
+有一項日本的平衡研究，其排泄量不盡完整，以日本年輕男性為對象，結
+果可見每天 2210 毫克為負平衡，每天 6870 毫克為正平衡(14)。另外日本有一系
+列不同條件下的礦物質營養素研究，利用 13 項針對年輕女性的研究結果，其中
+汗鈉流失量不確定，但估計平衡狀態可見，每天鈉攝取 2.5 克可達正平衡(31)。 
+英國三種攝取量的研究中，當處於高溫環境時都可以達到平衡，血中醛固
+酮濃度都會上升，其中以攝取量 1.5 克時的上升最為明顯(21)。美國少女研究
+中，每天攝取 1300 毫克時，也有血醛固酮濃度上升現象(23)。可見，在不同的
+氣候下，能適應環境的人可以在鈉攝取量極低的情況下生存(32, 33)。 
+現有數據顯示，健康的人在各種條件下 （包括低鈉攝取量和極熱環境） 適應
+環境後可以達到鈉平衡(1)。 
+(二) 血清或血漿鈉濃度 
+鈉攝取量的變化會影響血清或血漿中的鈉 ， 但變化相對較小 ， 不會導致低鈉
+血症（hyponatremia）等病症。低鈉血症的定義是血清鈉濃度低於 135 毫莫耳/公
+升(34)，症狀為噁心、平衡不良、思維能力下降、頭痛、精神錯亂、癲癇發作或昏
+迷等。造成低鈉血症的原因，通常為腎功能受損、血管加壓素（vasopressin）釋
+放增加、或水喝太多所引起過多鈉流失，藥物（如：利尿劑等）作用偶而也是造
+成低鈉血症的原因。目前幾乎沒有證據指出攝取低鈉飲食對健康個體的血清或血
+=== p.6 ===
+6 
+ 
+漿鈉濃度有任何不利影響， 血鈉濃度不是正常飲食中鈉攝取量或狀況的可靠指標
+(1, 10)。 
+(三) 24 小時尿鈉量 
+根據代謝平衡實驗，尿鈉量大約佔攝取量的 90-95％(10)，在族群層次，24
+小時尿鈉量是鈉攝取量的可信指標(26)。單次 24 小時尿液收集可用於估計各分
+組人群之平均每日鈉攝取量，但單次 24 小時尿液收集並不能可靠地反映個人
+的通常鈉攝取量。此外，不完整的 24 小時尿液收集可能導致鈉攝取量估計出現
+偏差(26)。 
+(四) 單次尿鈉量 
+單次尿鈉可以藉由公式計算而用於估計 24 小時尿鈉量，因收尿時間而公式
+不同。空腹晨尿可用 Kawasaki 公式(35)，隨機單次可用 Tanaka 公式(36)。雖然單
+次尿液在人群研究中有其價值，不過對尿鈉排泄量會有高估或低估的不準確性
+(26)。 
+二、低鈉攝取對健康的潛在有害影響 
+科學界普遍支持較高的鈉攝取量與心血管疾病風險呈線性正相關 ， 然而 ， 最
+近的觀察型研究指出 ， 鈉攝取量太低亦可能增加危害健康的風險 ， 鈉攝取量與心
+血管疾病和死亡率之間的關係不是線性的，而是呈J 或 U 形(1)。臺灣金山社區心
+血管世代研究（Chin-Shan Community Cardiovascular Cohort, CCCC）指出，尿鈉
+排泄與高血壓風險之間存在顯著的 J 型關係 ， 極低的鈉攝取可能反而增加罹患高
+血壓的風險(37)， 然此研究之鈉劑量範圍遠離實際範圍 ， 且由於方法學之缺陷有可
+能為倒因為果的現象呈現。 
+三、影響鈉需要量的因素 
+(一) 與其他營養素的交互作用 
+飲食的多元和動態性質使得評估單一營養素與健康之間的關係非常挑戰，需
+要根據營養素之間的潛在相互作用來考慮每種營養素的獨立作用。 
+1. 鉀 
+研究顯示食用鉀鹽（氯化鉀） 或碳酸氫鉀會增加尿鈉排泄(38, 39)，且
+血壓與鈉/鉀比值（sodium-to-potassium ratio）的相關性比這兩者之一的
+相關性更高 (40)。動物實驗亦指出鉀可能會抑制腎臟遠曲小管中鈉的再
+吸收(41-43)。 
+2. 鈣 
+大量證據指出較高的鈉攝取量會導致尿鈣排泄增加(44-48)，可能對骨
+骼健康產生影響。然而，有關鈣攝取量對鈉排泄影響的數據有限。研究
+=== p.7 ===
+7 
+ 
+顯示攝取低鈣飲食（200 毫克/天）或高鈣飲食（1,800 毫克/天）一週後 ，
+尿鈉的排泄量沒有差異(49)。另一項交叉試驗中，給予 46 個非高血壓和
+高血壓受試者鈣補充劑（1,500 毫克/天）與安慰劑進行比較，8 週後發
+現鈣補充劑對尿鈉排泄並無作用(50)。 
+3. 熱量 
+美國的國家健康與營養調查研究（National Health and Nutrition 
+Examination Survey, NHANES）2005–2006 分析 24 小時飲食回憶數據
+發現，熱量與鈉攝取量密切相關（r = 0.80）。美國和加拿大男性鈉攝
+取都多於女性，但男性較高的鈉攝取量主要歸因於較高的熱量攝取，
+因為性別對每大卡的鈉攝取量沒有顯著差異(1)。在一項進食試驗中，
+該試驗根據熱量攝取量為受試者提供低、中、和高鈉飲食。試驗數據
+分析顯示，血壓對鈉攝取的反應隨熱量攝取而變化。熱量攝取較低
+時，當鈉含量增加，血壓升高的趨勢比熱量攝取較高時的血壓上升幅
+度更大(51)。 
+由於鈉和熱量的攝取密切相關 ， 鈉/熱量比 （sodium-to-energy ratio）
+或是熱量校正後之鈉殘差可能是比較客觀的量度(51)。 
+4. 氯 
+陽離子鈉和陰離子氯通常以氯化鈉（食鹽）的形式存在於大多數食
+物中。鈉和氯共同維持細胞外液體積、協助神經衝動傳導、維持酸鹼平
+衡等(10)。儘管氯具有獨立於鈉的生物學功能 ， 但尚未確定任何與鈉無關
+的直接調節血壓作用(26)。值得注意的是，當鈉與其他陰離子 （例如檸檬
+酸鹽、磷酸鹽、碳酸氫鹽） 結合時，飲食中氯化鈉引起的血壓升高幅度
+更大。證據顯示氯化物會導致氯化鈉對血壓的影響(26)。 
+(二) 特殊族群 
+1. 過多汗液流失 
+暴露在高溫下或從事高強度身體活動 （尤其是在高溫下） 的人可能
+需要攝取較多的鈉，因為過多汗液流失導致鈉的流失增加(1, 21)。汗液中
+鈉的流失量取決於許多因素，包括整體飲食內容、鈉攝取量、出汗率／
+量、水合狀態（hydration status） 、熱暴露和壓力、熱適應、身體活動持
+續時間和強度、以及汗腺鈉再吸收的個體差異等(1, 10)。 
+2. 鈉鹽敏感性（salt sensitivity） 
+鈉鹽敏感性定義取決於鈉鹽攝取量變化引起的血壓變化程度 。當增
+加鈉給予時造成血壓變化幅度很大的人為 「鈉鹽敏感（salt-sensitive） 」 ，
+血壓很穩定或變化幅度很小的人為 「鈉鹽阻抗（salt-resistant）」 。 老年人 、
+非裔美國人、以及患有高血壓、糖尿病、或慢性腎臟病的人，血壓對鈉
+攝取量增加最 為敏感(1, 11)。臺灣在這方面的研究或調查並不多，中國
+GenSalt 研究對 1906 名受試者採用國際標準方法進行慢性鹽負荷試驗 ，
+=== p.8 ===
+8 
+ 
+以平均動脈壓上升 5％確定為鈉鹽敏感者 ， 發現人群中有高達39％為鈉
+鹽敏感者，且女性（特別是 45 歲以上）中鈉鹽敏感者要多於男性(52)。 
+目前已在動物中鑑定出幾種與鈉鹽敏感性相關的基因或基因產物 ，
+包括影響 RAAS 與交感神經系統等(1)。 人類鈉鹽敏感性遺傳的證據來自
+家庭研究 。 儘管全基因組連鎖研究（genomewide linkage studies）已經確
+定了許多與血壓敏感性相關的變異 ， 但樣本量不足以識別重要的遺傳變
+異(1)。 最近的研究顯示單核苷酸多型性（single nucleotide polymorphism）
+是很可能的生物指標(53)。 
+3. 藥物與疾病 
+藥物如利尿劑會增加尿中水、鈉、和氯的排泄量，甚至有時會導致
+血鈉降低（低鈉血症）(10)。高血糖會增加腎臟對鈉和水的排泄。在急性
+高血糖 （例如糖尿病酮酸中毒）時，可能出現低血鈉現象。一些降血糖
+藥物也與低血鈉相關(10, 11)。遺傳疾病囊腫纖維症由於氯和鈉的跨膜轉運
+不良，導致人體產生異常濃稠的黏液，汗液的鈉含量很高。雖然尚不清
+楚囊腫纖維症患者所需增加的鈉量 ， 但需注意患者運動後流汗的情況下，
+其鈉需求量更高(54)。用藥時或糖尿病、囊腫纖維症等疾病患者的鈉攝取
+量，都需要依個人情況諮詢醫事人員。 
+參考攝取量 
+目前仍缺乏足夠的證據來確定鈉的 EAR 與 RDA，原因如下(1)： 
+1. 目前還沒找到靈敏且可反映健康人鈉需要量分佈的生物指標。 
+2. 平衡研究存在許多局限性，如：研究數量和每項研究的受試者人數少、
+攝取量和流失量測量不完全、人體儲存於皮膚和肌肉中的游離鈉量仍不
+清楚等。且多數的代謝平衡研究都以歐美白人為對象 ， 國人的實證數據
+十分欠缺，存有高度的不確定性，無法估計健康國人鈉需要量的分佈。 
+3. 低鈉攝取量所造成潛在危害的證據有限且不一致。 
+為了預防 0-6 個月嬰兒鈉攝取不足，且 7-12 個月嬰兒開始攝取副食品，鈉
+含量也需控制，故此次一歲以下嬰兒訂定鈉的 AI。一歲以後，因國人營養調查
+鈉的攝取量中位數大多超過鈉的 CDRR，無法依此數據建立鈉 AI。美國則依據
+得舒飲食（Dietary Approaches to Stop Hypertension, DASH）臨床研究和其他鈉試
+驗中鈉的最低攝取量 、 鈉平衡實驗 、 並考慮鈉過高的潛在有害健康影響 ， 訂定18
+歲以上成人鈉 AI 為 1500 毫克，1-18 歲依則依熱量調整 AI 值(1)。鈉平衡實驗顯
+示溫帶和熱帶地區的人每日攝取約 180 毫克可生存(1)，若以此為鈉的最低需求值，
+考量國人鈉的攝取量高，在正常飲食中幾乎沒有缺乏的可能 ，因此本版不訂定國
+人鈉的 EAR、RDA 與一歲以上的 AI。 
+一、0-6 個月嬰兒 
+=== p.9 ===
+9 
+ 
+0-6 個月嬰兒鈉 AI 主要是根據母乳的平均鈉含量及平均攝食量所設定 。2005-
+2007 年國內研究指出，嬰兒第 2、3、4、5、6 個月平均母乳攝取量分別為 580、
+620、670、720 及 760 公克(55)，國人每 100 公克母乳中約含 13 毫克鈉(56)，雖然
+美國農業部食品成分資料庫每 100 公克母乳中含 17 毫克鈉(57)，略高於臺灣母乳
+鈉含量 ， 但美國2019 年鈉與鉀 DRIs 報告書中每 100 公克母乳僅含 14 毫克鈉(1)，
+日本母乳亦只有 13.5 毫克鈉(58)，皆與臺灣相近。故估計嬰兒第 2、3、4、5、6 個
+月鈉平均攝取量分別為 75、81、87、94 及 99 毫克，取最大值四捨五入之整數，
+建議國內 0-6 個月嬰兒鈉 AI 設定為 100 毫克。 
+二、7-12 個月嬰兒 
+為求得 7-12 個月嬰兒鈉的 AI，使用 2013-2016 年臺灣國民營養健康狀況變
+遷調查 24 小時飲食回憶資料分析，2 個月-不滿 1 歲嬰兒排除診斷先天性心臟病
+者後，計算出「健康嬰兒」鈉攝取量中位數作為鈉 AI 值訂定參考。這些「健康
+嬰兒」 的日常鈉攝取量不會受到疾病、藥物使用、或營養治療的影響。分析結果
+經加權調整後，臺灣 2 個月-不滿 1 歲「健康嬰兒」每日平均鈉攝取量為 401 毫
+克（男嬰 378 毫克，有效樣本數 56 人；女嬰 429 毫克，有效樣本數 62 人），中
+位數為 315 毫克（男嬰 308 毫克、女嬰 315 毫克）。取中位數四捨五入之整數，
+建議國內 7-12 個月嬰兒鈉 AI 設定為 320 毫克。 
+考量調查年齡層為「2 個月-不滿 1 歲」 ，與DRIs 年齡層「7-12 個月」有些
+許差異，再參考 2011 年臺灣嬰幼兒體位與營養狀況調查 24 小時飲食回憶資料分
+析結果(59)：7-9 個月嬰兒平均鈉攝取 206 毫克（有效樣本數 29 人）、10-12 個月
+嬰兒平均鈉攝取 301 毫克（有效樣本數 5 人），故臺灣 7-12 個月嬰兒鈉 AI 設定
+為 320 毫克應屬合宜。 
+三、慢性疾病風險降低攝取量 
+設定適當鈉攝取量參考值的初衷是為了預防人群中的疾病 ， 現今對健康的關
+注已轉向慢性病的高盛行率 ， 因此將慢性病引入指標 。 鈉攝取量增加與許多非傳
+染性疾病有關，包括高血壓、冠心病、和中風等，適當的鈉攝取可能可以降低血
+壓和相關非傳染性疾病的風險 (2) 。此次主要參考美國國家學院（ National 
+Academies of Sciences, Engineering, and Medicine）2019 年鈉與鉀 DRIs 報告書(1)
+與美國健康照護研究與品質管理局（Agency for Healthcare Research and Quality , 
+AHRQ）2018 年 「鈉和鉀的攝取量：對慢性病結果和風險的影響」 系統評估(60)，
+綜合國內減少鈉攝取量對心血管疾病風險 、 高血壓風險 、 收縮壓和舒張壓的有益
+作用的證據，並參考世界各國建議（表一）(1, 2, 7, 26, 58, 61-64)，訂定臺灣各年齡層鈉
+的 CDRR。減少鈉攝取至 CDRR 以下可望降低健康人的慢性疾病風險。 
+=== p.10 ===
+10 
+ 
+(一) 19-70 歲成人 
+1. 心血管疾病風險 
+很少有試驗評估鈉攝取量減少對心血管疾病死亡率 、 心肌梗塞 、 左
+心室腫塊、中風、骨質疏鬆、或腎臟疾病的影響(1, 60)。但有證據表明鈉
+攝取量減少與總死亡率（all-cause mortality ）和心血管疾病之間存在因
+果關係(1, 65, 66)。高血壓防治臨床試驗（Trials of Hypertension Prevention, 
+TOHP）階段 1（1987-1990 年）及階段 2（1990 年-1995 年）收集 2275
+位 30-54 歲高血壓前期受試者 24 小時尿液樣本 ， 並追蹤受試者在10 年
+（TOHP II）或 15 年（TOHP I）內心血管疾病的發生率，期間共193 位
+罹患心血管疾病或心血管病死亡。分析發現尿鈉量較低者 （<2300 毫克
+/天）比尿鈉量較高者（3600 至<4800 毫克/天）的心血管疾病罹患率或
+死亡率更低，風險降低 32％（風險比 0.68，95％信賴區間 0.34–1.37，
+P=0.13） 。每增加鈉1000 毫克/天，風險線性增加 17％（P = 0.05） 。同
+時 ， 這項研究並未發現鈉攝取量控制在2300 毫克以下有任何不良影響 。
+研究結果顯示，鈉的理想攝取量為每天小於 2300 毫克，同步可降低罹
+患心血管疾病的風險(1, 66)。 
+2. 高血壓風險 
+隨機對照試驗 （randomized controlled trials, RCTs） 顯示減少鈉攝取
+量可降低高血壓的發生率(1)。 
+INTERSALT (International Study of Sodium, Potassium, and Blood 
+Pressure)研究比較 32 個國家的 52 個人群樣本 （包含臺灣）24 小時尿鈉
+排泄的標準化數據，共 10079 位 20-59 歲成人，結果發現尿鈉排泄量與
+血壓及隨年齡增長的血壓增加幅度顯著相關(67, 68)。 這類生態研究顯示 ，
+鈉攝取低於 100 毫莫耳以下，高血壓的盛行率接近 0，100 毫莫耳以上
+隨著量攝取越高，高血壓盛行率呈線性增加(67-69)。 
+3. 收縮壓和舒張壓 
+來自隨機分派試驗的大量證據表明 ， 減少鈉攝取量可以降低收縮壓
+和舒張壓 ， 且有攝取劑量-效應關係(1, 60)。 鈉減少對高血壓成年人的影響
+較大，但在非高血壓成年人中也很明顯(60)。 
+前瞻性城鄉流行病學研究（ Prospective Urban Rural Epidemiology 
+study, PURE）(70)，由 2002 年到 2009 年調查 18 個國家 35-70 歲成人，
+共 102,216 人（其中 42％來自中國，但臺灣並未參與） ，以空腹的早晨
+單次尿液樣本估計 24 小時鈉和鉀的排泄量，並估算攝取量。結果顯示
+鈉排泄量每增加 1 克，收縮壓增加 2.11 毫米汞柱，舒張壓增加 0.78 毫
+米汞柱。隨著鈉攝取量的增加，這種關聯的斜率變得更陡峭。高血壓患
+者的斜率比沒有高血壓者陡，並且隨著年齡的增加也更陡峭。 
+臺北一研究收集了 401 位中年男性七次隔夜尿液 ， 並測量血壓 。 結
+果顯示 24 小時尿鈉估計值與平均收縮壓和舒張壓均呈正相關（ P < 
+=== p.11 ===
+11 
+ 
+0.001） ，證實了鈉與血壓之間的正相關關係(71)。 
+臺灣一項介入試驗，47 位 35-64 歲血壓正常偏高或第一期高血壓
+之中老年人，隨機分成三組：控制組、減鹽組、代鹽組。飲食介入9 個
+月後 ， 發現長期的低鈉飲食可使血壓降低 。 減鹽組收縮壓平均降低9.21
+毫米汞柱 ， 舒張壓平均降低5.40 毫米汞柱 ； 代鹽組收縮壓平均降低6.83
+毫米汞柱，舒張壓平均降低 4.23 毫米汞柱；至於控制組則收縮壓平均
+上升 3.97 毫米汞柱，舒張壓平均上升 5.76 毫米汞柱。此血壓的趨勢顯
+示長期的減鹽和使用低鈉鹽有助於血壓的降低 ， 且二種飲食對血壓的影
+響程度相似(72)。 
+美國 DASH 飲食臨床研究 ，412 名參與者被隨機分配進食美國典型
+的對照飲食或 DASH 飲食。在分配的飲食中，參與者連續 30 天以隨機
+順序吃了鈉含量高 （約150 毫莫耳） 、中 （約100 毫莫耳） 、和低 （約50
+毫莫耳） 的食物。結果顯示將鈉攝取量從高水平降低到中等水平，在對
+照飲食中收縮壓降低 2.1 毫米汞柱（P<0.001） 。將鈉的攝取量從中間水
+平降低至較低水平，可進一步降低 4.6 毫米汞柱（P<0.001） 。試驗證明
+將鈉攝取量降低至每天 100 毫莫耳（2300 毫克）以下可以顯著降低血
+壓，且沒有出現缺乏症狀(73)。 
+4. 世界各國建議（表一） 
+WHO(2)、 中國(7)、 韓國(62)、 歐盟(26)和紐澳(63)皆建議成人鈉的攝取一
+天以不超過 2000 毫克（約 5 公克食鹽）為宜。美國成人鈉 CDRR 為
+2300 毫克(1)。 臺灣衛生福利部 「國民飲食指標」(74)與英國(64)則建議每日
+鈉攝取量應限制在 2400 毫克 （約6 公克食鹽） 以下 。日本(58)男性成人
+目標量為少於 7.5 公克食鹽，女性為少於 6.5 公克食鹽。 
+綜合以上所有資訊 ， 顯示健康成人在鈉攝取低於100 毫莫耳時 ， 可以顯著降
+低血壓，高血壓發生率接近於零，且心血管疾病風險較低；100 毫莫耳以上隨著
+攝取量越高，高血壓與心血管疾病風險增加。鈉 100 毫莫耳為 2300 毫克，故建
+議訂定臺灣 19-70 歲健康成人鈉 CDRR 為 2300 毫克（約 6 公克食鹽）。 
+  
+=== p.12 ===
+12 
+ 
+表一、各國鈉之慢性疾病風險降低攝取量與一歲以前之足夠攝取量（毫克/天） 
+年齡 
+臺灣 
+2020 
+WHO 
+2012 
+中國 
+2013 
+日本 
+2020 
+韓國 
+2015 
+美國 
+2019 
+歐盟 
+2019 
+英國 
+2019 
+紐澳 
+2017 
+CDRR (2) 
+PI-
+NCD 
+(7) 
+DG(58) 
+男      女 
+Goal 
+(62) 
+CDRR 
+(1) 
+DRV 
+(26) 
+Maximum 
+(64) 
+STD 
+(63) 
+0-6 月 100 
+（AI）  170 
+（AI） 
+100 
+（AI） 
+120 
+（AI） 
+110 
+（AI）  
+210 
+280 
+（RNI） 
+120 
+（AI） 
+7-12 月 320 
+（AI）  350 
+（AI） 
+600 
+（AI） 
+370 
+（AI） 
+370 
+（AI） 
+200 
+（AI） 
+320 
+350 
+（RNI） 
+170 
+（AI） 
+1-3 歲 1300 
+[3]  - [3] [3]  1200 1100 [2]  
+4-6 歲 1700 
+[4] 
+依熱
+量需
+求推
+算 
+1200 [3.5] [3.5]  1500 1300 [3]  
+7-9 歲 2000 
+[5] 1500 [5] [5]  1500 1700 [5]  
+10-12
+歲 
+2300 
+[6] 
+1900 [6] [6] 
+2000 
+1800 
+2000 
+[6] 
+ 
+13-15
+歲 
+2200 
+[7] 
+[6.5] 2300 
+ 
+16-18
+歲 
+<2000 
+[5] 
+[7.5] 
+ 
+19-30
+歲 
+2000 
+2000 
+31-50
+歲 
+51-70
+歲 1900 
+71 歲- 1800 
+懷孕期 
+2000    
+哺乳期    
+*因各國年齡層分法不同，各年齡層各國建議量取最接近該年齡層之數值。 
+括弧[]內數字為相當之食鹽量（公克/天），每 400 毫克的鈉相當於 1 克的食鹽。 
+AI: Adequate Intake。 
+CDRR: Chronic Disease Risk Reduction Intake。 
+DG: Dietary Goal for preventing life-style related diseases。 
+DRV: Dietary Reference Values。 
+PI-NCD: Proposed intakes for preventing non-communicable chronic disease。 
+RNI: Reference Nutrient Intakes。 
+STD: Suggested Dietary Target。 
+  
+=== p.13 ===
+13 
+ 
+(二) 71 歲以上老人 
+臺灣一項長期食用含鉀減鈉鹽的試驗，以1981名居住於板橋榮民之家的老
+人為對象，提供含鉀減鈉鹽（由49％氯化鈉、49％氯化鉀、和2％其他添加劑組
+成）給2個宿舍廚房使用，另外3個宿舍廚房則繼續使用一般精鹽（由99.6％氯
+化鈉和0.4％其他添加劑組成） ，所有老人都吃一樣的菜，以此進行為期約31個
+月的長期臨床研究。追蹤後發現，使用含鉀減鈉鹽的老人，其心血管疾病死亡
+率顯著降低約40％，不但如此，這些老人的平均餘命約增加了0.3-0.9年，而且
+健保住院花費也明顯減少（約14913元/年） 。這項研究顯示老人從普通鹽改為含
+鉀減鈉鹽，對心血管疾病死亡率和醫療費用具有長期有益的影響，此作用可能
+是由於鉀的大量增加和鈉攝取的適度減少所致(75, 76)。 
+高齡者的鈉敏感性較高，也就是血壓因攝食鈉上升傾向更高；高血壓和使
+用降壓藥的盛行率亦較高(77-80)；此外，隨著年齡增長，高血壓和心血管疾病風
+險也因累積效應而更為增加。從公共衛生的角度來看，由於成年人的CDRR
+（2300毫克/天）已考慮鈉對血壓隨年齡增加的效應，因此沿用至71歲以上老人
+是合適的(1)。但老人如果有高血壓，或許可以考慮更嚴格標準，以緩解血壓的
+控制不良。 
+(三) 懷孕期和哺乳期 
+沒有足夠的證據指出孕婦或哺乳婦需要不同的CDRR(1)，目前世界各國皆未
+特別增加或減少孕乳婦的CDRR（表一） 。因此建議懷孕期和哺乳期使用與同年
+齡層未懷孕或哺乳時相同的CDRR（2300毫克/天）即可。 
+(四) 1-18 歲兒童和青少年 
+隨機對照試驗和前瞻性世代研究的結果，沒有足夠的證據評估兒童和青少
+年鈉的攝取量與血壓之間的關係(1, 60, 81)。雖然沒有足夠的證據以兒童進行的試
+驗建立CDRR，但有證據表明從幼兒期到成年期都有血壓和心血管疾病風險。
+儘管從兒童期開始減少鈉攝取量對長期慢性疾病的益處尚無定論，但鹹味喜好
+的建立從兒時即起，一旦建立難以改變；不為兒童和青少年制定CDRR的風險
+可能超過建立CDRR的風險(1)。 
+在沒有不良反應指標的情況下，WHO建議兒童與青少年CDRR依照熱量需
+要量由成人CDRR值推算(2)。由於調查的飲食攝取量數據存在潛在偏差，因此使
+用DRIs建議熱量代替調查的熱量攝取量。考量兒童與青少年活動量較大很少久
+坐，且2013-2016年臺灣國民營養健康狀況變遷調查顯示各性別年齡層平均熱量
+攝取較為接近DRIs稍低生活活動強度建議熱量(5)，因此此次以DRIs稍低生活活
+=== p.14 ===
+14 
+ 
+動強度建議熱量為推算標準。成人鈉CDRR為2300毫克，DRIs19-70歲所有生活
+活動強度建議熱量平均值約為2000大卡，依此比例以DRIs稍低生活活動強度建
+議熱量推算1-18歲兒童與青少年鈉CDRR（表二）。1-3歲鈉CDRR建議為1300毫
+克（約3公克食鹽），4-6歲鈉CDRR為1700毫克（約4公克食鹽），7-9歲鈉CDRR
+為2000毫克（約5公克食鹽）。10歲以上學童與青少年DRIs建議熱量已接近或大
+於成人，故比照成人鈉CDRR建議為2300毫克（約6公克食鹽）。 
+表二、兒童和青少年鈉 CDRR 推算 
+年齡 
+DRIs稍低生活活動強度 
+建議熱量（大卡） 
+推算
+CDRR  
+鈉 CDRR 建議量 
+男 女 平均 
+鈉 
+（毫克） 
+鈉 
+（毫克） 
+相當食鹽
+量（克） 
+1-3歲 1150 1150 1150 1323 1300 3 
+4-6歲 1550 1400 1475 1696 1700 4 
+7-9歲 1800 1650 1725 1984 2000 5 
+10-12歲 2050 1950 2000 2300 2300 6 
+13-15歲 2400 2050 2225 2559 2300 6 
+16-18歲 2500 1900 2200 2530 2300 6 
+*成人鈉CDRR為2300毫克，DRIs19-70歲所有生活活動強度建議熱量平均值約為2000大卡，依
+此比例以DRIs稍低生活活動強度建議熱量推算兒童與青少年鈉CDRR。每400毫克的鈉相當於1
+克的食鹽。 
+ 
+國人鈉營養狀態 
+一、主要食物來源 
+飲食中鈉的來源可分為三部分 ： 天然食材 、 進食或烹調中添加之鹽或調味料 、
+加工或調味食品；其中天然食材之鈉來源並非食鹽。表三為 2014-2017 年臺灣國
+民營養健康狀況變遷調查 各性別年齡層此三類食物 鈉之攝取量(82)，此研究利用
+24 小時飲食回顧法估計來自飲食中的鈉攝取量，將飲食內容分成包括加工與調
+理食品、天然食材、烹調中或進食中額外添加之鹽、醬油及調味料，計算鈉攝取
+平均值以及佔總攝取量之百分比(82)。結果顯示 18 歲以下兒童與青少年鈉之主要
+食物來源為加工或調味食品（約 47％），進食或烹調中添加之鹽或調味料占比略
+少（約 44％），天然食材占比最少，僅約 8％。19 歲以上成人鈉之主要食物來源
+=== p.15 ===
+15 
+ 
+則以進食或烹調中添加之鹽或調味料占最大比例（成人 51％、老人59％），加工
+或調味食品略低（成人 41％、老人 33％），天然食材仍僅約 8％。國人飲食中鈉
+的來源，隨著年齡增長，鹽與調味料占比增加，加工與調味食品比例下降，天然
+食材則維持在 8％左右。 
+深入分析加工或調味食品部分 ，各年齡層鈉攝取量較高之食物項目依序列於
+表四(82)，結果發現「麥製麵條」在各年齡層幾乎都是鈉攝取量最高的食物項目，
+占所有加工或調味食品鈉攝取量約 10％（麥製麵條中主要以麵線含鈉量較高(83)），
+其次為「土司、各式麵包」，第三為「水餃、餛飩、煎餃、鍋貼」。青少年與 19-
+64 歲成人鈉之其它主要來源為「火腿、香腸、培根、熱狗」和「炸雞、炸雞塊、
+炸雞排」，65 歲以上老人則為「蔬菜乾」與「加工或調味之醃漬蔬菜」 。 
+鈉之食物細項來源變遷狀況，比較 2005-2008 年與 2013-2016 年國民營養健
+康狀況變遷調查資料，19-64 歲成人前六項食物來源順序皆相同 ， 依序為：鹽類 、
+醬油類、其他調味料類、麥類及麵粉類製品、豬肉類及其製品、包子及餃類（表
+五）。 
+2005-2008 年與 2013-2016 年 65 歲以上老人鈉之前四項食物來源相同 ， 依序
+為：鹽類、醬油類、其他調味料類、麥類及麵粉類製品（表六）。2013-2016 年醃
+漬蔬菜類由第六名晉升至第五名 ， 黃豆類及其製品降至第六 。 第七名皆為豬肉類
+及其製品。需特別注意的是老人鹽類鈉攝取量由 885 毫克（占 31.7％）升高至
+1111 毫克（占 38％） ，醬油類鈉攝取量也由 321 毫克（占 11.5％）提升至 426 毫
+克（占 14.5％）。 
+  
+=== p.16 ===
+16 
+ 
+表三、2014-2017 年國人鈉之平均攝取量與食物來源 
+年 齡 含鈉食物 
+攝取來源 
+有效 
+樣本數 
+每人每日平
+均鈉攝取量
+（毫克） 
+每人每日平均
+食鹽攝取量
+（克） 
+占所有含鈉食
+物攝取量百分
+比（％） 
+2 個月-6 歲 
+天然食材  150  0.37  9.1  
+進食或烹調中添加之鹽或調味料   711  1.78  43.1  
+加工或調味食品  789  1.97  47.8  
+總計 1626  1649  4.12  100.0  
+7-12 歲 
+天然食材  254  0.63  8.3  
+進食或烹調中添加之鹽或調味料   1399  3.50  45.5  
+加工或調味食品  1419  3.55  46.2  
+總計 1916  3072  7.68  100.0  
+13-18 歲 
+天然食材  265  0.66  7.8  
+進食或烹調中添加之鹽或調味料   1526  3.81  44.8  
+加工或調味食品  1618  4.05  47.5  
+總計 1748  3409  8.52  100.0  
+19-64 歲 
+天然食材  277  0.69  7.9  
+進食或烹調中添加之鹽或調味料   1783  4.46  50.7  
+加工或調味食品  1458  3.64  41.4  
+總計 3815  3518  8.79  100.0  
+65 歲以上 
+天然食材  236  0.59  8.4  
+進食或烹調中添加之鹽或調味料   1651  4.13  58.8  
+加工或調味食品  918  2.30  32.7  
+總計 1917  2805  7.01  100.0  
+合計 
+（2 個月以
+上全體國人) 
+天然食材  263  0.66  8.0  
+進食或烹調中添加之鹽或調味料   1667  4.17  50.6  
+加工或調味食品  1364  3.41  41.4  
+總計 11022  3294  8.23  100.0  
+*資料來源：2014-2017 年國民營養健康狀況變遷調查(82)。以 24 小時飲食回憶法評估平均每人
+每日鈉攝取量，每 400 毫克的鈉相當於 1 克的食鹽，分析結果經加權調整；其中天然食材之鈉
+來源並非食鹽。 
+  
+=== p.17 ===
+17 
+ 
+ 
+表四、2014-2017 年國人加工或調味食品之鈉攝取狀況 
+含鈉食物攝取量 
+較高項目 
+（排序） 
+每人每日
+平均鈉攝
+取量 
+（毫克） 
+每人每日
+平均食鹽
+攝取量
+（克） 
+占所有加
+工或調味
+食品鈉攝
+取量百分
+比 
+（％） 
+含鈉食物攝取量 
+較高項目 
+（排序） 
+每人每日
+平均鈉攝
+取量 
+（毫克） 
+每人每日
+平均食鹽
+攝取量
+（克） 
+占所有加
+工或調味
+食品鈉攝
+取量百分
+比 
+（％） 
+13-18 歲（樣本數 1748 人） 19-64 歲（樣本數 3815 人） 
+1 土司、各式麵包 162  0.41  10.0  1 麥製麵條 175  0.44  12.0  
+2 麥製麵條 149  0.37  9.2  2 土司、各式麵包 119  0.30  8.2  
+3 火腿、香腸、培
+根、熱狗 118  0.29  7.3  3 水餃、餛飩、煎
+餃、鍋貼 87  0.22  6.0  
+4 水餃、餛飩、煎
+餃、鍋貼 116  0.29  7.2  4 炸雞、炸雞塊、炸
+雞排 83  0.21  5.7  
+5 炸雞、炸雞塊、炸
+雞排 111  0.28  6.8  5 火腿、香腸、培
+根、熱狗 82  0.20  5.6  
+6 蛋餅皮、蔥油餅、
+抓餅、燒餅 97  0.24  6.0  6 速食麵 67  0.17  4.6  
+7 速食麵 79  0.20  4.9  7 蛋餅皮、蔥油餅、
+抓餅、燒餅 66  0.17  4.5  
+8 起司 61  0.15  3.8  8 加工或調味之醃漬
+蔬菜 57  0.14  3.9  
+9 魚漿、海鮮魚漿製
+品 55  0.14  3.4  9 蔬菜乾 52  0.13  3.6  
+10 貢丸、漢堡肉、
+肉羹、肉丸子 50  0.13  3.1  10 魚漿、海鮮魚漿
+製品 46  0.11  3.1  
+其他（前 10 高以外） 619  1.55  38.3  其他（前 10 高以外） 624  1.56  42.8  
+總計 1618  4.05  100.0  總計 1458  3.64  100.0  
+65 歲以上（樣本數 1917 人） 2 個月以上全體國人（樣本數 11022 人） 
+1 麥製麵條 112  0.28  12.2  1 麥製麵條 156  0.39  11.4  
+2 蔬菜乾 78  0.19  8.5  2 土司、各式麵包 112  0.28  8.2  
+3 土司、各式麵包 52  0.13  5.7  3 水餃、餛飩、煎餃、
+鍋貼 84  0.21  6.1  
+4 水餃、餛飩、煎餃、
+鍋貼 46  0.12  5.0  4 火腿、香腸、培根、
+熱狗 75  0.19  5.5  
+5 加工或調味之醃漬
+蔬菜 41  0.10  4.5  5 炸雞 、炸雞塊 、 炸雞
+排 74  0.18  5.4  
+6 豆腐乳 、 味噌 、 豆豉 40  0.10  4.3  6 蛋餅皮 、 蔥油餅 、 抓
+餅、燒餅 62  0.16  4.6  
+7 黃豆製品 、 素食仿肉
+製品 38  0.10  4.2  7 速食麵 58  0.15  4.3  
+8 蛋餅皮 、 蔥油餅 、 抓
+餅、燒餅 35  0.09  3.8  8 蔬菜乾 50  0.12  3.7  
+9 奶粉 、 特殊配方奶粉 34  0.09  3.7  9 加工或調味之醃漬
+蔬菜 49  0.12  3.6  
+10 肉鬆、魚鬆、肉乾
+零食 31  0.08  3.4  10 黃豆製品、素食仿
+肉製品 42  0.10  3.1  
+其他（前 10 高以外） 411  1.03  44.8  其他（前 10 高以外） 602  1.51  44.2  
+總計 918  2.30  100.0  總計 1364  3.41  100.0  
+*資料來源：2014-2017 年國民營養健康狀況變遷調查(82)。以 24 小時飲食回憶法評估平均每人
+每日鈉攝取量，每 400 毫克的鈉相當於 1 克的食鹽，分析結果經加權調整。 
+ 
+ 
+=== p.18 ===
+18 
+ 
+ 
+ 
+表五、19-64 歲成人鈉之食物細項來源變遷狀況 
+2005-2008 2013-2016 
+排
+序 食物細項 攝取量
+（毫克） 
+累積 
+百分比 
+（％） 
+排
+序 食物細項 攝取量
+（毫克） 
+累積 
+百分比 
+（％） 
+1 鹽類 926 23.1 1 鹽類 924 26.1 
+2 醬油類 533 36.4 2 醬油類 565 42.0 
+3 其他調味料類 507 49.1 3 其他調味料類 400 53.3 
+4 麥類及麵粉類製品 302 56.6 4 麥類及麵粉類製品 264 60.7 
+5 豬肉類及其製品 193 61.4 5 豬肉類及其製品 181 65.8 
+6 包子、餃類 154 65.2 6 包子、餃類 141 69.8 
+7 速食麵 151 69.0 7 醃漬蔬菜類 121 73.2 
+*資料來源：2005-2008 與 2013-2016 年國民營養健康狀況變遷調查(4)。 
+ 
+ 
+表六、65 歲以上老人鈉之食物細項來源變遷狀況 
+2005-2008 2013-2016 
+排
+序 食物細項 攝取量
+（毫克） 
+累積 
+百分比 
+（％） 
+排
+序 食物細項 攝取量
+（毫克） 
+累積 
+百分比 
+（％） 
+1 鹽類 885 31.7 1 鹽類 1111 38.0 
+2 醬油類 321 43.2 2 醬油類 426 52.5 
+3 其他調味料類 269 52.9 3 其他調味料類 221 60.1 
+4 麥類及麵粉類製品 252 61.9 4 麥類及麵粉類製品 204 67.1 
+5 黃豆類及其製品 118 66.1 5 醃漬蔬菜類 149 72.2 
+6 醃漬蔬菜類 115 70.3 6 黃豆類及其製品 102 75.6 
+7 豬肉類及其製品 91 73.5 7 豬肉類及其製品 97 79.0 
+*資料來源：2005-2008 與 2013-2016 年國民營養健康狀況變遷調查(4)。 
+ 
+  
+=== p.19 ===
+19 
+ 
+二、攝取量 
+2014-2017 年國人不同性別年齡層鈉之平均攝取量詳見表三與圖一(82)。七歲
+以上國人鈉攝取量皆大於 2300 毫克。男性鈉攝取量皆較同年齡層女性高，隨著
+年齡增長， 鈉攝取量逐漸增加 ，30-64 歲高達 4063 毫克 ，65 歲以後則下降至 3113
+毫克。7-64 歲女性鈉攝取量維持在 3000 毫克左右，65 歲以後雖下降至 2538 毫
+克，但仍高於 2300 毫克。 
+各性別年齡層鈉攝取量變遷狀況如圖二 ， 結果發現歷次營養調查無論學童 、
+成人、或老人鈉攝取量皆大於 2300 毫克。近年來女性鈉攝取量有逐漸下降之趨
+勢，男童與男性老人亦有此現象。成年男性 2014-2017 年鈉攝取量雖較 2005-2008
+年低，卻仍略高於 1993-1996 年。 
+鈉/鉀比值約等於１（莫耳比值）被認為對健康有益(2, 84)。2013-2016 年台灣
+地區 19 歲以上成人鈉之平均攝取量為 3453 毫克，鈉/鉀莫耳比值平均為 2.57，
+皆顯示台灣地區成人鈉攝取較建議高出許多（表七）。 
+孕婦鈉攝取狀況由 2006-2008 年臺灣地區孕婦之飲食攝取及營養現況調查
+結果顯示，第一期孕婦（孕期≦12 週）每天平均攝取鈉約 4500 毫克，第二期孕
+婦 （孕期13-24 週） 約5000 毫克，第三期孕婦 （孕期≧25 週） 約5100 毫克(85)。 
+三、生化營養狀態 
+2013-2016 年臺灣國民營養健康狀況變遷調查各性別年齡層血鈉與尿鈉狀況
+詳見表八(5)。國人血中鈉濃度非常穩定，7-12 歲、13-15 歲、16-18 歲及 19 歲以
+上的平均值皆約為 141 或 142 毫莫耳/公升。 
+國人尿鈉濃度 （資料呈現以尿液肌酸酐進行尿液濃度校正，單位：毫克／分
+升），7-18 歲族群隨著年齡增長呈現減少趨勢，反之，19 歲以上族群則隨著年齡
+增長呈現增加的趨勢。7-18 歲兩性間尿鈉差異不大，男性為 1.54-2.94，女性為
+1.88-3.04；但 19 歲以上則女性之尿鈉高於男性（此亦可能因女性肌酸酐較低） ，
+女性尿鈉平均值為 2.56， 男性為2.06， 以上趨勢可能和不同年齡性別之肌肉量不
+同 ， 以致於尿中肌酸酐濃度不同所致 。若以單次尿液鈉濃度估計國人食鹽之攝取
+量，19 歲以上女性每天攝取約 6.1 公克食鹽，男性約 8.4 公克食鹽（食鹽攝取量
+估計採用 WHO STEPS 架構中單次尿液鈉濃度經公式換算而得(86)）。 
+ 
+=== p.20 ===
+20 
+ 
+ 
+圖一、2014-2017 年不同性別年齡層之鈉平均攝取量 
+*資料來源：2014-2017 年國民營養健康狀況變遷調查(82)。以 24 小時飲食回憶法評估平均每人
+每日鈉攝取量，分析結果經加權調整。 
+ 
+ 
+圖二、不同性別年齡層鈉攝取量之變遷狀況 
+*資料來源：1993-1996、1999-2000、2001-2002、2005-2008、2014-2017 年國民營養健康狀況變
+遷調查，以 24 小時飲食回憶法評估平均每人每日鈉攝取量(3, 4, 87, 88)。 
+ 
+  
+1768 
+3213 
+3693 3808 3844 
+4063 
+3113 
+1524 
+2917 2931 
+3139 3059 3021 
+2538 
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+2個月-6歲 7-12歲 13-15歲 16-18歲 19-29歲 30-64歲 65歲以上
+平均鈉攝取量（毫克/天）
+男 女
+7-12歲
+(2001-
+2002)
+7-12歲
+(2014-
+2017)
+19-64歲
+(1993-
+1996)
+19-64歲
+(2005-
+2008)
+19-64歲
+(2014-
+2017)
+65歲以
+上(1999-
+2000)
+65歲以
+上(2005-
+2008)
+65歲以
+上(2014-
+2017)
+男(毫克/天) 4850 3213 3821 4514 4014 4959 3078 3113
+女(毫克/天) 4480 2917 3569 3519 3029 4177 2513 2538
+0
+1000
+2000
+3000
+4000
+5000
+6000
+平均鈉攝取量（毫克/天）
+2300
+2300 
+1700 
+=== p.21 ===
+21 
+ 
+表七、2013-2016 年國民營養健康變遷狀況調查之各性別年齡層之鈉攝取量 
+*資料來源：2013-2016 年國民營養健康狀況變遷調查。數值均以平均值呈現，分析結果經
+SUDAAN 加權調整 
+ 
+ 
+  
+性別 年齡層 人數 
+鈉           
+(毫克/天) 
+鈉密度(毫克
+/1000 大卡) 
+鈉鉀比 
+(重量比) 
+鈉鉀比   
+(莫耳比) 
+男性 
+2 個月-6 歲 794 1805 1291 1.14 1.94 
+7-12 歲 916 3210 1699 1.65 2.79 
+13-15 歲 459 3632 1671 1.81 3.06 
+16-18 歲 410 3895 1686 1.80 3.06 
+19-50 歲 1204 4197 1788 1.70 2.88 
+51-64 歲 704 3526 1654 1.38 2.35 
+65 歲以上 958 3272 1734 1.42 2.40 
+19 歲以上 2866 3906 1748 1.58 2.68 
+女性 
+2 個月-6 歲 797 1549 1324 1.16 1.96 
+7-12 歲 918 2969 1805 1.70 2.89 
+13-15 歲 462 3030 1840 1.88 3.19 
+16-18 歲 385 3107 1869 1.90 3.22 
+19-50 歲 1212 3190 1910 1.58 2.68 
+51-64 歲 706 2834 1763 1.23 2.09 
+65 歲以上 960 2621 1833 1.28 2.18 
+19 歲以上 2878 3013 1861 1.45 2.46 
+全體 
+2 個月-6 歲 1591 1682 1307 1.15 1.95 
+7-12 歲 1834 3095 1749 1.67 2.84 
+13-15 歲 921 3342 1753 1.84 3.13 
+16-18 歲 795 3513 1775 1.85 3.13 
+19-50 歲 2416 3696 1849 1.64 2.78 
+51-64 歲 1410 3169 1711 1.31 2.21 
+65 歲以上 1918 2925 1787 1.35 2.28 
+19 歲以上 5744 3453 1806 1.51 2.57 
+=== p.22 ===
+22 
+ 
+表八、2013-2016 年國人血鈉和尿鈉濃度 
+性別 年齡層 
+血鈉（毫莫耳/公升） 尿鈉/尿肌酸酐 
+人數 平均值 標準誤 人數 平均值 標準誤 
+男性 
+ 7-12 歲  375 141 0.22  497 2.94 0.11 
+13-15 歲  207 142 0.20  208 1.85 0.09 
+16-18 歲  166 142 0.23  172 1.54 0.08 
+19-44 歲  424 142 0.16  428 1.64 0.06 
+45-64 歲  542 142 0.17  544 2.32 0.08 
+65-74 歲  323 142 0.21  328 2.50 0.09 
+75 歲以上  220 142 0.28  232 3.29 0.26 
+19 歲以上 1509 142 0.13 1532 2.06 0.05 
+女性 
+ 7-12 歲 403 141 0.19 480 3.04 0.12 
+13-15 歲 190 141 0.22 172 1.88 0.09 
+16-18 歲 172 141 0.19 149 1.93 0.12 
+19-44 歲 495 141 0.15 451 2.02 0.06 
+45-64 歲 582 142 0.14 586 2.81 0.08 
+65-74 歲 321 143 0.20 331 3.36 0.11 
+75 歲以上 199 142 0.40 199 3.70 0.20 
+19 歲以上 1597 142 0.13 1567 2.56 0.05 
+全體 
+ 7-12 歲  778 141 0.18  977 2.99 0.09 
+13-15 歲  397 142 0.17  380 1.86 0.06 
+16-18 歲  338 141 0.17  321 1.71 0.07 
+19-44 歲  919 141 0.14  879 1.82 0.05 
+45-64 歲 1124 142 0.13 1130 2.56 0.06 
+65-74 歲  644 142 0.16  659 2.96 0.08 
+75 歲以上  419 142 0.26  431 3.50 0.16 
+19 歲以上 3106 142 0.12 3099 2.30 0.04 
+*資料來源：2013-2016 年國民營養健康狀況變遷調查(5)。分析結果經 SUDAAN 加權調整。 
+  
+=== p.23 ===
+23 
+ 
+過量危害與毒性 
+急性攝取非常大量的鈉可能導致高鈉血症（hypernatremia）或死亡，但這種
+攝取通常僅在極端情況下發生。高鈉血症的定義是血清鈉濃度大於 145 毫莫耳/
+公升，症狀為噁心、嘔吐、頭痛、和發燒等，但不一定會導致死亡。造成高鈉血
+症的原因通常是由於嚴重脫水而不是鈉攝取過多所引起的， 因此高鈉血症不是鈉
+毒性的靈敏指標(1, 34, 89)。 
+有證據指出當以濃縮形式攝 取鈉時可能會產生不利影響 (90, 91)，但目前尚無
+法對鈉 UL 進行定量(1)。 
+一些介入試驗報告 ， 與高鈉相比 ， 在低鈉階段或低鈉人群中頭痛的發生率較
+低(90, 91)，但目前尚無法描述頭痛的類型、嚴重程度、持續時間和發生頻率(1)。 
+截至目前 ，除了慢性疾病風險外 ， 沒有足夠的證據指出高鈉攝取量會引起毒
+理學風險，因此沒有建立鈉的 UL。 
+ 
+參考文獻 
+1. National Academies of Sciences, Engineering, Medicine. Dietary reference 
+intakes for sodium and potassium. In: Stallings V A, Harrison M, Oria M, editors. 
+Washington, DC: The National Academies Press; 2019. p. 8-1~10-70. 
+2. World Health Organization. Guideline: Sodium intake for adults and children. 
+Geneva: World Health Organization; 2012. 
+3. 潘文涵、章雅惠、陳正義、吳幸娟、曾明淑、高美丁. 國民營養健康狀況
+變遷調查 (NAHSIT) 1993-1996：以二十四小時飲食回顧法評估國人膳食營養狀
+況. 中華民國營養學會雜誌. 1999;24:11-39. 
+4. Wu SJ, Pan WH, Yeh NH, Chang HY . Trends in nutrient and dietary intake 
+among adults and the elderly: from NAHSIT 1993-1996 to 2005-2008. Asia Pac J 
+Clin Nutr. 2011;20:251-65. 
+5. 衛生福利部國民健康署. 國民營養健康狀況變遷調查成果報告 2013-2016
+年. https://www.hpa.gov.tw/Pages/List.aspx?nodeid=3998. 2019. 
+6. 行政院衛生署. 國人膳食營養素參考攝取量及其說明（第七版）. 台北市; 
+2012. 
+7. 中國營養學會. 第八章常量元素.  中國居民膳食營養素參考攝入. 北京: 科
+學出版社; 2013. p. 165-215. 
+8. Crichton R. Chapter 1 An Overview of the Role of Metals in Biology.  
+Biological inorganic chemistry : a new introduction to molecular structure and 
+=== p.24 ===
+24 
+ 
+function. 3rd ed. London, United Kingdom: Academic Press; 2019. p. 1-18. 
+9. Da Silva JF, Williams RJP. Chap. 8 Sodium, potassium, and chlorine: osmotic 
+control, electrolytic equilibria, and currents.  The biological chemistry of the 
+elements: the inorganic chemistry of life. 2nd ed. New York: Oxford University Press; 
+2001. p. 206-27. 
+10. Institute of Medicine. Dietary Reference Intakes for water, potassium, sodium, 
+chloride, and sulfate. Washington, DC: The National Academies Press; 2005. 
+11. Institute of Medicine. Dietary Reference Intakes: The essential guide to nutrient 
+requirements. Washington, DC: The National Academies Press; 2006. 
+12. 羅慧珍、劉珍芳、賴春宏、曾明淑. 「國人膳食營養素參考攝取量」第八
+版－碳水化合物. 
+https://www.hpa.gov.tw/Pages/ashx/File.ashx?FilePath=~/File/Attach/12285/File_139
+29.pdf. In: 衛生福利部國民健康署, editor. 臺北市: 衛生福利部國民健康署; 
+2020. 
+13. Holbrook JT, Patterson KY , Bodner JE, Douglas LW, Veillon C, Kelsay JL, et al. 
+Sodium and potassium intake and balance in adults consuming self-selected diets. Am 
+J Clin Nutr. 1984;40:786-93. 
+14. Kodama N, Morikuni E, Matsuzaki N, Yoshioka YH, Takeyama H, Yamada H, et 
+al. Sodium and potassium balances in Japanese young adults. J Nutr Sci Vitaminol. 
+2005;51:161-8. 
+15. Luft FC, Rankin LI, Henry DP, Bloch R, Grim CE, Weyman AE, et al. Plasma 
+and urinary norepinephrine values at extremes of sodium intake in normal man. 
+Hypertension. 1979;1:261-6. 
+16. Lucko AM, Doktorchik C, Woodward M, Cogswell M, Neal B, Rabi D, et al. 
+Percentage of ingested sodium excreted in 24-hour urine collections: A systematic 
+review and meta-analysis. J Clin Hypertens. 2018;20:1220-9. 
+17. Schachter J, Harper PH, Radin ME, Caggiula AW, McDonald RH, Diven WF. 
+Comparison of sodium and potassium intake with excretion. Hypertension. 
+1980;2:695-9. 
+18. Dole VP, Dahl LK, Cotzias GC, Eder HA, Krebs ME. Dietary treatment of 
+hypertension; clinical and metabolic studies of patients on the rice-fruit diet. J Clin 
+Invest. 1950;29:1189-206. 
+19. Greger R. Physiology of renal sodium transport. Am J Med Sci. 2000;319:51-62. 
+20. Sata Y , Head GA, Denton K, May CN, Schlaich MP. Role of the Sympathetic 
+Nervous System and Its Modulation in Renal Hypertension. Front Med. 2018;5:82. 
+21. Allsopp AJ, Sutherland R, Wood P, Wootton SA. The effect of sodium balance on 
+sweat sodium secretion and plasma aldosterone concentration. Eur J Appl Physiol 
+Occup Physiol. 1998;78:516-21. 
+=== p.25 ===
+25 
+ 
+22. Heer M, Baisch F, Kropp J, Gerzer R, Drummer C. High dietary sodium chloride 
+consumption may not induce body fluid retention in humans. Am J Physiol Renal 
+Physiol. 2000;278:F585-95. 
+23. Palacios C, Wigertz K, Martin BR, Jackman L, Pratt JH, Peacock M, et al. 
+Sodium retention in black and white female adolescents in response to salt intake. J 
+Clin Endocrinol Metab. 2004;89:1858-63. 
+24. Dahl LK. Salt intake and salt need. N Engl J Med. 1958;258:1152-7 contd. 
+25. Dahl LK, Stall BG, Cotzias GC. Metabolic effects of marked sodium restriction 
+in hypertensive patients: Skin electrolyte loss. J Clin Invest. 1955;34:462-70. 
+26. EFSA Panel on Dietetic Products, Nutrition and Allergies. Scientific opinion on 
+dietary reference values for sodium. EFSA Journal. 2019;17:5778, 191 pp. 
+27. Titze J. A different view on sodium balance. Curr Opin Nephrol Hypertens. 
+2015;24:14-20. 
+28. Rakova N, Jüttner K, Dahlmann A, Schröder A, Linz P, Kopp C, et al. Long-term 
+space flight simulation reveals infradian rhythmicity in human Na(+) balance. Cell 
+Metab. 2013;17:125-31. 
+29. Kopp C, Linz P, Dahlmann A, Hammon M, Jantsch J, Müller DN, et al. 23Na 
+magnetic resonance imaging-determined tissue sodium in healthy subjects and 
+hypertensive patients. Hypertension. 2013;61:635-40. 
+30. Consolazio CF, Matoush LO, Nelson RA, Harding RS, Canham JE. Excretion of 
+sodium, potassium, magnesium and iron in human sweat and the relation of each to 
+balance and requirements. J Nutr. 1963;79:407-15. 
+31. Nishimuta M, Kodama N, Shimada M, Yoshitake Y , Matsuzaki N, Morikuni E. 
+Estimated equilibrated dietary intakes for nine minerals (Na, K, Ca, Mg, P, Fe, Zn, 
+Cu, and Mn) adjusted by mineral balance medians in young Japanese females. J Nutr 
+Sci Vitaminol. 2012;58:118-28. 
+32. Kempner W. Treatment of hypertensive vascular disease with rice diet. Am J 
+Med. 1948;4:545-77. 
+33. Oliver WJ, Cohen EL, Neel JV . Blood pressure, sodium intake, and sodium 
+related hormones in the Yanomamo Indians, a "no-salt" culture. Circulation. 
+1975;52:146-51. 
+34. Sterns RH. Disorders of plasma sodium--causes, consequences, and correction. 
+N Engl J Med. 2015;372:55-65. 
+35. Kawasaki T, Itoh K, Uezono K, Sasaki H. A simple method for estimating 24 h 
+urinary sodium and potassium excretion from second morning voiding urine specimen 
+in adults. Clin Exp Pharmacol Physiol. 1993;20:7-14. 
+36. Tanaka T, Okamura T, Miura K, Kadowaki T, Ueshima H, Nakagawa H, et al. A 
+simple method to estimate populational 24-h urinary sodium and potassium excretion 
+=== p.26 ===
+26 
+ 
+using a casual urine specimen. J Hum Hypertens. 2002;16:97-103. 
+37. Chien KL, Hsu HC, Chen PC, Su TC, Chang WT, Chen MF, et al. Urinary 
+sodium and potassium excretion and risk of hypertension in Chinese: report from a 
+community-based cohort study in Taiwan. J Hypertens. 2008;26:1750-6. 
+38. Liddle GW, Bennett LL, Forsham PH. The prevention of ACTH-induced sodium 
+retention by the use of potassium salts: a quantitative study. J Clin Invest. 
+1953;32:1197-207. 
+39. van Buren M, Rabelink TJ, van Rijn HJ, Koomans HA. Effects of acute NaCl, 
+KCl and KHCO3 loads on renal electrolyte excretion in humans. Clin Sci. 
+1992;83:567-74. 
+40. Khaw KT, Barrett-Connor E. The association between blood pressure, age, and 
+dietary sodium and potassium: a population study. Circulation. 1988;77:53-61. 
+41. Brunette MG, Mailloux J, Lajeunesse D. Calcium transport through the luminal 
+membrane of the distal tubule. I. Interrelationship with sodium. Kidney Int. 
+1992;41:281-8. 
+42. Vander AJ. Direct effects of potassium on renin secretion and renal function. Am 
+J Physiol. 1970;219:455-9. 
+43. Young DB, McCaa RE, Pan YJ, Guyton AC. The natriuretic and hypotensive 
+effects of potassium. Circ Res. 1976;38:84-9. 
+44. Wu L, Luthringer BJC, Feyerabend F, Zhang Z, Machens HG, Maeda M, et al. 
+Increased levels of sodium chloride directly increase osteoclastic differentiation and 
+resorption in mice and men. Osteoporos Int. 2017;28:3215-28. 
+45. Breslau NA, McGuire JL, Zerwekh JE, Pak CY . The role of dietary sodium on 
+renal excretion and intestinal absorption of calcium and on vitamin D metabolism. J 
+Clin Endocrinol Metab. 1982;55:369-73. 
+46. Castenmiller JJ, Mensink RP, van der Heijden L, Kouwenhoven T, Hautvast JG, 
+de Leeuw PW, et al. The effect of dietary sodium on urinary calcium and potassium 
+excretion in normotensive men with different calcium intakes. Am J Clin Nutr. 
+1985;41:52-60. 
+47. McCarron DA, Rankin LI, Bennett WM, Krutzik S, McClung MR, Luft FC. 
+Urinary calcium excretion at extremes of sodium intake in normal man. Am J 
+Nephrol. 1981;1:84-90. 
+48. Lin PH, Ginty F, Appel LJ, Aickin M, Bohannon A, Garnero P, et al. The DASH 
+diet and sodium reduction improve markers of bone turnover and calcium metabolism 
+in adults. J Nutr. 2003;133:3130-6. 
+49. Cappuccio FP, Markandu ND, Beynon GW, Shore AC, MacGregor GA. Effect of 
+increasing calcium intake on urinary sodium excretion in normotensive subjects. Clin 
+Sci. 1986;71:453-6. 
+=== p.27 ===
+27 
+ 
+50. Weinberger MH, Wagner UL, Fineberg NS. The blood pressure effects of 
+calcium supplementation in humans of known sodium responsiveness. Am J 
+Hypertens. 1993;6:799-805. 
+51. Murtaugh MA, Beasley JM, Appel LJ, Guenther PM, McFadden M, Greene T, et 
+al. Relationship of sodium intake and blood pressure varies with energy intake: 
+secondary analysis of the DASH (dietary approaches to stop hypertension)-sodium 
+trial. Hypertension. 2018;71:858-65. 
+52. Chen J. Sodium sensitivity of blood pressure in Chinese populations. Curr 
+Hypertens Rep. 2010;12:127-34. 
+53. Zhang X, Frame AA, Williams JS, Wainford RD. GNAI2 polymorphic variance 
+associates with salt sensitivity of blood pressure in the Genetic Epidemiology 
+Network of Salt Sensitivity study. Physiol Genomics. 2018;50:724-5. 
+54. Kriemler S, Wilk B, Schurer W, Wilson WM, Bar-Or O. Preventing dehydration 
+in children with cystic fibrosis who exercise in the heat. Med Sci Sports Exerc. 
+1999;31:774-9. 
+55. 蘇郁芬、盧立卿、林家慧、謝武勳、方麗容. 評估台灣嬰兒六個月前母乳
+攝取量及營養狀態之研究. 2009. p. 11-21. 
+56. 盧立卿、李芳靚、陳秀瑩、方麗容、江忻蓉. 台灣母乳哺餵嬰兒一至十二
+個月秤重試驗及營養素攝取量之研究. 2011. p. 87-98. 
+57. U.S. Department of Agriculture. Food data central.  2020  [cited; Available 
+from: https://fdc.nal.usda.gov/index.html 
+58. Ministry of Health, Labour and Welfare. Dietary Reference Intakes for Japanese.  
+2020  [cited; Available from: 
+https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/syokuji
+_kijyun.html 
+59. 吳佩芯. 臺灣嬰幼兒體位與營養狀況之探討. 新北市: 輔仁大學; 2012. 
+60. Newberry SJ, Chung M, Anderson CAM, Chen C, Fu Z, Tang A, et al. AHRQ 
+comparative effectiveness reviews.  So dium and Potassium Intake: Effects on 
+Chronic Disease Outcomes and Risks. Rockville (MD): Agency for Healthcare 
+Research and Quality (US); 2018. 
+61. World Health Organization. Healthy diet.  2020  [cited 2020 25 June]; 
+Available from: https://www.who.int/en/news-room/fact-sheets/detail/healthy-diet 
+62. Ministry of Health and Welfare, The Korean Nutrition Society. Dietary reference 
+intakes for Koreans 2015.  2015  [cited; Availa ble from: 
+http://kns.or.kr/English/Publication.asp 
+63. Australian Government Department of Health. Nutrient reference values for 
+Australia and New Zealand.  2017  [cited 2020 1 July]; Available from:  
+https://www.nrv.gov.au/home 
+=== p.28 ===
+28 
+ 
+64. British Nutrition Foundation. Nutrition requirements.  2019  [cited; Available 
+from: https://www.foodafactoflife.org.uk/media/1781/drv-factsheet-i-316.pdf 
+65. Cook NR, Appel LJ, Whelton PK. Sodium intake and all-cause mortality over 20 
+years in the trials of hypertension prevention. 2016;68:1609-17. 
+66. Cook NR, Appel LJ, Whelton PK. Lower levels of sodium intake and reduced 
+cardiovascular risk. Circulation. 2014;129:981-9. 
+67. Intersalt Cooperative Research Group. Intersalt: an international study of 
+electrolyte excretion and blood pressure. Results for 24 hour urinary sodium and 
+potassium excretion. Bmj. 1988;297:319-28. 
+68. Stamler J. The INTERSALT Study: background, methods, findings, and 
+implications. Am J Clin Nutr. 1997;65:626s-42s. 
+69. Carvalho JJ, Baruzzi RG, Howard PF, Poulter N, Alpers MP, Franco LJ, et al. 
+Blood pressure in four remote populations in the INTERSALT Study. Hypertension. 
+1989;14:238-46. 
+70. Mente A, O'Donnell MJ, Rangarajan S, McQueen MJ, Poirier P, Wielgosz A, et 
+al. Association of urinary sodium and potassium excretion with blood pressure. N 
+Engl J Med. 2014;371:601-11. 
+71. Pan WH, Tseng WP, You FJ, Tai Y , Chou J. Positive relationship between urinary 
+sodium chloride and blood pressure in Chinese health examinees and its association 
+with calcium excretion. J Hypertens. 1990;8:873-8. 
+72. 姜小敏. 針對高血壓患者進行逐步減鹽和使用低鈉鹽之研究--影響血壓機制
+之探討. 台北市: 文化大學; 1994. p. 145. 
+73. Sacks FM, Svetkey LP, V ollmer WM, Appel LJ, Bray GA, Harsha D, et al. 
+Effects on blood pressure of reduced dietary sodium and the Dietary Approaches to 
+Stop Hypertension (DASH) diet. DASH-Sodium Collaborative Research Group. N 
+Engl J Med. 2001;344:3-10. 
+74. 衛生福利部國民健康署. 國民飲食指標手冊. 台北市; 2018. 
+75. 潘文涵. 含鉀減鈉鹽：設計之初衷與輻射爭議. ILSI Taiwan. 2018;4:2. 
+76. Chang H-Y , Hu Y-W, Yue C-SJ, Wen Y-W, Yeh W-T, Hsu L-S, et al. Effect of 
+potassium-enriched salt on cardiovascular mortality and medical expenses of elderly 
+men. Am J Clin Nutr. 2006;83:1289-96. 
+77. Carson AP, Howard G, Burke GL, Shea S, Levitan EB, Muntner P. Ethnic 
+differences in hypertension incidence among middle-aged and older adults: the multi-
+ethnic study of atherosclerosis. Hypertension. 2011;57:1101-7. 
+78. Fang J, Gillespie C, Ayala C, Loustalot F. Prevalence of self-reported 
+hypertension and antihypertensive medication use among adults aged >/=18 years - 
+United States, 2011-2015. MMWR Morb Mortal Wkly Rep. 2018;67:219-24. 
+79. Fryar CD, Ostchega Y , Hales CM, Zhang G, Kruszon-Moran D. Hypertension 
+=== p.29 ===
+29 
+ 
+prevalence and control among adults: United States, 2015-2016. NCHS Data Brief. 
+2017::1-8. 
+80. Gu Q, Burt VL, Dillon CF, Yoon S. Trends in antihypertensive medication use 
+and blood pressure control among United States adults with hypertension: the 
+National Health And Nutrition Examination Survey, 2001 to 2010. Circulation. 
+2012;126:2105-14. 
+81. Setayeshgar S, Ekwaru JP, Maximova K, Majumdar SR, Storey KE, McGavock 
+J, et al. Dietary intake and prospective changes in cardiometabolic risk factors in 
+children and youth. Appl Physiol Nutr Metab. 2017;42:39-45. 
+82. 洪淑怡. 國人鈉攝取量與食物來源：國民營養健康狀況變遷調查 2014-2017. 
+台北市: 2020 年公共衛生聯合年會; 2020. 
+83. 衛生福利部食品藥物管理署. 台灣食品成分資料庫 2019 版. 
+https://consumer.fda.gov.tw/Files/other/%E5%8F%B0%E7%81%A3%E9%A3%9F%
+E5%93%81%E6%88%90%E5%88%86%E8%B3%87%E6%96%99%E5%BA%AB2
+019%E7%89%88(UPDATE1)1090401.xlsx. 
+84. World Health Organization. Diet, nutrition and the prevention of chronic 
+diseases: report of a joint WHO/FAO expert consultation. Geneva: World Health 
+Organization; 2003. 
+85. 蕭寧馨、林佳蓉、駱菲莉、王瑞蓮. 2006-2008 臺灣地區孕婦之飲食攝取及
+營養現況調查研究報告. 行政院衛生署; 2008. 
+86. World Health Organization. WHO STEPS surveillance manual.  2017  [cited; 
+Available from: 
+https://www.who.int/ncds/surveillance/steps/STEPS_Manual.pdf?ua=1 
+87. Wu SJ, Chang YH, Wei IL, Kao MD, Lin YC, Pan WH. Intake levels and major 
+food sources of energy and nutrients in the Taiwanese elderly. Asia Pac J Clin Nutr. 
+2005;14:211-20. 
+88. Wu SJ, Pan WH, Yeh NH, Chang HY . Dietary nutrient intake and major food 
+sources: the nutrition and health survey of Taiwan elementary school children 2001-
+2002. Asia Pac J Clin Nutr. 2007;16 Suppl 2:518-33. 
+89. Adrogue HJ, Madias NE. Hypernatremia. N Engl J Med. 2000;342:1493-9. 
+90. Todd AS, Macginley RJ, Schollum JB, Johnson RJ, Williams SM, Sutherland 
+WH, et al. Dietary salt loading impairs arterial vascular reactivity. Am J Clin Nutr. 
+2010;91:557-64. 
+91. Todd AS, Macginley RJ, Schollum JB, Williams SM, Sutherland WH, Mann JI, 
+et al. Dietary sodium loading in normotensive healthy volunteers does not increase 
+arterial vascular reactivity or blood pressure. Nephrology. 2012;17:249-56. 
+ 

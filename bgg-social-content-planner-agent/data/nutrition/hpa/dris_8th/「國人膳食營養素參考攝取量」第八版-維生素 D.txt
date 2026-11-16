@@ -1,0 +1,965 @@
+# 「國人膳食營養素參考攝取量」第八版-維生素 D.pdf
+# 來源：國民健康署（本機副本 tw_hpa/dris_8th）
+
+=== p.1 ===
+1 
+ 
+維生素 D 
+李美璇、駱菲莉、林以勤  
+前言  
+McCollum 及他的同事在 1922 年以加熱及氧化過後的鱈魚肝油治癒老鼠的佝僂 
+症，從而發現這個與骨質健康有關的營養素。之後，更多的科學家投入研究工 
+作，瞭解維生素 D 與陽光曝曬及膽固醇的關係及箇中機轉。Windaus 、Rosenheim 
+及 Hess 三人，因此榮獲 1928 年的諾貝爾化學獎  (1) 。有人因無法合成足夠的量，
+故維生素 D 被定義為一種營養素。 
+營養生化生理功能  
+一、理化性質  
+維生素 D 為脂溶性，又名促鈣醇  (calciferol) ，主要為 D2 (麥角沉鈣醇，
+ergocalciferol) 與 D3 (膽促鈣醇，cholecalciferol) 兩種，是所有具 D3 生物活性的固醇 
+類物質的統稱，在自然界僅少數食物含有 (2) 。脊椎動物的皮膚經由紫外光 UVB 照
+射，存於皮下的 7-脫氫膽固醇  (7-dehydrocholesterol) 的 B 環可被光解，轉化為維生 
+素 D3 (3) 。若日照時間充足 (如位於南北緯 32 度之間的地區 )，正常情況下可供人體 
+所需維生素 D 量的 10- 80% (4) 。維生素 D2 是植物中的麥角固醇  (ergosterol) 經由日 
+光活化而來  (2, 4) 。二者主要代謝途徑相似，在人體中 D2 與 D3均能促進鈣質吸收，
+但 D3 利用率較佳  (5) 。具生物活性的維生素 D 其 C-1 與 C-17 的支鏈上 C25 位置必 
+須被羥化，形成 1,25-dihydroxyvitamin D ( 以下簡稱 1,25(OH) 2D) 才能發揮生理功能  
+(6) 。 
+維生素 D 是黃白色的粉末，不溶於水，略溶於油脂與乙醇，易溶於丙酮、乙
+醚、石油醚，對氧氣、光線與碘十分敏感，其活性會因加熱或微酸環境而喪失  (6) 。
+食物與補充劑之維生素 D 含量以「國際單位」(international units ，IU) 或微克  (μg) 
+表示。在以大鼠或雞進行之生物評估法中所發揮之功用， 1 IU 相當於 0.005 μg 之
+25-hydroxyvitamin D ( 以下簡稱 25OHD) ；而 1 μg 的 cholecalciferol 之生物活性相當 
+於 40 IU 。血清濃度 2.5 nmol/L 相當於 1 ng/mL 。 
+二、營養生化功能  
+維生素 D 在人體的角色類似固醇類荷爾蒙，透過專一的維生素 D 受體  (vitamin 
+D receptor ，VDR) ，由其活化型式 1,25(OH) 2D 執行，主要功能為促進飲食鈣磷之吸 
+收以及造骨。活化型維生素 D 藉促進腸道自十二指腸及空腸吸收飲食鈣與在小腸各 
+處吸收磷之效率，調控血清鈣磷濃度於正常範圍  (7) ，維持骨骼與牙齒的健康。當血 
+清鈣離子濃度降低時，維生素 D 與副甲狀腺素  (parathyroid hormone, PTH) 一起動員 
+骨髓之單核幹細胞成為成熟的蝕骨細胞，再經多種細胞激素及其他因子之刺激，增
+加骨骼鈣之釋放  (8, 9) 。若沒有維生素 D，膳食鈣僅有 10-15% 的能被吸收，膳食磷則 
+約為 60% 。在 1,25(OH) 2D 與 VDR 的交互作用下，小腸吸收鈣的效率可增加至 30-
+40% ，磷則達到將近 80% (10) 。生理濃度之 1,25(OH) 2D 可透過促進骨吸收與骨重塑，
+=== p.2 ===
+2 
+ 
+增進造骨作用及骨礦物質化。 
+維生素 D 除了影響骨骼健康外，人體有超過 30 種組織有 VDR ，因此其作用應 
+該不僅止於骨骼  (11) 。維生素 D 與免疫功能、細胞增生、細胞分化及凋亡的調控有 
+關，可能可以降低癌症、多發性硬化症、第 1 及第 2 型糖尿病、缺血性心臟病等疾 
+病的危險，並增進各年齡層的整體健康  (12, 13) 。 
+三、生理吸收代謝 、個體存量與排泄  
+(一) 吸收  
+食物中的維生素 D 藉膽汁的協助，在小腸以被動擴散方式吸收後，併入乳糜微 
+粒，由淋巴系統運送，吸收率約在 80% 以上  (6, 8) 。維生素 D 主要由膽汁排除，少部 
+份由小腸經過腸肝循環再吸收；但腸肝循環並非保留維生素 D 的主要機制  (14) 。 
+ 
+(二) 分佈  
+維生素 D 普遍分佈於人體各組織的脂肪成分，因此脂肪含量高的組織  (如脂肪 
+組織 ) 之維生素 D 濃度較高；肝臟為維生素 D 的代謝處而非儲存處。人體血液循環 
+中的 25-hydroxyvitamin D ( 以下簡稱 25OHD) 之半生期，僅為 10 天至 3 週，很快便 
+儲存於脂肪組織或由肝臟代謝  (15) 。 
+ 
+(三) 代謝  
+皮膚製造或自飲食吸收的維生素 D 經血液循環在肝臟停留數小時，於其粒線體 
+中進行 C25 之羥化作用，產物 25OHD 被釋放至血液循環  (16) 。因此血液中 25OHD 
+之濃度是反映皮膚製造、飲食與補充劑攝取共同結果的良好指標  (8) 。肝臟的 
+vitamin D-25-hydroxylase 活性由維生素 D 及其代謝產物調控。日曬或攝食維生素 D
+後，肝臟之維生素 D 累積增加，會適度反映於血液循環之 25OHD 濃度  (17) 。在一般 
+生理狀況下，25OHD 之生物活性不高，但治療佝僂症時，投予 25OHD 對刺激腸道 
+鈣磷吸收與骨鈣釋放的效力約為維生素 D 的 2-5 倍 (16) 。 
+25OHD 在腎臟經 C1 羥化後，被活化為具生理活性的 1,25(OH) 2D (18) ，腎臟活 
+化維生素 D 之速率由 PTH 隨血液鈣磷濃度嚴密調控  (7, 16) 。因 1,25(OH) 2D 之半生期 
+僅 4~6 小時，所以不是評估維生素 D 營養狀況的理想指標  (19) 。 
+(四) 排泄  
+1,25(OH) 2D 可促進 calcitriol 24-hydroxylase 之表現，使 25OHD 與 1,25(OH) 2D
+經過 C24 羥化後，分別產生 24,25(OH) 2D 與 1,24,25(OH) 3D，最後被此酶繼續氧化 
+為較具水溶性之代謝產物  (如：calcitroic acid) ，由尿液排除  (6) 。 
+四、維生素 D 來源  
+(一) 陽光  
+皮 膚 經 陽 光 照 射 之 合 成 是 人 類 主 要 的 維 生 素 D 來 源 。 皮 膚 的 7-
+dehydrocholesterol 吸收 UVB 光子  (290~315 nm) 的能量，形成打開一環狀結構的 
+previtamin D 3。皮膚製造維生素 D 的量很難精確測量。估計人體皮膚合成維生素 D
+的量可達 6 IU vit D/cm 2/hr 。一個 minimal erythemal dose (MED) 相當於 10000-25000 
+IU 的口服維生素 D。對白皮膚的人，在夏季午間，4-10 分鐘日曬便足以在人體產 
+=== p.3 ===
+3 
+ 
+生 1 個 MED 的維生素 D；膚色較深者，曝曬時間則需要延長。一個澳洲的研究建 
+議，未塗抹防曬品的情況下，於上午 10 點到下午 3 點日照較強的時段，每週 3-4 次
+將臉部、手臂及手日曬 10-15 分鐘，即可獲得足夠的維生素 D (20) 。在緯度高的地 
+區，冬天若只露出臉頰，約需日曬 2 小時以上，才可得到足夠的維生素 D  (21, 22) 。
+過度陽光曝曬會造成維生素 D 及維生素 D 先質的光分解作用，以防維生素 D 中毒 
+之產生  (8) 。 
+限制皮膚維生素 D生成的因素包括：皮膚黑色素的沉積量、防曬劑的使用。這
+些因素會吸收 UVB 光子，而降低皮膚維生素 D 的產量  (23) 。此外，陽光強度、日曬 
+的時間、季節，亦是影響因素。在南、北緯 40 度以上，冬季長達三、四個月，皮
+膚自製的維生素 D 量很有限  (24) 。緯度更高的區域，冬季可長達 6 個月，更須注意 
+飲食中維生素 D 的攝取。 
+ 
+(二) 食物來源  
+天然界含維生素 D 的食物種類不多，僅如：魚肝油、高油脂魚肉  (5-15 μg 或 
+200-600 IU/100 g) 、海洋動物的肝臟、餵予維生素 D 的雞所產的蛋、及經過 UVB 照
+射過的菇蕈類  (25) 。 
+美國北部及加拿大因有緯度高冬季長的顧慮，故有於牛奶中強化維生素 D 的政 
+策，強化維生素 D 的乳製品成為該地區重要的維生素 D 食物來源。不論牛奶的脂 
+質含量為何，強化量均應為 10 μg (400 IU)/quart 或 9.6 μg (385 IU)/L 。然而美、加的 
+調查顯示：約有 70% 的牛奶維生素 D 含量不在 8-12 μg (320-480 IU)/quart 的標示範 
+圍 (20% 誤差容許範圍 )；62% 的各類牛奶維生素 D 含量低於 8 μg (320 IU)/quart ；
+14% 的脫脂奶之維生素 D 含量無法測得；美國的 FDA 規定嬰兒配方奶中的維生素 
+D 含量 40-100 IU/100 Kcal ，一般產品約為 60 IU/100 Kcal (13, 26, 27) 。黎巴嫩的國民維 
+生素 D 來源為奶類、肉類、魚、蛋及甜味劑  (28) 。 
+維生素 D 需要量評估與營養缺乏症  
+一、維生素 D 缺乏症  
+維生素 D 缺乏造成的骨骼礦物質化不足，在嬰幼兒為佝僂症，成人則為骨軟化 
+症 (2, 4) 。美國 Institute of Medicine (IOM) 之 Food and Nutrition Board 於 2011 年發表 
+的維生素 D 的建議攝取量，以維持骨骼健康為指標而修訂  (13) 。維生素 D 還被認為 
+可能與免疫功能、糖尿病、癌症、心血管疾病、衰弱、肌少症、氣喘等各式各樣生 
+理健康議題有關  (10, 11, 13, 29-37) ，甚至包括憂鬱症  (38) 。儘管如此，除了維生素 D 與骨 
+骼健康的關係被確認外，其餘的關係均缺乏強而有力的證據支持。 
+維生素 D 缺乏會導致血液鈣與磷的濃度下降，進而使 PTH 分泌增加、血清鹼 
+性磷酸酶濃度上升  (13) 。PTH 濃度上升會促進骨骼組織的破壞，釋放其中的鈣，以
+維持血鈣濃度，尿液中排出的骨骼膠原蛋白代謝產物  (如：hydroxyproline 、
+pyridinoline 、deoxypyridinoline 、N-telopeptide) 之濃度隨之上升  (39) 。 
+二、生化 /功能性指標  
+血液中的 25OHD 濃度不僅反映飲食及維生素 D 補充劑攝取量，更大幅受陽光 
+=== p.4 ===
+4 
+ 
+曝曬量影響。美國的 IOM 模擬文獻中的數據，排除陽光曝曬的影響，建立飲食維 
+生素 D 與血液 25OHD 的關係為：25OHD (nmol/L) = 9.9 ln ( 總維生素 D 攝取量  IU/d) ，
+搭配維持骨骼健康的目標 25OHD 濃度  (40-50 nmol/L) ，獲得估計平均需要量  
+(Estimated Average Requirement, EAR) ，再據以算出 RDA (Recommended Dietary 
+Allowance) 。這個模式涵蓋嬰兒以外的所有年齡層，且沒有年齡效應。因此，一歲 
+內的嬰兒除外，他們建議北美洲的人，在最低陽光暴露  (minimal sun exposure) 及鈣 
+攝取充足的情況下，其 EAR 為 10 μg (400 IU) ，71 歲及以上的老人則建議每日最多 
+可攝取  20 μg (800 IU) ；其 RDA ，分別為每天 15 及 20 μg (600 及 800 IU) (13) 。 
+ 
+(一) 需要量之研究方法  
+血清 25OHD 濃度代表內源與外源  (飲食與補充劑 ) 維生素 D 之總和，是評估維 
+生素 D 營養狀況較可靠的生化指標  (6) 。美國 2011 年 IOM 考慮以下項目，決定血清 
+25OHD 濃度與骨骼健康的關係，進而推斷維生素 D 的需要量  (13) 。 
+1.  鈣吸收：促進鈣質吸收是維生素 D 的主要角色。血清維生素 D 濃度達 30-50 
+nmol/L 時，會極大化孩童及成人的鈣質吸收；超過 50 nmol/L 則沒有額外的益處。 
+2.  佝僂症：在鈣攝取充足的情況下，25OHD 濃度低於 30 nmol/L 時，佝僂症的風險 
+開始上升；在 30-50 nmol/L 這個濃度範圍時，風險最低。若鈣不足，補充維生素 
+D 雖會將 25OHD 濃度推升至 75 nmol/L ，但對佝僂症並沒有效用。 
+3.  骨折風險  ( 成人的隨機分派控制試驗 )：歸納結果，適當的血清濃度為 40-50 
+nmol/L 。然而這類研究通常使用較大劑量。 
+4.  骨折風險  (成人的觀察性研究 )：低於 40 nmol/L 會提高老年男性骨折風險。若低 
+於 50 nmol/L ，男性會有後續的較高股骨流失率；但若超過這個值，並沒有更多 
+益處，指出應讓最大的族群其濃度達 50 mmol/L 。也有研究提出當濃度高至 60-
+70 nmol/L 時，髖骨骨折的風險最低，若高於此值，則風險上升，雖然並不顯著。  
+5.  骨軟化症  (死後解剖的觀察性研究 )：建議至少 97.5% 的族群能達 50 nmol/L 。 
+  
+經過一連串的文獻查證及模擬後，IOM 認為血清 25OHD 濃度 30-50 nmol/L 為
+制訂 EAR 及 RDA 的目標濃度。並沒有足夠的證據支持高於 75 nmol/L 為最適當的 
+濃度；若低於 30 nmol/L ，則會提高各年齡層骨骼不健康的風險。且對任何年齡層，
+血清 25OHD 濃度高於 50 nmol/L ，對骨骼健康沒有更多益處。 
+血清 PTH 濃度與 25OHD 濃度成反比，當評估維生素 D 的營養狀況時，結合兩 
+者評估新生兒與兒童骨骼發展狀況、佝僂症之防範，或在成人的骨骼礦物質含量  
+(bone mineral content ，BMC) 、骨礦物質密度  (bone mineral density ，BMD) 、骨折的 
+危險性，均為有價值的參考證據。 
+ 
+(二) 影響需要量的因素  
+由於健康的人體的皮膚有相當好的自製維生素 D 能力，除非主動或被動的避開 
+陽光曝曬，只有特定人口群之維生素 D 之需要量必須特別留意。其一為老年人：老
+化使人體皮膚製造維生素 D 的能力降低  (40) 。六十五歲的老人之維生素 D 製造能力 
+約為二、三十歲者之 20% (41, 42) 。其二為患有吸收不良之症狀者，如：嚴重肝臟衰 
+竭、Crohn ’s disease 、Whipple ’s disease 、熱帶口瘡等疾病患者，因無法吸收維生素 D
+=== p.5 ===
+5 
+ 
+而須補充  (43) 。 
+ 
+維生素 D 參考攝取量  
+臺灣地處亞熱帶  (北緯 22-25 度)，然而並非天天有陽光，尤其是北部。2016 年，
+臺灣北部平均每日日照時間為 3.74 小時，但一年中有六個月平均每日不及 3 小時，
+一月份更只有 0.91 小時。反之，南部平均每日達 5.93 小時，最低的一月仍有 3.56 
+小時  (44) 。若因文化或氣溫、空氣品質等原因  (44, 45) ，不願或不利外出，限制了日照，
+飲食變成維生素 D 唯一的來源。因此，在訂定本版維生素 D 的飲食參考攝取量時，
+參酌美國 2011 年 IOM 的邏輯，制訂「足夠攝取量」(Adequate Intake ，AI) ，即在最 
+低陽光暴露的情況，無內源維生素 D，足夠防止血清 25OHD 濃度下降至目標值  (50 
+nmol/L) 以下的維生素 D 飲食攝取量。值得注意的是，充足的鈣是維生素 D 發揮對 
+骨骼健康效益的必要條件，國人應注意攝取富含鈣質食物以達足夠的鈣攝取量。因
+此，本版之建議量，即以無日照，但有充足的鈣攝取量為前提。(表一 ) 
+ 
+表一、2017 年維生素 D 各年齡層 DRI (AI) 及上限攝取量  
+   年齡  AI ( μg/d) UL 
+   0-6 月 10 25 
+   7-12 月 10 25 
+   1-3 歲 10 50 
+   4-6 歲 10 50 
+   7-9 歲 10 50 
+   10-12 歲 10 50 
+   13-15 歲 10 50 
+   16-18 歲 10 50 
+   19-30 歲 10 50 
+   31-50 歲 10 50 
+   51-70 歲 15 50 
+   71 歲以上  15 50 
+   懷孕期  10 50 
+   哺乳期  10 50 
+DRIs, Dietary Reference Intakes;  AI( 足夠攝取量 ), Adequate Intake;  
+UL, Tolerable Upper Intake Levels 
+ 
+1.  出生至 12 個月嬰兒：AI = 10 μg (400 IU)/d 
+嬰兒的維生素 D 缺乏指標的參考數值為血清 25OHD 濃度低於 27.5 nmol/L (11 
+ng/ml) (46) ，其目標濃度為 50 nmol/L (13) 。 
+根據血清 25OHD 、骨骼生長、骨質量等因素分析顯示：維生素 D 攝取量在每 
+日 8.5-15 μg (340-600 IU) 時，對骨骼的線性生長最有益；當維生素 D 攝取量大於每 
+日 45 μg (1800 IU) 時，骨骼的線性發展速度反而會受阻  (9) 。 
+=== p.6 ===
+6 
+ 
+嬰兒若每日攝取 400 IU 維生素 D，均能維持血清 25OHD 濃度於 50 nmol/L 以
+上，且未發生臨床的缺乏症  (47-50) 。 
+目前一般嬰兒配方乳之維生素 D 含量為每公升 10 μg (400 IU) 。由生理觀點而 
+言，若不接受日曬，以母乳或配方乳哺餵的嬰兒之維生素 D 需求是相同的。根據上 
+述研究結果，假設無皮膚合成的維生素 D，將 AI 訂為 10 μg (400 IU)/d ，以維持血 
+清 25OHD 濃度。 
+2.  1-18 歲：AI = 10.0 μg (400 IU)/d 
+這個階段的兒童與青少年，維持正常與健康的骨骼生長是訂定建議值的依據。
+血清 25OHD 濃度與兒童骨骼之成長狀況相關性很高，是合宜的評估指標，根據 
+IOM 的模擬，25OHD 目標濃度為 50 nmol/L (13) 。 
+針對血清 25OHD 濃度的變化，8 歲兒童若濃度低於 20 nmol/L ，則血清 PTH 濃
+度上升  (51) 。在不缺鈣的情況下，血清 25OHD 低於 30 nmol/L 時，幼兒的佝僂風險 
+明顯上升  (46) 。美國波士頓針對 6 歲以下素食兒童之研究發現，每日維生素 D 攝取 
+量低於 2.5 μg (100 IU) ( 平均攝取量：0.6+1.8 μg/d ；27+70 IU/d) ，3 年中，70 位兒童 
+中有 4 位產生因維生素 D 缺乏的骨骼健康變化  (52) 。南非全年日曬充足，當地 1-8 歲
+各族裔兒童之血清 25OHD 濃度皆大於 77.5 nmol/L (53) 。 
+青春期間維生素 D 代謝速率上升，25OHD 活化為 1,25(OH)2D 的量增加，促進 
+鈣在小腸的吸收以提供足夠的鈣質供骨骼生長之用；但無研究顯示維生素 D 的需要 
+量因而增加  (54) 。北歐學者估計 10-18 歲之男女維生素 D 攝取量為每日 2.5 μg (100 
+IU) ，平均血清 25(OH)D 濃度為 55 ±2.5 nmol/L (22 ±1 ng/ml) ( 於三月底時測得） ，與
+接受每日 10 μg 補充劑者相同  (9) 。土耳其的研究指出 12~17 歲青少年之維生素 D 攝
+取量低於每日 2.5 μg (100 IU) 時，平均血清 25OHD 濃度低於 27.5 nmol/L (9) 。因此 
+住在高緯度地區的青少年皮膚合成之維生素 D 可能不足，需要補充。 
+臺灣地區日照充足，應鼓勵兒童及青少年從事戶外活動，以達到良好的維生素 
+D 營養狀態。針對最低日照的族群，AI 值參照 IOM 的模擬，訂定為 10.0 μg (400 
+IU)/d 。 
+3.  19-50 歲：AI = 10.0 μg (400 IU)/d 
+英國曾研究 7位婦女其每日維生素 D 攝取量僅為 0.4-1.7 μg，而日曬程度不詳，
+一至數年後出現骨軟化症現象；每日補充 2.5 μg (100 IU) 的維生素 D 後，體內鈣的 
+平衡轉為正常  (9) 。美國研究指出，飲食攝取與日曬程度相似時，白人與黑人婦女的
+血清 25OHD 與 PTH 濃度相似，但黑人婦女的腰椎、橈骨之 BMD 較高  (55) 。 
+美國北部冬季日曬少的人口，每日維生素 D 攝取量為 3.3-3.4 μg (131-135 IU) ，
+絕大多數可維持 25OHD 濃度高於 30 nmol/L (56) 。Holick 研究 22 位 18-34 歲潛水艇 
+工作人員的血清 25OHD 變化狀況，發現他們在潛水艇內工作 1.5 及 3 個月時，血清 
+25OH)D 濃度下降 38% 。若補充較大量維生素 D ( 每日 15 μg 或 600 IU) 可使血清 
+25(OH)D 維持於入潛艇前的濃度；而未補充維生素 D 者在接受日曬 1 個月後可使血 
+清 25OHD 濃度恢復 80% (8) 。顯示日曬對維持成人血清 25OHD 濃度的重要性。 
+日曬是這個年齡層成人獲得足夠維生素 D 的重要途徑。臺灣地區陽光充沛，適
+度日曬足以在體內產生足量維生素 D。這個年齡層的 AI 參照 IOM ，訂為 10.0 μg 
+(400 IU)/d ，讓無內源性維生素 D 的人能達到適當的維生素 D 營養狀況。 
+ 
+=== p.7 ===
+7 
+ 
+4.  51-70 歲：AI = 15 μg (600 IU)/d 
+老化會降低維生素 D 的皮膚合成量，造成此年齡層族群維生素 D 缺乏之風險 
+增加  (8, 41) 。由於婦女停經後有骨質流失的問題，應同時以骨骼健康狀況作為參考指 
+標。若以骨質流失程度為指標，婦女每日飲食攝取應高於 2.5 μg (100 IU) ，以預防 
+日曬不足時，較高速率的骨質流失。Krall 等人針對 333 位平均年齡為 58 歲的白人 
+婦女進行之研究發現，若每日飲食維生素 D 攝取量低於 5.5 μg (220 IU) ，冬季血清 
+PTH 濃度會上升；若維生素 D 攝取量高於 5.5 μg (220 IU) ，則不見血清 PTH 濃度的 
+季節性變化  (57) 。Dawson-Hughes 等人之研究結果顯示平均年齡為 62 歲的婦女，由
+日常飲食所攝取的維生素 D 為每日 2.5 μg (100 IU) ，每日補充 10 μg (400 IU) 為期一 
+年，可以有效的減少脊椎骨質之流失，每日補充 17.5 μg (700 IU) 者，其骨密度降低 
+的情況較補充 2.5 μg (100 IU) 者緩和  (58) 。 
+由於臺灣地區陽光充沛，相較於其他國家，過去我國中老年婦女之血清 
+25OHD 濃度屬於較高者。但是隨環境條件變差  (44, 45, 59) ，若能維持固定的戶外活動 
+與日曬時間，維生素 D 營養狀況應可維持血清維生素 D 濃度於正常範圍內。但老 
+化過程確實使血清 25OHD 濃度較低，活動量低的中老年人應特別注意。因此，為
+涵蓋所有此年齡範圍者的需求，將 AI 訂定為 15 μg (400 IU)/d 。 
+ 
+5.  70 歲以上：AI = 15 μg (600 IU)/d 
+證據支持老年人需要較高的維生素 D，以維持正常鈣的代謝與最佳骨骼健康狀 
+況 (54, 58, 60) 。 
+70 歲以上老年人血清 25OHD 濃度隨老化過程而下降，而骨折危險性隨之上升  
+(9) 。當血清 25OHD 濃度降至 37.5 nmol/L 以下時，維生素 D 營養狀況為臨界缺乏，
+常伴隨出現續發性副甲狀腺機能亢進、低血清鈣磷濃度、低尿鈣及高血清鹼性磷酸 
+酶等現象  (61) 。 
+減少日曬及維生素 D 攝取也是造成老年人血清 25OHD 降低的原因。Kinyamu 
+等人調查 60 位平均年齡為 84 歲的養老院住民及 64 位平均年齡為 71 歲的居家老人，
+他們的平均每日維生素 D 攝取量分別為 5.2 μg (207 IU) 及 3.4 μg (135 IU) ，而血清 
+25OHD 濃度低於  25 nmol/L 的老人高達 45%  (56) 。 
+每日補充 10 μg (400 IU) 至 25 μg (1000 IU) ，可使老年人的血清 25OHD 濃度與 
+PTH 濃度維持於正常範圍  (62) 。若長期補充  (1-3.5 年) 或配合補充鈣，可有效防範骨 
+密度之下降，減少骨質之再吸收  (9) ，甚至增加 BMC ，並降低骨折率  (63) 。因此為確 
+保此年齡範圍所有老年人的需求，訂定 AI 為 15 μg (600 IU)/d 。 
+ 
+6.  懷孕期：AI = 10 μg (400 IU)/d  
+Paunier 等人研究 40 名於冬季生產的婦女，其每日維生素 D 攝取量低於 3.8 μg 
+(150 IU) ，平均血清濃度為 22.8 nmol/L ；當維生素 D 攝取量每日大於 12.5 μg (500 
+IU) 時，血清濃度為 27.8 nmol/L ，二組間無顯著差異。而補充維生素 D 之孕婦的新 
+生兒在出生後第四天之血清鈣濃度顯著高於低維生素 D 攝取者之新生兒  (64) 。懷孕 
+中期起每天補充 10 或 25 μg (400 或 1000 IU) ，可增加懷孕婦女血漿 25(OH)D 濃度，
+改善新生兒代謝鈣的能力  (IOM, 1997) 。懷孕期間，胎盤活化、運送維生素 D 的能 
+力上升，有助於維持母親與胎兒血液的 1,25(OH) 2D 的濃度  (65) 。 
+=== p.8 ===
+8 
+ 
+有些研究，讓孕婦補充相當大劑量的維生素 D (100 μg/d) ，與每日補充 10 μg 組
+相比，認為可以降低姙娠糖尿病、孕期高血壓、子癲前症及早產的風險；幼童至 3
+歲時也會有較低的氣喘風險，雖然不顯著  (66) 。這種大劑量的補充策略，還有待驗 
+證。 
+母體會透過胎盤運送 25OHD 至胎兒，但量有限，且不影響母親維生素 D 營養 
+狀況  (64) 。因此與未懷孕的人的建議量一樣為 10 μg (400 IU)/d 。 
+ 
+7.  哺乳期：AI = 10 μg (400 IU)/d  
+哺乳期間，維生素 D 及其代謝產物由母親血液循環進入母乳的量小而不顯著。
+因此，哺餵母乳並不至於讓哺乳婦的維生素 D 流失。額外補充，只會讓血清濃度上 
+升，但對哺乳婦沒有其他的好處。因此，訂定哺乳婦女維生素 D 的 AI 為 10 μg (400 
+IU)/d 。 
+國人維生素 D 營養狀態與慢性疾病風險相關性  
+一、國人維生素 D 食物來源  
+根據 1993-2002 年間的營養調查蒐集的國民膳食，魚(海水魚及淡水魚 )、魚肉 
+製品、奶類及蕈類為國人最重要的維生素 D 來源  (67) 。以學童為例， 「海水魚」 、 
+「魚肉加工製品」及「乳類及其製品」佔總攝攝取量的 55% 。綜合觀之，魚類  (海
+水魚、淡水魚及魚肉製品 ) 是最主要的來源，從最低的 6-12 歲女童的 37% 到 46-64 
+歲男性的 64% 。蛋類在較年輕族群約佔 10% ，但是在老人就僅剩下 5% 左右，可能 
+因為膽固醇含量高而有所顧忌。鮮奶本身並不含維生素 D，只有進口的奶粉會因為 
+輸出國的政策而有所差異。例如：美國的奶粉就必然添加維生素 D，紐澳的產品則 
+因品牌而異。奶類的維生素 D 在老人族群中，可佔總攝取量的 1/4 。雖然食物的重 
+量不大，但是可能因為習慣使用奶粉沖泡，比起年輕人喝鮮奶的維生素 D 值含量 
+高。菇蕈類，雖然總食用量每天僅有幾公克，但是卻可以佔 3-5% 。對於純素者，
+經 UVB 照射過的菇蕈類或可變成重要的維生素 D 食物來源。 
+使用維生素 D 補充劑部分，學童約佔 13% ，13~15 歲青少年男女分別為 13% 
+及 9% ，到 16~18 歲男性只剩下 2% 。之後緩步上升，到老年期，男女性其補充劑 
+可達 16% 及 19% 。 
+Chuang 等人針對臺灣社區 55 歲以上成人的研究，也證實魚類和奶類食物攝取 
+愈多及使用補充劑，血清 25OHD 濃度低於 50 nmol 的風險愈低，而蛋的攝取則無 
+關 (68) 。 
+二、攝取量  
+Moore 等人在 2004 年取材自 NHANES (National Health and Nutrition 
+Examination Survey) III 及 CSFII (Continuing Survey of Food Intakes by Individuals) 兩
+個營養調查，首次報告美國人無法從飲食及補充劑達到維生素 D 的 AI 。攝取量最 
+低者為青少女及成年女性，最高者為青少年男性；奶類為最主要的食物來源  (69) 。
+隔年再發表分析 NHANES 1999- 2000 的結果，發現兒童與青少年攝取最多，老年 
+族群最低。在 1-8 歲的兒童中，墨裔有 69% 、非拉丁裔白人有 59% 、非拉丁裔黑人 
+=== p.9 ===
+9 
+ 
+有 48% 從飲食攝取可以達到 AI ；而在 51 歲以上老人中只有 4% 可從食物攝取達到 
+AI ；飲食加上補充劑的維生素 D 攝取以非拉丁裔白人最高。老人部分，只有少數 
+其維生素 D 攝取超過 AI ，實際維生素 D 攝取量與建議攝取量之間有很大的差異，
+尤其在非拉丁裔黑人及墨裔部分  (70) 。 
+IOM 2011 年的報告書中，根據 NHANES 2005-2006 調查，食物來源 D 及包含 
+補充劑的總維生素 D，各年齡攝取量 95 百分位分別為 308-628 及 568-940 IU 。其
+中，兒童介於 380-628 及 568-804 IU ( 男孩：424-628 及 600-804 IU ；女孩：380-500 
+及 568-756 IU) ；成人介於 308-508 及 640-940 IU ( 男性：396-508 及 712-844 IU ；女
+性：308-412 及 640-940 IU) (13) 。孩童的食物維生素 D 較成人高，但成人攝取較多 
+補充劑，女性攝取補充劑尤其高。 
+黎巴嫩的國民平均攝取維生素 D 100.6±71.0 IU/ 天，來源為奶類  (30.4 IU) 、 肉
+類 (28.2) 、魚 (25.8) 、蛋 (8.5 IU) 及甜味劑  (7.8 IU) 。性別、居住地（城鄉）對於維 
+生素 D 攝取具有預測性，男性居住於城市者較高  (28) 。 
+國內之食物營養成分資料庫尚無維生素 D 含量資料；歷次國民營養調查亦無關 
+於國人維生素 D 攝取狀況之資訊。表二為自 1993-2001 及 2013-2015 年間完成的四 
+次國民營養調查為材料  (67) ，採用其中的 24 小時飲食回憶及補充劑攝取兩部分，估
+算之國人維生素 D 攝取情形。 
+從平均數來看，兩次調查各年齡層男性從食物獲得的維生素 D 量分別介於 4.5-
+5.6 μg 及 4.4-10.7 μg 之間；女性則為 3.2-5.5 μg 及 3.7-8.8 μg 之間。不論調查年 
+度或年齡，均是男高女低。 
+第一次調查  (1993-1996) 中，男性以 7-12 歲組最低  (4.5 μg) ，51-70 歲組最高  
+(5.6 μg) ；女性以 16-18 歲組最低  (3.2 μg) ，71 歲以上最高  (5.5 μg) 。2013-2015 年
+的調查，男性以 16-18 歲組最低  (4.4 μg) ，71 歲以上組最高  (10.7 μg) ；女性以 10-
+12 歲組最低  (3.7 μg) ，71 歲以上仍是最高  (8.8 μg) 。除了男性 13-18 歲組，及女性 
+10-12 歲組以外，其他性別年齡組的平均攝取量均是最近一次調查高過前一次，年
+齡越長，增加越多。上述結果暗示除了青少年外，國人的維生素 D 攝取狀況有變 
+好的情形。 
+與美國 NHANES III (69)  的資料比較，國內學童的攝取量略低，但兩國的青少 
+年攝取量均有較低的現象。美國 14-18 歲女生之膳食攝取為 4.3 μg，加上補充劑 
+後也只有 5.3 μg (69) 。可能與這個時期青少年之家庭關係、飲食習慣的變化有關。
+尤其女生是否因為怕胖而節制飲食，造成攝取量的不足？都值得進一步探討。 
+受限於食物來源，素食者的維生素 D 攝取量較低，尤其是純素者每日維生素 
+D 攝取量顯著的較非素食者低  (67) 。 
+=== p.10 ===
+10 
+ 
+表二、兩次國民營養調查男女性平均膳食維生素 D 攝取量及分布  
+年齡（歲） 每日平均攝取量 (μg/d)  每日攝取量 (μg/d) 分布百分位  
+1th 25th 50th 75th 90th 95th 99th 
+男性          
+2013-2015 年          
+ 7-9 5.4 0.12 1.37 2.44 5.57 13.91 22.44 42.79 
+ 10-12 5.2 0.05 1.16 2.78 7.05 13.94 19.09 28.47 
+ 13-15 4.6 0.05 1.25 2.69 5.66 10.39 17.23 28.29 
+ 16-18 4.4 0.06 1.46 2.97 4.85 8.58 14.73 39.95 
+ 19-30 6.6 0.07 1.15 3.68 7.12 11.66 18.06 54.88 
+ 31-50 7.6 0.05 1.20 3.20 7.78 21.81 27.56 62.24 
+ 51-70 8.8 0.00 1.88 4.42 10.94 23.76 29.27 56.35 
+ 71+ 10.7 0.00 1.73 6.16 14.94 26.60 35.29 52.63 
+1993-2001 年         
+ 7-9 4.5 0.09 1.17 2.53 5.42 10.50 13.80 32.36 
+ 10-12 4.5 0.04 1.32 2.69 4.82 9.84 15.87 36.14 
+ 13-15 4.8 0.10 1.21 2.19 3.89 6.73 11.36 25.30 
+ 16-18 4.9 0.11 1.10 2.44 4.97 10.00 18.33 39.27 
+ 19-30 4.7 0.06 1.19 2.37 5.07 10.89 18.25 39.52 
+ 31-50 4.8 0.07 1.18 2.40 5.07 10.88 17.31 39.52 
+ 51-70 5.6 0.03 1.03 2.76 6.17 12.25 16.27 77.38 
+ 71+ 5.3 0.03 1.30 3.50 7.00 12.21 14.25 38.92 
+ 
+  
+=== p.11 ===
+11 
+ 
+表二、兩次國民營養調查男女性平均膳食維生素 D 攝取量及分布  (續) 
+年齡（歲） 每日平均攝取量 (μg/d) 每日攝取量 (μg/d) 分布百分位  
+1th 25th 50th 75th 90th 95th 99th 
+女性          
+2013-2015 年 
+       
+  
+ 7-9 5.2 0.05 1.41 2.49 5.94 11.15 14.82 48.09 
+ 10-12 3.7 0.01 1.09 2.18 4.44 8.05 11.99 19.86 
+ 13-15 4.1 0.02 1.02 2.22 4.57 9.40 13.17 27.69 
+ 16-18 4.1 0.09 0.95 2.08 4.95 8.62 17.38 29.95 
+ 19-30 5.1 0.01 1.33 2.74 5.44 12.71 16.46 34.78 
+ 31-50 6.1 0.01 1.42 3.43 7.74 13.59 19.01 38.77 
+ 51-70 8.6 0.01 1.28 3.32 11.83 21.04 28.69 57.62 
+ 71+ 8.8 0.01 1.67 4.18 11.92 20.50 27.86 57.01 
+1993-2001 年         
+ 7-9 3.5 0.07 0.94 2.21 4.44 8.53 10.90 24.21 
+ 10-12 4.3 0.09 1.03 2.20 4.64 9.12 13.89 28.51 
+ 13-15 3.6 0.03 0.68 1.54 2.96 6.47 10.41 18.17 
+ 16-18 3.2 0.04 0.78 1.80 3.50 7.18 11.23 15.86 
+ 19-30 3.9 0.06 0.89 2.20 4.49 8.97 14.71 25.79 
+ 31-50 3.7 0.04 0.85 2.06 4.20 8.40 13.86 24.21 
+ 51-70 4.9 0.02 0.83 2.56 5.47 10.55 16.12 37.95 
+ 71+ 5.5 0.07 1.35 3.38 7.81 12.91 19.53 30.13 
+ 
+  
+=== p.12 ===
+12 
+ 
+表三、2013-2016 年國民營養調查男女性平均血清 25OHD 濃度及分布  
+年齡（歲） 平均血清 25(OH)D 濃度  
+(nmol/L) 
+血清 25(OH)D 濃度  (nmol/L) 分布百分位  
+1th 5th 10th 25th 50th 75th 90th 95th 99th 
+男性            
+ 7-9 74.7 46.1 49.9 52.7 60.2 74.2 88.0 99.9 103.9 110.0 
+ 10-12 74.6 42.9 52.7 53.8 62.2 72.0 84.4 95.3 112. 5 119.1 
+ 13-15 71.6 27.7 35.9 43.6 58.3 71.9 88.5 97.5 105.3 122.3  
+ 16-18 64.0 25.9 37.6 39.3 48.6 60.2 76.6 91.7 107.3 134.1  
+ 19-30 68.4 31.3 42.9 46.0 54.7 67.2 81.7 90.9 102.4 116.4  
+ 31-50 76.1 29.8 40.6 50.4 59.6 70.3 88.4 111.6 123.1 137. 7 
+ 51-70 86.8 28.0 46.6 55.3 70.0 86.8 102.8 119.3 128.1 147 .7 
+ 71+ 93.5 38.6 55.6 59.0 74.5 90.0 108.7 129.4 144.6 161 .1 
+女性  
+          
+ 7-9 73.7 51.3 52.5 57.9 60.0 74.4 84.0 85.2 88.7 1 20.7 
+ 10-12 64.4 44.5 44.7 44.7 48.8 61.0 76.3 88.3 91.0  104.5 
+ 13-15 62.3 32.3 37.2 43.1 52.1 61.5 73.2 81.7 93.1 99.6 
+ 16-18 54.9 28.4 28.7 32.9 40.4 52.9 67.5 78.8 82.8 91.0 
+ 19-30 52.1 19.9 26.5 32.6 41.1 51.1 63.9 74.8 80.2 94.3 
+ 31-50 63.0 24.6 31.7 39.0 47.9 61.0 76.2 90.3 112.5 120.7  
+ 51-70 72.5 20.8 38.0 45.1 57.4 71.6 86.4 101.9 114.0 133. 1 
+ 71+ 73.0 27.2 36.3 43.0 57.2 74.2 85.8 100.3 107.9 126. 8 
+ 
+ 
+=== p.13 ===
+13 
+ 
+三、血清 25OHD 濃度  
+根據 2011 年 IOM 的建議，為達理想骨骼健康，應有 97.5% 的族群其血清 
+25OHD 濃度超過 50 nmol/L (13) 。 
+1997 年 Tsai 等評估 262 名居住在臺北市區 40-72 歲之健康婦女，其平均血 
+清 25OHD 濃度為 76.8 nmol/L ，其值與美國近似，但較歐洲高。即使濃度最低的 
+三分之一，其平均值也超過目標值  (55.5 nmol/L) ，但無法證明其於體內轉換率 
+及骨礦物質密度有關  (71) 。2002 年 Lee 等人發表一篇在屏東地區的研究，34 名無 
+代謝疾病老年女性其平均血清 25OHD 濃度為 88.6 nmol/L 。在陽光充足的南臺 
+灣，似乎沒有維生素 D 缺乏的問題  (72) 。 
+Chuang 等的臺灣中老年人研究，男女的血漿濃度分別為 66.7 及 57.7 nmol/L 
+(已校正成電化學冷光法濃度 )，22% 的男性及 35% 的女性不及 50 nmol/L 。居住 
+在北部的人，其濃度較南部的人低，維生素 D 不足的比例也較高  (68) 。  
+表三是國內具族群代表性樣本的 2013-2016 年的營養調查檢測 7 歲以上國 
+民的血清 25OHD 濃度的平均數及分佈，提供國人維生素 D 營養現況  (73) 。男性 
+平均 25OHD 濃度介於 64.0 -93.5 nmol/L ，女性則為 52.1-73.7 nmol/L ，均超過目 
+標血清濃度 50 nmol/L 。 
+男性各年齡層族群的濃度分佈超過目標值的百分比介於 75-95% 。其中，
+10-12 及 71 歲以上長者均超過 95% ；最低的為 16-18 歲組，超過四分之一  
+(26.8%) 不及 50 nmol/L 。最低的 16-18 歲組  (4.4 μg/d) 及最高的大於 71 歲組  
+(10.7 μg/d) ，與其攝取量的高低相呼應。13-15 歲組雖然攝取量也偏低  (4.6 
+μg/d) ，但可能仍有相當的戶外活動，所以血清濃度仍不差。至於 19-30 歲組，
+攝取量不低  (6.6 μg/d) ，但是濃度卻為倒數第二，可能反映較少的日照。 
+女性的族群濃度超過目標值，除 7-9 歲為 100% ，其餘各年齡組均較男性 
+低，範圍為 50-75% 。51 歲以上兩組的高百分比，反映其高飲食攝取量。最低為 
+16-18 及 19-30 歲兩組，尤其是 19-30 歲組，其攝取量並非最低，但卻有近半  
+(48.3%) 未達標，應該與少日照有關。 
+25OHD 濃度與地理分佈有關，呈現北低南高的現象。平均值最高的縣市為 
+台東縣  (93.8 nmol/L) ，最低的是新竹市的  (63.3 nmol/L) 。日照次數越多，日照 
+時間越長的人，濃度越高。例如：男性沒有日照與每次多於 60 分鐘的人，其濃 
+度分別為  71.2 及 90 nmol/L ；女性則分別為 58.3 及 72.8 nmol/L 。 
+儘管日照是維生素 D 的重要來源，飲食維生素 D 攝取量也與 25OHD 濃度 
+有關，維生素 D 缺乏組  (<30 nmol/L) ，每千卡維生素 D 攝取量僅為 2.68 μg，維
+生素 D 充足組  (>50 nmol/L) ，則每千卡超過 3.85 μg。 
+綜合飲食與血清濃度的發現，7 歲以上國人的維生素 D 營養狀況男性優於 
+女性，除特定年齡層外，男性有 80% 為營養充足，女性有 70% 充足。 
+四、國人維生素 D 狀況與健康的研究  
+一個北臺灣的病例對照研究，指出每日維生素 D 攝取量大於 5 μg 對正常體 
+位的停經前婦女，其罹患乳癌的風險顯著較低  (74) 。 
+所有年齡層的婦女，有骨質疏鬆症、髖關節骨折或椎骨骨折者，有較高比例有 
+維生素 D 不足  (<30 nmol/L) 的現象  (75) 。Chien 等人在北部金山的研究，血清 
+25OHD 濃度  (25 th ：39 ，75 th ：63.8 nmol/L ；以 ILISA 檢測 ) 與糖尿病的全因死亡 
+風險呈負相關，但與心血管疾病的發生相關不強  (76) 。此外，血清 25OHD 濃度  
+=== p.14 ===
+14 
+ 
+(活動與非活動病人的平均值分別為 30 及 38.5 nmol/L ，以電化學冷光法檢測 ) 可
+能與紅斑性狼瘡的罹患  (77)，及慢性鼻竇炎中鼻瘜肉分級呈負相關  (平均濃度，
+有瘜肉者：53.5 ，無瘜肉者：72 nmol/L ；以電化學冷光法檢測 ) (78) 。中老年人維 
+生素 D 低於 50 nmol/L ，與老年衰弱指數間有強烈正相關  (79) ，但是除了單腳站 
+立外，維生素 D 濃度與體能表現無關  (68) 。 
+五、特殊族群與議題  
+(一) 純母乳哺餵之嬰兒  
+國民飲食指標建議新生兒應至少應母乳哺餵 6 個月，但是母乳不是維生素 
+D 的良好來源，純母乳哺餵的嬰兒如何達到膳食建議量，值得討論。 
+母乳的維生素 D 含量並不高，初乳的維生素 D 濃度為 15.9 IU/L (9) 。根據美 
+日的成分表  (80) ，成熟乳汁僅含 0.1-0.3 μg/100 g ，若為全母乳哺餵  (780 ml/d) ，估
+計僅能獲得 0.59-2.34 μg，遠低於建議量。 
+臺灣的蔣等人於 2012-2014 年間，分析雙北的醫院超過 500 名嬰兒血漿 
+25OHD 濃度  (以 LC-MS 分析 )，結果值低於 50 nmol/L 者高達 56% 。其值高低，
+不受母親懷孕時的體位及是否補充維生素 D 影響。春冬出生的嬰兒有較好的維 
+生素 D 營養狀況，但與外出活動時間、次數及天氣無關。純母乳的哺餵嬰兒，
+低於 50 nmol/L 者更高達 88% ；六個月內嬰兒的 25OHD 濃度與純母乳哺餵時間 
+及頻率呈負相關。反之，以配方奶哺餵時間越長，有較好的維生素 D 狀況；即
+使如此，全部使用配方奶者，仍有接近四成濃度不及 50 nmol/L 。副食品部分，
+無論六個月以前或以後，有維生素 D 強化的米麥精攝取頻率越高者，維生素 D
+狀況越好  (81) 。 
+Specker 等人在中國的研究發現緯度與維生素 D 攝取量均影響嬰兒維生素 D
+營養狀況，以血清 25OHD 濃度 27.5 nmol/L 為切點。在中國大陸北方  (北緯 40-
+47 度) 地區，受試的嬰兒均無佝僂病症狀，每日補充 2.5 μg (100 IU) 及 5 μg (200 
+IU) 的維生素 D，分別有 36.2% 及 29.7% 的嬰兒低於這個值。當維生素 D 補充量 
+達到每日 10 μg (400 IU) ，33 位嬰兒中僅有 2 位低於這個標準。在中國大陸南方 
+的二個城市  (北緯 22 及 30 度)，受試嬰兒之維生素 D 攝取量僅為每日 2.5 μg (100 
+IU) ，但維生素 D 營養狀況正常  (46) 。另一個研究指出，中國南方的嬰兒每日補 
+充 8.75 μg (350 IU) 可預防佝僂症；在北方則須補充 13.75 μg (550 IU) 方可預防 
+佝僂症  (82) 。一個德國柏林  (北緯 52.5 度) 的純母乳哺餵嬰兒臨床試驗，不管每日 
+補充新生兒 250 IU 或 500 IU 維生素 D，六週後其 25OHD 濃度均能達到充足的 
+濃度  (83) 。 
+有鑑於此，美國小兒科醫學會建議無論何種哺餵方式，應在出生後不久即 
+給予 400 IU/d 維生素 D 補充劑  (84) 。臺灣小兒科醫學會的建議與美國小兒科醫學 
+會的建議相同。 
+因為需要直接對新生兒補充，遵從性並不好。也有其他方案被提出，例如：
+直接補充媽媽，但需要非常高的劑量  (6400 IU/d) 才有效  (85) 。後續的調查發現，
+美國的媽媽，只有 55% 比較喜歡直接對嬰兒補充，88% 喜歡補充自己，57% 喜歡 
+每天補充，而非每月補充  (86) 。 
+世界衛生組織  (WHO) 認同純母乳哺餵的嬰兒有高的維生素 D 缺乏的風險，
+尤其是位於高緯度，或因文化或其他因素，造成無法透過日照獲得維生素 D 者。
+從現有的證據，補充維生素 D 可能對預防上述高風險族群罹患佝僂症有益。但
+=== p.15 ===
+15 
+ 
+是，WHO 認為需要進一步的研究，才能提出具體的建議  (87) 。 
+(二) 素食者  
+維生素 D 僅存在於特定食物中，且目前維生素 D 補充劑多由動物萃取，純
+素食者的維生素 D 營養狀態值得關注。英國的 EPIC-Oxford 研究，蛋奶素者的 
+25OHD 濃度顯著低於規律葷食者和魚素者，純素者又顯著低於蛋奶素者。然而，
+該研究之純素者 25OHD 濃度為 55.9 nmol/L ，不至於缺乏  (88) 。而美國的 AHS-2
+研究，對象年齡介於 51-70 歲，儘管素食者維生素 D 攝取量較低，但兩者的血 
+液維生素 D 濃度沒有差異  (89) 。更何況，根據美國 2001- 2008 年營養調查資料，
+素食與否並不影響其能否達到維生素 D 攝取量 EAR (90) 。EPIC-Oxford 研究亦指 
+出，陽光曝曬對血液維生素 D 的影響比攝取量大。對素食者而言，適度陽光曝 
+曬，對維持適當維生素 D 濃度更重要。健康效應部分，純素與骨折間的關聯似 
+乎不受維生素Ｄ影響。 Ho-Pham 等人的統合分析指出，純素飲食對骨密度僅有 
+些微影響，但不太可能導致骨折風險增加  (91) 。2007 年的 EPIC-Oxford 前瞻性研 
+究發現，純素食者的骨折發生率在調整共變項及鈣攝取量後，並不比非素食者 
+高 (92, 93) 。一佛教女性出家人的研究，在追蹤兩年後，純素食的女性出家人與雜 
+食的女性比較，其椎骨骨折的發生率沒有顯著差異；反而發現動物蛋白對骨骼 
+有負面影響  (94, 95) 。 
+臺灣的數據也呈現純素者維生素 D 攝取量較低  (96) 。上述研究多為歐美國家，
+飲食文化與食物選擇可能不同，其結果是否能推論至國內的素食人口，尚待研 
+究。 
+過量危害與毒性  
+一、毒性與症狀  
+(一) 危害確認  (hazard identification) ： 
+血清 25OHD 濃度上升至 400-1,250 nmol/L (160-500 ng/mL) 是維生素 D 中毒 
+的 指 標  (97) 。 使 用 血 清 25OHD 作 為 指 標 有 助 於 釐 清 維 生 素 D 中 毒  
+(hypervitaminosis D) 與其他原因，如：副甲狀腺機能亢進、甲狀腺中毒症、惡
+性腫瘤與淋巴瘤造成之高血鈣症  (98) 。 
+維生素 D 中毒的主要症狀為高鈣血症  (hypercalcemia) ，是因維生素 D 促進 
+小腸細胞鈣的吸收與骨骼礦物質的再吸收  (resorption) 所造成  (99-101) 。當維生 
+素 D攝取量高達每日 1,250 μg (50,000 IU) 時，血漿或血清 25OHD 濃度可達 2820-
+4000 nmol/L ( 正常範圍是 50-200 nmol/L) 。高血鈣症會導致腎小管的尿液濃縮機 
+制喪失、正常的再吸收機制受破壞而產生多尿、劇渴及高尿鈣的現象。長期高 
+血 鈣 症 造 成 腎 臟 、 血 管 、 心 臟 、 肺 臟 等 軟 組 織 的 轉 移 性 鈣 化  (metastatic 
+calcification) (13) 。攝取量為 1,250-5,000 μg (50,000-200,000 IU)/d 時，有中樞神經 
+系統方面的症狀包括：憂鬱、厭食、噁心、嘔吐等的報導。 
+Parfitt 的研究給予副甲狀腺功能低下患者每天 2,100 μg (84,000 IU) 之維生素 
+D 長達 5 年，認為腎臟、心臟等軟組織的鈣化是維生素 D 的直接影響，而非高 
+血鈣現象的影響  (102) 。 
+動物研究顯示軟組織鈣化現象會出現在腎臟以外的組織，如心血管系統。
+人體研究的結果並不一致。雖然軟組織鈣化的研究證據尚不足以決定上限攝取 
+量 (Tolerable upper intake levels, UL) ，但顯示長期維生素 D 中毒或過量對健康的 
+負面影響有很大的不確定性，在訂定 UL 時，應採取保守策略。 
+=== p.16 ===
+16 
+ 
+ 
+(二) 暴露程度評估  (exposure assessment) 
+若不補充維生素 D，美國女性飲食的維生素 D 攝取量可達每日 2.5 μg (100 
+IU) 。若多攝取魚類與強化維生素 D 的乳製品，亦可增加維生素 D 的攝取量。
+美國維生素 D 補充劑使用者的第 95 百分位的維生素 D 攝取量男性為每日 20 μg 
+(800 IU) ，女性為 17.2 μg (686 IU) 。 
+日曬造成的內生性維生素 D 合成不致造成維生素 D 的中毒，因為持續的陽 
+光曝曬會破壞皮膚內的維生素 D 及其先質。因此除非長期大量使用補充劑，否
+則一般人由飲食、補充劑及日曬得到的維生素 D 並不足以造成維生素 D 中毒。 
+ 
+(三) 危險因素特色  (risk characterization) 
+大多數人由食物與補充劑得到的維生素 D 不易超過 UL 。但大量使用補充 
+劑，且大量攝取高維生素 D 含量食物者，可能有中毒的危險。 
+二、過量危害及上限攝取量之訂定  
+劑量效應評估  (dose-response assessment) 
+1.  19 歲以上成人之 UL ：50 μg (2,000 IU)/d 
+評估成人的維生素 D 之過量危害時，選用維生素 D 攝取量對血清鈣濃度影 
+響的人體研究，為決定 UL 的依據。高血鈣的定義是指血清鈣濃度高於 2.75 
+mmol/L 。Narang 等人的研究採用 30 位健康男女受試者，年齡 21~60 歲，每日補 
+充 10 、20、30 、60 或 95 μg 維生素 D，為期 3 個月。維生素 D 補充量為 60 與
+95 μg 者，血清鈣濃度顯著較補充前高。補充 60 μg 者，血清鈣濃度上升至 2.62 
+mmol/L ；補充 95 μg 者，血清鈣濃度上升至 2.83 mmol/L ，高於高血鈣的標準，
+但並不嚴重  (103) 。雖然補充 60 μg/d 者，血清鈣濃度顯著上升，但在正常範圍內，
+所以訂 NOAEL (No-Observed-Adverse-Effect Level) 為 60 μg。補充 95 μg 者，血
+清鈣濃度上升至高血鈣範圍，所以訂 LOAEL (Lowest-Observed-Adverse-Effect 
+Level) 為 95 μg/d 。 
+由於不確定血清鈣濃度升高但仍在正常範圍對較敏感的人之影響程度有多 
+大，又因為研究期限短、受試者人數少，所以訂 UF (uncertainty factor) 為 1.2 (9) 。
+因此，UL = NOAEL/UF = 60/1.2 = 50 μg (2,000 IU)/d 。 
+ 
+2.  出生至 12 個月的嬰兒之 UL ：25 μg (1,000 IU)/d 
+在評估嬰兒的維生素 D 之過量危害值時，採用早年具體說明維生素 D 攝取 
+量與期限，並證實劑量效應關係的嬰兒研究。Jeans 與 Stearns 於 1938 年報導 35 
+位 1 歲以內的嬰兒，補充 45-112.5 μg/d 長達 6 個月以上，相較於補充量低於 8.5 
+μg (340 IU)/d 相同期限的控制組，生長現象顯著下降  (13) 。Fomon 等人於 1966 年
+報導 13 名嬰兒之維生素 D 攝取量為 34.5-54.3 μg/d ，平均攝取量為 44.4 μg/d ，自
+出生後 9 天至 6 個月，生長現象與維生素 D 攝取量為 8.8-13.8 μg/d 的控制組嬰兒 
+無顯著差異。因此訂立 NOAEL 為 45 μg/d (13) 。 
+Graham 於 1959 年報導 38 位高血鈣症的嬰兒，血鈣濃度最高者  (4.65 mmol/L) 
+之維生素 D 攝取量估計為 33 μg/d (13) 。由上述研究結果可知，過量維生素 D 攝
+取確實可能造成高血鈣症。然而這些研究並無法估算來自日曬、飲食及食物強 
+化的維生素 D 之量，因此不易確切評估造成危害的劑量。 
+由於過量攝取的生理指標靈敏度不高、研究的受試者數量少，因此將 UF 訂
+為 1.8 。UL = NOAEL/UF = 45/1.8 = 25 μg/d 。中國訂為 20 μg/d (104) 。 
+=== p.17 ===
+17 
+ 
+ 
+3.  年齡為 1-18 歲的兒童及青少年之 UL ：50 μg (2,000 IU)/d ： 
+除嬰兒與成人外，無研究資料可供訂定此年齡層 UL 之參考。此年齡層者 
+骨骼生長快速，須有正常血鈣濃度支持，腎臟功能亦正常，因此將 UL 訂為與 
+成人相同，UL 為 50 μg (2,000 IU)/d 。 
+ 
+4.  懷孕及哺乳婦女 (年齡範圍 14-50 歲)之 UL ：50 μg (2,000 IU)/d 
+目前並無研究資料顯示懷孕及哺乳婦女之 UL 會與其他年齡層不同。 Ala-
+Houhala 等人之研究報導補充 25 或 50 μg/d 維生素 D，對子宮與嬰兒的血液維生 
+素 D 與血清鈣濃度影響有限 (47, 48) 。懷孕哺乳期的敏感性可能較高，因此 UL 仍
+訂為 50 μg (2,000 IU)/d 。 
+ 
+5.  特殊考量  
+UL 只適用於健康人。肉芽腫病患  (如：肉狀瘤病、結核病、組織漿菌病 ) 會
+活化較多的維生素 D，雖飲食維生素 D 攝取量可能正常或稍低、日曬正常，但
+仍有高血鈣與高尿鈣現象。使用 glucocorticoids ，減少腸道鈣的吸收與骨骼之再 
+吸收，血鈣與尿鈣濃度因而上升  (13) ，故上述 UL 並不適用於病患。 
+ 
+ 
+  
+=== p.18 ===
+18 
+ 
+參考文獻  
+ 
+1. Wolf G. The discovery of vitamin D: the contribu tion of Adolf Windaus. J Nutr. 
+2004;134(6):1299 -302. 
+2. Holick MF. Evolution, biologic functions, and Re commended Dietary 
+Allowances for vitamin D. In: Holick MF, editor. Vitamin D: molecular biology, 
+physiology, and clinical applications. Totowa, New Jersery: Humana Press; 1999. 
+p. 1-16. 
+3. Chen TC. Photobiology of vitamin D. In: Holick M F, editor. Vitamin D: 
+molecular biology, physiology, and clinical applica tions. Totowa, New Jersery: 
+Humana Press; 1999. p. 17 -37. 
+4. Kragballe K. Vitamin D in der matology. New York: Marcel Dekker; 2000.  
+5. Armas LAG, Hollis BW, Heaney RP. Vitamin D2 is m uch less effective than 
+vitamin D3 in humans. J Clin Endocrinol Metab. 2004;89:5387 -91. 
+6. Combs GF. Vitamin D.  The vitamins Fundamental a spects in nutrition and health. 
+2nd ed. New York: Academic Press; 1998. p. 155 -87. 
+7. Reichel H, Koeffler HP, Norman AW. The role of the vitamin D endocrine system 
+in health and disease. N Engl J Med. 1989;320(15):980 -91. 
+8. Holick MF. McCollum Award Lecture, 1994: vitamin  D--new horizons for the 
+21st century. Am J Clin Nutr. 1994;60(4):619 -30. 
+9. IOM. Dietary Reference Intakes for Calcium, Phos phorus, Magnesium, Vitamin 
+D, and Fluoride. Washington, DC: The National Academies Press; 1997.  
+10. Holick MF. Vitamin D deficiency. N Eng J Med. 2007;357(3):266 -81. 
+11. Calvo MS, Whiting SJ, Barton CN. Vitamin D inta ke: a Global perspective of 
+current status. J Nutr. 2005;135:310 -6. 
+12. Grant WB, Holick MF. Benefits and requirements of vitamin D for optimal health: 
+a review. Altern Med Rev. 2005;10(2):94 -111. 
+13. IOM. Dietary Reference Intakes for Calcium and Vitamin D. Washington, DC: 
+The National Academies Press; 2011.  
+14. Fraser DR. The physiological economy of vitamin  D. Lancet. 
+1983;321(8331):969 -72. 
+15. Vicchio D, Yergey A, O'Brien K, Allen L, Ray R,  Holick M. Quantification and 
+kinetics of 25-hydroxyvitamin D3 by isotope dilutio n liquid 
+chromatography/thermospray mass spectrometry. Biol Mass Spectrom. 
+1993;22(1):53 -8. 
+16. Henry HL, Norman AW. Vitamin D: metabolism and biological actions. Annu 
+Rev Nutr. 1984;4:493 -520. 
+17. Holick MF, Clark MB. The photobiogenesis and me tabolism of vitamin D. Fed 
+Proc. 1978;37(12):2567 -74. 
+18. DeLuca HF. The vitamin D story: a collaborative  effort of basic science and 
+clinical medicine. FASEB J. 1988;2(3) :224-36. 
+19. Zerwekh JE. Blood biomarkers of vitamin D statu s. Am J Clin Nutr. 
+2008;87:1087S -91S. 
+20. Samanek AJ, Croager EJ, Gies P, Milne E, Prince  R, McMichael AJ, et al. 
+Estimates of beneficial and harmful sun exposure times during the year for major 
+Australian population centres. Med J Aust. 2006;184(7):338 -41. 
+21. Morley JE. A place in the sun does not guarante e adequate vitamin D. J Am 
+Geriatr Soc. 1989;37(7):663 -4. 
+22. Ryan C, Eleazer P, Egbert J. Vitamin D in the e lderly: an overlooked nutrient. 
+Nu tr Today. 1995;30(6):228 -33. 
+=== p.19 ===
+19 
+ 
+23. Matsuoka L Y , Ide L, Wortsman J, MacLaughlin JA,  Holick MF. Sunscreens 
+suppress cutaneous vitamin D3 synthesis. J Clin End ocrinol Metab. 
+1987;64(6):1165 -8. 
+24. Ladizesky M, Lu Z, Oliveri B, San Roman N, Diaz  S, Holick MF, et al. Solar 
+ultraviolet B radiation and photoproduction of vitamin D3 in central and southern 
+areas of Argentina. J Bone Miner Res. 1995;10(4):545 -9. 
+25. Cardwell G, Bornman JF, James AP, Black LJ. A r eview of mushrooms as a 
+potential source of dietary vita min D. Nutrients. 2018 Oct 13;10(10).  
+26. Chen TC, Shao A, Heath Hr, Holick MF. An update  on the vitamin D content of 
+fortified milk from the United States and Canada. N  Engl J Med. 
+1993;329(20):1507.  
+27. Holick MF, Shao Q, Liu WW, Chen TC. The vitamin  D content of fortified milk 
+and infant formula. N Engl J Med. 1992;326(18):1178-81. 
+28. Gannage-Yared MH, Chemali R, Sfeir C, Maalouf G, Halaby G. Dietary calcium 
+and vitamin D intake in an adult Middle Eastern pop ulation: food sources and 
+relation to lifesty le and PTH. Int J Vitam Nutr Res. 2005 Jul;75(4):281 -9. 
+29. Autier P, Boniol M, Pizot C, Mullie P . Vitamin D status and ill health: a systematic 
+review. Lancet Diabetes Endocrinol. 2014;2(1):76 -89. 
+30. Autier P, Gandini S, Mullie P. A systematic rev iew: influence of vitamin D 
+supplementation on serum 25-hydroxyvitamin D concentration. J Clin Endocrinol 
+Metab. 2012;97(8):2606 -13. 
+31. Bolland MJ, Grey A, Avenell A. Effects of vitam in D supplementation on 
+musculoskeletal health: a systematic review, meta-a nalysis, and trial sequential 
+analysis. Lancet Diabetes Endocrinol. 2018 Nov;6(11):847 -58. 
+32. Khan SU, Khan MU, Riaz H, Valavoor S, Zhao D, V aughan L, et al. Effects of 
+nutritional supplements and dietary interventions on cardiovascular outcomes: an 
+umbrella review and evidence map. Ann Intern Med. 2019 Aug 6;171(3):190 -8. 
+33. Manson JE, Cook NR, Lee IM, Christen W, Bassuk SS, Mora S, et al. Vitamin D 
+supplements and prevention of cancer and cardiovascular disease. N Engl J Med. 
+2019 Jan 3;380(1):33 -44. 
+34. Minisola S, Ferrone F, Danese V , Cecchetti V , P epe J, Cipriani C, et al. 
+Controversies surrounding vitamin D: focus on supplementation and cancer. Int J 
+Environ Res Public Health. 2019 Jan 11;16(2).  
+35. Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR, et 
+al. Vitamin D supplementation and prevention of type 2 diabetes. N Engl J Med. 
+2019 Aug 8;381(6):520 -30. 
+36. Wang H, Chen W , Li D, Yin X, Zhang X, Olsen N, et al. Vitamin D and chronic 
+diseases. Aging Dis. 2017;8(3):346 -53. 
+37. Zhang Y , Fang F, Tang J, Jia L, Feng Y , Xu P, et al. Association between vitamin 
+D supplementation and mortality: systematic review and meta-analysis. Bmj. 
+2019 Aug 12;366:l4673.  
+38. Penckofer S, Kouba J, Byrn M, Ferrans CE. Vitam in D and depression: where is 
+all th e sunshine? Issues Ment Health Nurs. 2010;31(6):385-93. 
+39. Kamel S, Brazier M, Picard C, Boitte F, Samson L, Desmet G, et al. Urinary 
+excretion of pyridinolines crosslinks measured by i mmunoassay and HPLC 
+techniques in normal subjects and in elderly patien ts with vitamin D deficiency. 
+Bone Miner. 1994;26(3):197 -208. 
+40. MacLaughlin J, Holick MF. Aging decreases the c apacity of human skin to 
+produce vitamin D3. J Clin Invest. 1985;76(4):1536 -8. 
+41. Holick MF, Matsuoka LY , Wortsman J. Age, vitami n D, and solar ultraviolet. 
+=== p.20 ===
+20 
+ 
+Lancet. 1989;2(8671):1104 -5. 
+42. Need AG, Morris HA, Horowitz W, Nordin BEC. Eff ects of skin thickness, age, 
+body fat, and sunligh on serum 25-hydroxyvitamin D.  Am J Clin Nutr. 
+1993;58(6):882 -5. 
+43. Lo CW , Paris PW , Clemens TL, Nolan J, Holick MF . Vitamin D absorption in 
+healthy subjects and in patients with intestinal ma labsorption syndromes. Am J 
+Clin Nutr. 1985;42(4):644 -9. 
+44. 交 通 部 中 央 氣 象 局 . 2016 年 氣 象 資 料 . 2017; Available from: 
+http://www.cwb.gov.tw/V7/climate/monthlyData/mD.htm. 
+45. 行 政 院 環 境 保 護 署 . 空 氣 品 質 監 測 報 告 . 2016; Available from: 
+https://www.epa.gov.tw/ct.asp?xItem=11613&ctNode=31951&mp=epa . 
+46. Specker BL, Ho ML, Oestreich A, Yin TA, Shui QM, Chen XC, et al. Prospective 
+study of vitamin D supplementation and rickets in C hina. J Pediatr. 
+1992;120(5):733 -9. 
+47. Ala-Houhala M. 25-Hydroxyvitamin D levels durin g breast-feeding with or 
+without maternal or infantile supplementation of vi tamin D. J Pediatr 
+Gastroenterol Nutr. 1985;4(2):220 -6. 
+48. Ala-Houhala M, Koskinen T, Terho A, Koivula T, Visakorpi J. Maternal compared 
+with infant vitamin D supplementation. Arch Dis Child. 1986;61(12):1159 -63. 
+49. Greer FR, Searcy JE, Levin RS, Steichen JJ, Steichen-Asche PS, Tsang RC. Bone 
+mineral content and serum 25-hydroxyvitamin D conce ntrations in breast-fed 
+infants with and without supplemental vitamin D: on e-year follow-up. J Pediatr. 
+1982;100(6):919 -22. 
+50. Hollis BW, Wagner CL. Assessment of dietary vit amin D requirements during 
+pregnancy and lactation. Am J Clin Nutr. 2004 May;79(5):717 -26. 
+51. Meulmeester JF, van den Berg H, Wedel M, Boshuis PG, Hulshof KF, Luyken R. 
+Vitamin D status, parathyroid hormone and sunlight in Turkish, Moroccan and 
+Caucasian children in The Netherlands. Eur J Clin Nutr. 1990;44(6):461 -70. 
+52. Dwyer JT, Dietz WHJ, Hass G, Suskind R. Risk of  nutritional rickets among 
+vegetarian children. Am J Dis Child. 1978;133(2):134 -40. 
+53. Pettifor JM, Ross P, Wang J, Moodley G, Couper- Smith J. Rickets in children of 
+rural origin in South Africa: is low dietary calciu m a factor? J Pediatr. 
+1978;92(2):320 -4. 
+54. Aksnes L, Aarskog D. Plasma concentrations of vitamin D metabolites in puberty: 
+effect of sexual maturation and implications for growth. J Clin Endocrinol Metab. 
+1982;55(1):94 -101. 
+55. Meier DE, Luckey MM, Wallenstein S, Clemens TL,  Orwoll ES, Waslien CI. 
+Calcium, vitamin D, and parathyroid hormone status in young white and black 
+women: association with racial differences in bone mass. J Clin Endocrinol Metab. 
+1991;72(3):703 -10. 
+56. Kinyamu HK, Gallagher JC, Balhorn KE, Petranick  KM, Rafferty KA. Serum 
+vitamin D metabolites and calcium absorption in normal young and elderly free-
+living women and in women living in nursing homes. Am J Clin Nutr. 
+1997;65(3):790 -7. 
+57. Krall EA, Sahyoun N, Tannenbaum S, Dallal GE, D awson-Hughes B. Effect of 
+vitamin D intake on seasonal variations in parathyr oid hormone secretion in 
+postmenopausal women. N Engl J Med. 1989 Dec 28;321(26):1777 -83. 
+58. Dawson-Hughes B, Dallal GE, Krall EA, Harris S,  Sokoll LJ, Falconer G. Effect 
+of vitamin D supplementation on wintertime and over all bone loss in healthy 
+postmenopausal women. Ann Intern Med. 1991;115(7):505 -12. 
+=== p.21 ===
+21 
+ 
+59.交通部中央氣象局預報中心 . 氣候監測報告  （編號：4810500032 ）. 臺北市：
+交通部中央氣象局 2017. p. 16. 
+60. Lips P , Wiersinga A, van Ginkel FC, Jongen MJ, Netelenbos JC, Hackeng WH, 
+et al. The effect of vitamin D supplementation on vitamin D status and parathyroid 
+function in elderly subjects. J Clin Endocrino l Metab. 1988;67(4):644 -50. 
+61. Villareal DT, Civitelli R, Chines A, Avioli LV . Subclinical vitamin D deficiency 
+in postmenopausal women with low vertebral bone mas s. J Clin Endocrinol 
+Metab. 1991;72(3):628 -34. 
+62. O'Dowd KJ, Clemens TL, Kelsey JL, Lindsay R. Ex ogenous calciferol (vitamin 
+D) and vitamin D endocrine status among elderly nur sing home residents in the 
+New York City area. J Am Geriatr Soc. 1993;41(4):414 -21. 
+63. Chapuy MC, Arlot ME, Duboeuf F, Brun J, Crouzet  B, Arnaud S, et al. Vitamin 
+D3 and calcium to prevent hip fractures in elderly women. N Engl J Med. 
+1992;327(23):1637 -42. 
+64. Paunier L, Lacourt G, Pilloud P, Schlaeppi P, S izonenko PC. 25-hydroxyvitamin 
+D and calcium levels in maternal, cord and infant s erum in relation to maternal 
+vitamin D intake. Helv Paediatr Acta. 1978;33(2):95 -103. 
+65. Gray TK, Lester GE, Lorenc RS. Evidence for ext ra-renal 1 alpha-hydroxylation 
+of 25-hydroxyvitamin D3 in pregnancy. Science. 1979;204(4399):1311 -3. 
+66. Hollis BW, Wagner CL. New insights into the vit amin D requirements during 
+pregnancy. Bone Res. 2017;5:17030.  
+67. Lee MS, Li HL, Hung TH, Chang HY , Yang FL, Wahlqvist ML. Vitamin D intake 
+and its food sources in Taiwanese. Asia Pac J Clin Nutr. 2008;17(3):397 -407. 
+68. Chuang SC, Chen HL, Tseng WT, Wu IC, Hsu CC, Ch ang HY , et al. Circulating 
+25-hydroxyvitamin D and physical performance in old er adults: a nationwide 
+study in Taiwan. Am J Clin Nutr. 2016 Nov;104(5):1334 -44. 
+69. Moore C, Murphy MM, Keast DR, Holick MF. Vitami n D intake in the United 
+States. J A m Diet Assoc. 2004 Jun;104(6):980 -3. 
+70. Moore CE, Murphy MM, Holick MF. Vitamin D intak es by children and adults 
+in the United States differ among ethnic groups. J Nutr. 2005 Oct;135(10):2478 -
+85. 
+71. Tsai KS, Hsu SH, Cheng JP, Yang RS. Vitamin D stores of urban women in Taipei: 
+effect on bone density and bone turnover, and seaso nal variation. Bone. 1997 
+Apr;20(4):371 -4. 
+72. Lee WP, Lin LW, Yeh SH, Liu RH, Tseng CF. Correlations among serum calcium, 
+vitamin D and parathyroid hormone levels in the eld erly in southern Taiwan. J 
+Nurs Res. 2002 Mar;10(1):65 -72. 
+73. 黃怡真 . 2013-2016 國民營養健康狀況變遷調查維生素 D營養狀況分析 . 2017. 
+74. Lee MS, Huang YC, Wahlqvist ML, Wu TY , Chou YC, Wu MH, et al. Vitamin D 
+decreases risk of breast cancer in premenopausal wo men of normal weight in 
+subtr opical taiwan. J Epidemiol. 2011;21(2):87 -94. 
+75. Hwang JS, Tsai KS, Cheng YM, Chen WJ, Tu ST, Lu KH, et al. Vitamin D status 
+in non-supplemented postmenopausal Taiwanese women with osteoporosis and 
+fragility fracture. BMC Musculoskelet Disord. 2014 Jul 28 ;15:257.  
+76. Chien KL, Hsu HC, Chen PC, Lin HJ, Su TC, Chen MF, et al. Total 25-
+hydroxyvitamin D concentration as a predictor for a ll-cause death and 
+cardiovascular event risk among ethnic Chinese adults: a cohort study in a Taiwan 
+community. PLoS One. 201 5;10(3):e0123097.  
+77. Lin TC, Wu JY , Kuo ML, Ou LS, Yeh KW, Huang JL.  Correlation between 
+disease activity of pediatric-onset systemic lupus erythematosus and level of 
+=== p.22 ===
+22 
+ 
+vitamin D in Taiwan: A case-cohort study. Journal of microbiology, immunology, 
+and infec tion = Wei mian yu gan ran za zhi. 2018 Feb;51(1):110 -4. 
+78. Wang D, de-la-Paz OIV , Zhai JX, Liu DW . Serum 2 5-hydroxyvitamin D and 
+breast cancer risk: a meta-analysis of prospective studies. Tumor Biol. 
+2013;34(6):3509 -17. 
+79. Chang CI, Chan DC, Kuo KN, Hsiung CA, Chen CY . Vitamin D insufficiency 
+and frailty syndrome in older adults living in a Northern Taiwan community. Arch 
+Gerontol Geriatr. 2010 Feb;50 Suppl 1:S17 -21. 
+80. NUTRIENT DATA LABORA TORY: Search the USDA Natio nal Nutrient 
+Database for Standard Reference [database on the In ternet]. 2017 [cited 
+2017/11/1]. Available from: http://www.nal.usda.gov/fnic/foodcomp/search/ . 
+81. 蔣燕美 . 嬰幼兒鐵質與維生素 D 營養狀態之調查研究 . 台北市 : 實踐大學 ; 
+2014. 
+82. 中國營養學會 . 脂溶性維生素，維生素 D.  中國居民膳食營養素參考攝入量 . 
+北京 : 中國輕工業出版社 ; 2000. p. 280 -8. 
+83. Siafarikas A, Piazena H, Feister U, Bulsara MK, Meffert H, Hesse V . Randomised 
+controlled trial analysing supplementation with 250  versus 500 units of vitamin 
+D3, sun exposure and surrounding factors in breastf ed infants. Arch Dis Child. 
+2011;96(1):91 -5. 
+84. Wagner CL, Greer FR, American Academy of Pediatrics Section on Breastfeeding, 
+American Academy of Pediatrics Committee on Nutriti on. Prevention of rickets 
+and vitamin D deficiency in infants, children, and adolescents. Pediatrics. 
+2008;122(5):1142 -52. 
+85. Hollis BW, Wagner CL, Howard CR, Ebeling M, Sha ry JR, Smith PG, et al. 
+Maternal versus infant vitamin D supplementation during lactation: a randomized 
+controlled trial. Pediatrics. 2015;136(4):625 -34. 
+86. Umaretiya PJ, Oberhelman SS, Cozine EW, Maxson JA, Quigg SM, Thacher TD. 
+Maternal preferences for vitamin D supplementation in breastfed infants. Ann 
+Fam Med. 2017;15(1):68 -70. 
+87. WHO. Vitamin D supplementation in infants. WHO; 2017 [updated 15 June 2017 
+14:51 CEST; cited 2017 11/03]; Available from: 
+http://www.who.int/elena/titles/vitamind_infants/en/ . 
+88. Crowe FL, Steur M, Allen NE, Appleby PN, Travis  RC, Key TJ. Plasma 
+concentrations of 25-hydroxyvitamin D in meat eater s, fish eaters, vegetarians 
+and vegans: results from the EPIC–Oxford study. Pub lic Health Nutr. 
+2011;14(2):340 -6. 
+89. Chan J, Jaceldo-Siegl K, Fraser GE. Serum 25-hy droxyvitamin D status of 
+vegetarians, partial vegetarians, and nonvegetarians: the Adventist Health Study-
+2. Am J Clin Nutr. 2009;89(5):1686S -92S. 
+90. Wallace TC, Reider C, Fulgoni VL. Calcium and vitamin D disparities are related 
+to gender, age, race, household income level, and w eight classification but not 
+vegetarian status in the United States: analysis of the NHANES 2001–2008 Data 
+Set. J Am Coll Nutr. 2013;32(5):321 -30. 
+91. Ho-Pham LT, Nguyen ND, Nguyen TV . Effect of vegetarian diets on bone mineral 
+density: a Bayesian meta-analysis. Am J Clin Nutr. 2009;90(4):943 -50. 
+92. Appleby P, Roddam A, Allen N, Key T. Comparative fracture risk in vegetarians 
+and nonvegetarians in EPIC-Oxford. Eur J Clin Nutr. 2007;61(12):1400 -6. 
+93. Key TJ, Appleby PN, Spencer EA, Roddam AW, Neal e RE, Allen NE. Calcium, 
+diet and fracture risk: a prospective study of 1898  incident fractures among 34 
+696 British women and men. Public Health Nutr. 2007;10(11):1314 -20. 
+=== p.23 ===
+23 
+ 
+94. Ho-Pham LT, Nguyen PLT, Le TTT, Doan TAT, Tran NT, Le TA, et al. V eganism, 
+bone mineral density, and body composition: a study  in Buddhist nuns. 
+Osteoporos Int. 2009;20(12):2087 -93. 
+95. Ho-Pham LT, Vu BQ, Lai TQ, Nguyen ND, Nguyen TV. Vegetarianism, bone loss, 
+fracture and vitamin D: a longitudinal study in Asian vegans and non-vegans. Eur 
+J Clin Nutr. 2012;66(1):75 -82. 
+96. 李美璇 , 林以勤 , 黃怡真 , 黃琳媛 . 國人維生素 D 營養狀況初步分析結果：由
+NAHSIT 1993-1996 到 2005-2008. 2005 - 2008 台灣國民營養健康狀況變遷 
+調 查 結 果  [Internet]. 2011:[pp. 103-22 pp.]. Available from:  
+https://obesity.hpa.gov.tw/TC/researchList.aspx?cid=163 . 
+97. Jacobus CH, Holick MF, Shao Q, Chen TC, Holm IA , Kolodny JM, et al. 
+Hypervitaminosis D associated with drinking milk. N  Engl J Med. 1992 Apr 
+30;326(18):11 73-7. 
+98. Martin TJ, Grill V. Hypercalcaemia. Clin Endocrinol (Oxf). 1995;42(5):535 -8. 
+99. Barger-Lux MJ, Heaney RP, Dowell S, Bierman J, Holick MF, Chen TC. Relative 
+molar potency of 25-hydroxyvitamin D indicates a ma jor role in calcium 
+absorption. J Bone Miner Res 1996;11:S423.  
+100. Rizzoli R, Stoermann C, Ammann P, Bonjour JP. Hypercalcemia and 
+hyperosteolysis in vitamin D intoxication: effects of clodronate therapy. Bone. 
+1994;15(2):193 -8. 
+101. Selby PL, Davies M, Marks JS, Mawer EB. Vitami n D intoxication causes 
+hypercalcaemia by increased bone resorption which r esponds to pamidronate. 
+Clin Endocrinol (Oxf). 1995;43(5):531 -6. 
+102. Parfitt AM. Metacarpal cortical dimensions in hypoparathyroidism, primary 
+hyperparathyroidism and chronic renal failure. Cal cif Tissue Res. 1977;22 
+Supple:329-31. 
+103. Narang NK, Gupta RC, Jain MK. Role of vitamin D in pulmonary tuberculosis. J 
+Assoc Physicians India. 1984;32(2):185 -8. 
+104. 中國營養學會 . 脂溶性維生素，維生素 D.  中國居民膳食營養素參考攝入量 . 
+北京 : 科學出版社 ; 2013. p. 327 -35. 
+ 

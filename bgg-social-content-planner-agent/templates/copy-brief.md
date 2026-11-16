@@ -1,0 +1,16 @@
+# Copy Brief
+- Goal:
+- Platform:
+- Funnel stage:
+- Primary persona:
+- Situation:
+- Current belief:
+- Desired belief:
+- Single message:
+- Offer:
+- CTA:
+- Facts provided:
+- Claims to verify:
+- Tone:
+- Constraints:
+- Success metric:

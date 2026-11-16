@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+secrets/
+work/archive/
+# 含學員身體照片與體重數字（品牌公開，但本專案未取得授權），不上傳
+references/ig-screenshots/

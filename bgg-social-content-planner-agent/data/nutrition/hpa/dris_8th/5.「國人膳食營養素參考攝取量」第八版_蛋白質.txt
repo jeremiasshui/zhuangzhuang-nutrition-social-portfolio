@@ -1,0 +1,725 @@
+# 5.「國人膳食營養素參考攝取量」第八版_蛋白質.pdf
+# 來源：國民健康署（本機副本 tw_hpa/dris_8th）
+
+=== p.1 ===
+66  
+ 
+蛋白質 
+ 
+潘文涵 羅慧珍 林嘉伯 劉承慈 葉松鈴 林以勤 吳思芸 
+前言 
+ 
+蛋白質的英文 protein 源於希臘文 proteios，是最重要物質的意思。蛋白質乃一
+含氮物質，它的基本單位是胺基酸。無論是動物性或植物性蛋白質都由約 20 種胺基
+酸組成，由於各種胺基酸的不同含量、比例及不同排列順序，自然界有數萬種 以
+上的不同蛋白質，其分子量大小不一。 
+營養生化生理功能 
+ 
+一、理化性質 
+蛋白質的組成份中氮是重要的指標成分，約佔蛋白質重量的 16 %，有 9 種胺
+基酸在人體內無法合成，需自食物中攝取，是重要而不可缺少的，稱為必需胺基
+酸，包括色胺酸 （tryptophan）、離胺酸 （lysine）、甲硫胺酸 （methionine）、
+纈胺酸（valine）、苯丙胺酸 （phenylalanine）、羥丁胺酸 （threonine）、白胺酸 
+（leucine）、異白胺酸  （isoleucine）、組胺酸  （histidine，嬰兒不能合成）。其
+餘的十多種胺基酸可在人體內合成，稱為非必需胺基酸，其中酪胺酸 （tyrosine） 
+及胱胺酸  （cysteine） 有時在體內的合成量不足而需要性升高。 
+二、營養生化功能 
+蛋白質是構成生物體的主要成分，細胞中的細胞質、粒線體及細胞膜等，均
+以蛋白質為主要成分之一。體內的酵素、部分激素、抗體及體表的毛髮、指甲等
+亦由蛋白質構成，故蛋白質不僅是構成生物的主要原料，亦是調節生理機能的主
+要物質。 
+三、生理吸收代謝、個體存量與排泄 
+飲食中的蛋白質在胃內被胃蛋白酶分解成蛋白 䏡 （proteoses）及蛋白
+腖 （ peptones）， 在 小 腸 內 進 一 步 被 胰 蛋 白 酶 、 胰 凝 乳 蛋 白 酶 分 解 成 為 複
+胜類 （polypeptides），再被胜肽酶分解成三胜肽、雙胜類及胺基酸。經小腸黏膜的吸
+收後， 三胜肽及雙胜肽會被分解成為胺基酸。被吸收的胺基酸經肝門靜脈送入肝
+臟，約14 % 的胺基酸被合成為肝臟蛋白，6 %被合成為血漿蛋白，其餘經血液
+循環送至各組織被合成為各種蛋白質及被代謝為胺基酸代謝物[1]。各種蛋白質的
+消化吸收率不同，一般來說動物性蛋白質的消化吸收率比植物性蛋白質高。 
+體內的新陳代謝是 「動態」的，身體各種蛋白質以不同速率不斷地被分解又再
+合成。部分由體蛋白分解產生的胺基酸及其他含氮化合物，因不再被利用而經由
+異化代謝（catabolism） 產生尿素、肌酸酐（creatinine）及尿酸等含氮代謝物，排
+泄於尿及汗中。另一方面體蛋白質及含氮代謝物也會由毛髮、指甲、脫落的皮膚
+=== p.2 ===
+67  
+及黏膜上皮細胞及各種分泌液損失，因此必須每天攝取足夠的食物來供給蛋白質
+補充耗損。 
+被吸收的各種必需胺基酸及非必需胺基酸以適當的比例組合，建造新的組織
+蛋白質或修補組織，所以嬰兒、小孩或懷孕後半期的孕婦需要較多的蛋白質。被
+吸收的各種胺基酸也會被合成為身體各種分泌液，如黏液、乳汁的主 成份及各種
+血漿蛋白。有些胺基酸會被代謝轉變成為具生理活性的代謝物，如腎上腺素、血
+清素、多巴胺等。 
+蛋白質需要量評估與營養缺乏症 
+一、蛋白質缺乏症 
+蛋白質的缺乏可依程度分為輕度、中度及重度，主要是蛋白質攝取不足或消
+耗過度而導致體內組織的蛋白質被消耗。輕度蛋白質缺乏時無明顯癥狀，僅出現
+食慾不佳，兒童身高、體重略低於正常。中度缺乏時出現消化功能減退，免疫力
+下降，易患呼吸道感染。重度缺乏者外形消瘦、拒食、表情淡漠、反應遲鈍，常
+伴有多種維生素缺乏及各種併發症如口角炎、角膜軟化等，最後呈現全身水腫狀
+態。 
+蛋白質攝取量不足時，通常熱量攝取量也不足，所引起的缺乏症狀，稱之為
+蛋白質－熱量缺乏症 （protein  calorie  malnutrition，以下簡稱 PCM 或 protein 
+energy malnutrition, 以下簡稱 PEM）。攝取的蛋白質量不足又營養價值低時（部分
+必需胺基酸含量偏低），就更容易引起  PCM。PCM 在未開發、教育不普遍又貧
+窮的地區發生率較高，患者以孩童為主，成人較少。PCM 孩童生長發育不良，若體
+重很輕無水腫，  且 體 重 在 同 年 齡 標 準 體 重 的 60 % 以 下 ， 即 稱 為 消 瘦 症 
+（marasmus）。若體重在標準體重的 60～80 %，且有水腫、血清白蛋白偏低、頭髮
+顏色淡且細又易斷裂，並常併 發皮膚炎及肝腫大的現象，則稱為瓜西奧科兒症  
+（kwashiorkor）。 
+二、評估蛋白質需要量的方法及生化指標 
+目前對於胺基酸需要量的評估方法包括因數加算法、氮平衡法及指標胺基酸
+氧化法等。 
+ 
+（一）因子加算法 （factorial method） 
+衛生署（現衛生福利部）於民國七十年修訂蛋白質建議攝取量時 [2]，曾採用此
+方法。蛋白質被代謝成尿素、肌酸酐、尿酸藉由尿液排出體外，也由糞便及汗排
+出含氮的廢物。人即使不吃含蛋白質的飲食，仍會有這些含氮廢物的產生。此種
+不吃蛋白質仍有由尿或糞等途徑排出的含氮廢物稱內因性氮。因素加算法所根據
+的理論是：即使不吃含蛋白質的飲食，身體還是會產生某些量的含氮代謝物。換
+句話說，只要自飲食中吸收相當於這些基本含氮量的蛋白質，即足夠最起碼的身
+=== p.3 ===
+68  
+體代謝。所以，對成人而言把各因素氮 （如內因性尿氮、糞便氮及汗中氮） 加起
+來， 換算為蛋白質，再以飲食蛋白質利用效率及個人差異調整，即為蛋白質需要量
+[3]。此方法易低估蛋白質的實際需要量 [4]。小孩，孕婦或哺乳婦的需要量即須考慮
+生長發育或分泌母乳所需要的量。 
+ 
+（二）氮平衡法 （nitrogen balance method） 
+氮平衡是來自飲食蛋白質的氮攝取量與排泄於尿、糞便、汗及其他管道的氮
+總排泄量之間的平衡。為測定蛋白質需要量，讓受檢者在不同期間攝取比預估需
+要量少的三或四種不同量的蛋白質，並測定氮平衡。由所得三或四個負的氮平衡
+值，以外插法 （extrapolation） 推算零平衡點 （氮平衡點），再以飲食蛋白質利
+用效率及個人差異性調整，即為成人蛋白質需要量。已有文獻指出此外差法可能
+略微低估氮需求量。以小孩、孕婦或哺乳婦為對象時，氮平衡須達到適當的正氮
+平衡值。 
+2007 年 FAO/WHO/UNU 之委員會建議採用此方法[5]。 
+ 
+（三）指標胺基酸氧化法 （indicator amino acid oxidation  technique, 以下簡稱
+IAAO） 
+指標胺基酸氧化法是近年來科學家利用胺基酸氧化技術來評估必需胺基酸或
+蛋白質需求量的新方法[6, 7]。使用此方法時，受試者需以靜脈注射或口服方式給予
+穩定同位素標定之指標胺基酸，並定時收集及檢測尿液或呼氣中放射線標定氮化
+物之含量，藉以測定該胺基酸被氧化的情形，蛋白質或必需胺基酸愈充足時，指
+標胺基酸被氧化的程度就愈低。此法已應用於評估各年齡層的必需胺基酸及蛋白
+質之建議攝取量 [ 8 ]，整理結果如下， 21～29 歲年輕成人 平均需要量（ Estimated 
+Average Requirement, 以下簡稱 EAR）為0.9 g/kg BW， 加上 2個標準偏差求得建議
+攝取量（Recommended Dietary Allowance, 以下簡稱 RDA）為1.1～1.2 g/ k g BW  
+[7, 9]；65 歲以上以及 80 歲以上老人EAR 分別為0.94～0.96 g/kg BW和0.85 g/kg BW，
+RDA 分別為1.24～1.29 和 1.15 g/kg BW [10-12]；懷孕早期與晚期孕婦 EAR 分別為
+1.22 和 1.52 g/kg BW，RDA 為1.66 和 1.77 g/kg BW[13]；6～11 歲學齡兒童 EAR 為
+1.3 g/kg BW，RDA 為1.55 g/kg BW[14]。近年來指標胺基酸氧化法更進一步應用在
+評估運動員的蛋白質建議攝取量 [15-17]，其他也有少數研究利用此法評估必需胺基
+酸的建議攝取量是否符合建議[18-20]。 
+三、影響蛋白質需要量的因素 
+體內蛋白質的合成和分解與熱量攝取量有密切關係 （energy-dependent）。在
+蛋白質攝取量相同的條件下，熱量攝取過多，即氮排泄量會稍為減少；若熱量攝
+取不足，即氮排泄量會明顯增加 （蛋白質需要量增加 ）。因此進行氮平衡實驗時
+應給予維持正常體重所需要的熱量。 
+各種壓力（stress） 如發燒、外傷，甚至心理壓力都會增加體蛋白的分解代謝，
+使氮排泄量增加，所以燙傷或骨折的病人，其蛋白質需要量明顯增加。 
+如前所述生長發育中的小孩，孕婦及哺乳婦，因須提高體內的蛋白質合成量，所
+以每公斤體重的蛋白質需要量高於一般成人。成人男性與女性之間則無差異。 
+=== p.4 ===
+69  
+隨著年齡增長，身體較常處於慢性低程度發炎狀態，同時老人食慾較差，多
+因子加成，造成肌肉量（瘦質）、肌力及生理功能都逐漸衰減，導致身體基礎代謝
+量、熱量需求下降，進而惡性循環衍生肌少症與衰弱症等老年症候群 [21]。相對於
+一般成年人，老年人對於蛋白質利用率較差 ，需藉由提升蛋白質攝取量以促進肌
+肉蛋白質合成並抑制分解[21]。 
+四、蛋白質的品質 
+不同種類的飲食蛋白質，因其必需胺基酸的含量和比例不同，而有不同的體
+內利用效率，且不同食物蛋白質的消化率也不同。若攝取品質優良的蛋白質 （消
+化率及利用效率都高 ），如雞蛋或乳類蛋白質，則需要量小；若攝取蛋白質的品質低
+（消化率及利用效率都低 ），則需要量大。因此，判斷食物所含蛋白質營養價值
+之優劣時，「質」與「量」必須同時考慮。高品質蛋白質食物所含蛋白質分子中的必
+需胺基酸（essential amino acids ），除必須組成比例好、易為人體消化吸收外，所
+含的量也必須足夠。 
+1993 年  FAO/WHO 推 薦 以 蛋 白 質 可 消 化 率 校 正 之 胺 基 酸 分 數 （The 
+protein digestibility-corrected amino acid score, 以下簡稱PDCAAS）評估蛋白質的品
+質[22]。PDCASS 的評估方法考慮食物中蛋白質的消化率，其計算公式如下： 
+PDCAAS =胺基酸分數  x 食物中蛋白質的消化率 
+胺基酸分數是利用化學分析法評定蛋白質品質的方法，係將所欲評估的蛋白 質，
+分析其胺基酸成分，並分別計算每克蛋白質中所含各種必需胺基酸的含量，  再與 
+1985 年 FAO/WHO 所定的每克蛋白質中各種必需胺基酸含量的參考標準作比較，
+即為胺基酸分數。因此，在蛋白質中的每一種必需胺基酸皆有一個 PDCAAS 值，
+其中 PDCAAS 值最小的必需胺基酸，稱之為第一缺乏必需胺基酸，PDCAAS 值次
+小的必需胺基酸，稱為第二缺乏必需胺基酸，再其次為第三缺乏必需胺基酸。例如玉
+米的第一、二、三缺乏必需胺基酸，分別為離胺酸、色胺酸及異白胺酸。
+PDCAAS 值是目前最廣為接受的方法，主要是因為 PDCAAS 是由人體對胺基酸真
+正的需求所推衍而來，較符合人體需要。 
+各種食物皆有固定的 PDCAAS 值，例如蛋為 1，牛奶為 1，牛肉為 0.92，黃
+豆為 0.91，四季豆為 0.68，花生為 0.52，米飯為 0.47，及玉米為 0.42 等。一般來
+說，PDCAAS 值為 1 的食物可稱為「優質蛋白質」。 
+2013 年  FAO/WHO 改推薦以消化必需胺基酸分數  （Digestible Indispensable 
+Amino Acid Score, 以下簡稱DIAAS） 評估蛋白質的品質[23]。DIAAS 的評估方法
+考慮食物蛋白質中的胺基酸真正在小腸的消化吸收率，其計算公式如下： 
+DIAAS=胺基酸分數 x  食物中蛋白質在動物小腸的消化率 
+如同 PDCAAS，在蛋白質中的每一種必需胺基酸皆有一個 DIAAS 值，DIAAS 值最
+小的必需胺基酸為第一缺乏必需胺基酸，它的 DIAAS 值就是此蛋白質的品質。與 
+PDCAAS 不同的是，DIAAS 的最大值可超過 100，例如全脂奶為 114，蛋為 113， 雞
+胸肉為 108，鷹嘴豆為 83，豌豆為 64，白米飯為 57，豆腐為 52，花生為 46，小
+麥是 40[23-24]。一般來說，動物性蛋白質的 DIAAS 值比植物性蛋白質高，若以 
+DIAAS 值評估蛋白質的品質，其結果與 PDCAAS 略有不同。 
+ 
+=== p.5 ===
+70  
+蛋白質參考攝取量 
+一、一般成人 
+Wolfe 等人（2017）指出蛋白質  RDA 的設定主要是避免體內氮流失所需的最
+低 蛋 白 質 攝 取 量 ， 當 進 行 飲 食 設 計 時 ， 巨 量 營 養 素 可 接 受 範 圍
+（Acceptable Macronutrient Distribution Range, 以下簡稱AMDR）較能提供完整的飲
+食建議。根據 2002 年美國醫學研究所食物與營養委員會（Food and Nutrition Board：
+Institute of Medicine ，FNB：IOM）的建議，蛋白質的 AMDR 可佔總熱量的 10～
+35% [25] 
+2007 年 FAO/WHO/UNU 之蛋白質與胺基酸需要量委員會的報告書中所建議的
+成人蛋白質需要量是根據在不同地區進行，可以維持氮平衡的蛋白質平均攝取量
+計算[5]。在這些人體實驗中所使用的蛋白質是高品質的雞蛋、牛奶、牛肉、魚等蛋白
+質，供應的熱量即可維持平常體重的量。綜合九篇短期 （10～15 天） 研究報告的結
+果，成人平均需要量是0.63 g/kg BW。由皮膚等排泄的氮量（Miscellaneous N Losses）
+被估計為8 mg/kg BW。該計算包括我國的研究結果，黃與林[26]所得數值0.58 g/kg 
+BW。另外由長期  （l～3 個月） 實驗結果推估的平均需要量為0.58 g/kg BW。因
+此 2007 年上述 FAO/WHO/UNU 報告[5]採用0.66 g/kg BW/d高品質蛋白質為平均需
+要量，又估計標準偏差 （SD） 為 12.5 %，所以安全攝取量之下限 （平均＋2SD） 
+為0.83 g/kg BW （0.66 x 1.25） 的高品質蛋白質。 
+由於各國人民攝取的混合飲食所含蛋白質的品質及消化吸收率不相同，其他
+有關的因素也不相同，因此各國的蛋白質建議攝取量並不相同。在美國，一般飲
+食蛋白質的 amino acid score 為 100，建議攝取量即把 0.75 g往上調整為0.8 g/kg BW。 
+黃與林[26]以青年男性為對象，給予依據  1980 年台灣地區食物平衡表設計的
+實驗飲食進行氮平衡實驗，結果指出我國成人的平均蛋白質需要量為0.8 g/kg BW 。
+若標準偏差採 12.5 %，即成人之建議攝取量為1.0 g/kg BW （0.8 x 1.25）。近二十年
+來國人動物蛋白質可獲量與植物性蛋白質可獲量之比例明顯升高 [27]，國人之平均
+購買力亦增加。換句話說國人所攝取的蛋白質品質應已提高。據黃青真 教授的研
+究[28]，國人均衡飲食之 amino acid score 已達 100，所以第六版修訂之蛋白質建議
+攝取量予以降低  0.1 g，訂為0.9 g/kg BW 。70 歲以上的老年人，瘦體組織 （lean 
+body mass） 的比例較年輕成人低，但考慮其消化吸收率，體內利用效率稍有降低，
+處於疾病狀態的機率高於年輕人，建議攝取量相同於民國 82 年之第五 版修訂版， 
+1.0 g/kg BW。 
+Humayun 等人[7]利用  IAAO 方法評估成年男子（25~29 歲）每天的蛋白質平
+均需求量為0.93 g/kg BW，並加上 2個標準偏差 估計百分之  95 信賴區間之上限，
+即每日建議攝取量為1.24 g/kg BW。Tian 等人[9]同樣使用 IAAO 方法推估中國年輕
+女性成人（21~23 歲）的高品質蛋白質平均需要量與每日建議攝取量為 0.9 和 1.1 
+g/kg BW。由此兩者實驗數據顯示利用 IAAO 方法評估蛋白質平均需要量較氮平衡
+法來得高。近年來學者重新審視氮平衡法數據，改以兩條線性回歸交叉  （two-
+phase linear regression） 的方式外插出氮平衡點。Elango 等人[7]針對  28 個氮平衡
+實驗，使用這個方法得到0.91 g/kg BW的估計值，並估計百分之 95 信賴區間之上
+限為 0.99 g，接近 1.0 g。 
+2014 年，Li 等人[29]由 MEDLINE, Embase, China Hospital Knowledge Database 
+=== p.6 ===
+71  
+等來源，蒐集到 28  個氮平衡試驗，包含 359 位受試者的綜合分析 （Meta-analysis） 
+資料，以分析成人的蛋白質需要量。 其結果推估高品質蛋白質平均需要量與建議
+攝取量分別為0.66 及 0.83 g/kg BW，與 2007 年 FAO/WHO/UNU 的報告書相同。該
+研究以胺基酸分數 0.8 校正中式飲食之蛋白質品質，則成人的蛋白質建議攝取量為
+1.0 g/kg BW，與黃與林[26]之研究相符。參酌最新 IAAO 方法估計之蛋白質平均需要
+量數據，第七版增修版成人之蛋白質建議量為1.1 g/kg BW。 
+在 2007 年 FAO/WHO/UNU 之報告書中，以氮平衡的概念考量，老年人與一
+般成人每公斤體重的蛋白質建議攝取量並無區別。然而，Milne 等人[30]由 Cochrane 
+Library, MEDLINE, EMBASE, Healthstar, CINAHL, BIOSIS, CAB abstracts 等來源， 
+蒐集到  62 個臨床試驗，包含 10,187  位受試年長者的資料，以分析給予蛋白質及
+熱量補充對營養狀況及罹病率的影響。其中  42 個臨床試驗的結果支持，給予年
+長者高蛋白質及熱量補充有助於體重的增加。而針對營養不足  （protein-energy 
+malnutrition） 的年長者，若給予高蛋白質及熱量  （至少 400 kcal） 補充，其疾
+病併發症及死亡率會顯著降低。此結果支持老年人蛋白質需求量高於一般成年人
+之建議。Tang[10]與 Rafi[11, 12]等人近年來使用 IAAO 方法評估老年人每天的蛋白質
+需求量為0.85 ～ 0.96 g/kg BW，並加2個標準偏差推估建議量為1.15 至 1.29 g/kg 
+BW。 
+上述蛋白質需求試驗研究均為小樣本，大型前瞻性研究雖顯示蛋白質攝取越
+多的老人，肌肉流失越少，呈現 線性關係，沒有清楚 的閾值。使用近年國民營養
+健康調查的資料分析 足夠攝取量（ Adequate Intakes, 以下簡稱AI），我國健壯老
+年人的蛋白質攝取量中位數為1.2 g/kg BW/d ，平均值為1.3 g/kg BW/d ，衰弱前期
+老人的中位數約1.1 g/kg BW/d ，衰弱老人的中位數則低於1.0 g/kg BW/d 。並參酌 
+PROT-AGE Study Group（歐盟老年醫學學會與其他科學組織合作，任命的一個國
+際研究小組）對老人蛋白質的建議量為1.0～1.2 g/kg BW/d [31]，故第八版參考國民
+營養健康調查的 AI 數據資料，建議老年人蛋白質攝取量為應大於1.2 g/kg BW/d，
+以利維持老年人的肌肉功能。此外，老人應加強運動以維持瘦質亦是一主要 健康
+關鍵。 
+總結，第八版之蛋白質建議量為成人1.1 g/kg BW，70 歲以上老人與 80 歲以
+上老老人1.2 g/kg BW。進一步根據參考體重（男 58-64 kg，女 50-52 kg）換算每
+日蛋白質攝取量，並取整數 5 或 10 計量呈現，所得結果為各年齡層男性建議70 
+g/d ，女性建議60 g/d。 
+ 
+二、孕婦及哺乳婦的需要量 
+婦女在懷孕期間的體重增加量若達 12.5 kg，而產下 3.3 kg 的嬰兒，在懷孕期間 
+母體所蓄積於體內的蛋白質量被估計為 925 g，即每日的平均增加量為 3.3 g。若高
+品質蛋白的利用效率同於嬰幼兒的 70 %，而標準偏差為 12.5 %，即理論上在懷孕
+期間孕婦每天平均需多吃 5.9 g 高品質蛋白質 [（3.3 ÷ 0.7） x 1.25]。Elango 及 Ball 
+使用 IAAO 方法評估懷孕婦女的蛋白質需要量，結果發現懷孕早期 （約 16 週） 
+及晚期 （約 36 週） 的婦女，每天每公斤體重的蛋白質需要量不同，分別為 1.2 及 
+1.52 g， 可能是因為懷孕第三期時懷孕婦女與胎兒組織的蛋白質合成量較高。 [32]
+懷孕第一期、第二期及第三期的蛋白質需要量顯然不相同，但為避免實際應用時之方
+便性， 故本版（第八版）本將懷孕期間不分期，建議每日多攝取 10 g。 
+=== p.7 ===
+72  
+據 WHO Collaborative Study on Breast - Feeding 在 5 個國家  （Guatemala、
+Hungary、Philippines、Sweden、Zaire） 的結果顯示[33]，哺乳期間每日母乳分泌量
+在生產後  2至 3 個月時最多，平均約為 850 mL （6 個月時減為約 600 mL）。若
+每 100 mL 母乳的蛋白質含量為 1.1 g，即每日需合成 9.4 g母乳蛋白質 （1.1 x 8.5 
+=9.35 g）。為合成 9.4 g蛋白質，母親需攝取 13 g的優良蛋白質，而標準偏差若訂
+為 12.5 %，則每日需增加攝取的蛋白質量最多為 16.3 g。因此建議哺乳期間每日多
+攝取 15 g高品質蛋白質。 
+ 
+三、嬰兒蛋白質需要量 
+四個月以下嬰兒的需要量可根據生長發育正常嬰兒的母乳蛋白質攝取量訂定。
+FAO/WHO/UNU 1985 年報告書[33]採用的母乳哺餵嬰兒的每日平均母乳蛋白質攝
+取量分別為每公斤體重 2.43 g （0～1 個月），1.93 g （1～2 個月），1.76 g （2～3 
+個月），及 1.51 g （3～4 個月）。 
+本攝取參考量表中一歲以下嬰兒分成兩個年齡層，為 0～6 月及 7～12 月。
+據盧立卿教授的研究[34]，國人第 6 個月平均母乳輸出量約為 780 mL，每 100 mL
+母乳蛋白質含量為 1.5 g，嬰兒參考體重 6 kg之調查結果可推算出，0～6 月嬰兒蛋
+白質攝取量是 1.95 g/kg BW/d。需要量的標準偏差為 12.5 %，則安全攝取量為2.4 
+g/kg BW。因考慮 FAO/WHO/UNU 1985 年報告書之數值顯著低於國人調查結果，
+以及第六版 0～3 月及 3～6 月分別為2.4 及 2.2 g/kg BW，故修訂第七版時，0～6 月
+嬰兒蛋白質需要量修定為2.3 g/kg BW 。隨著年齡增加， 嬰兒的生長速度逐漸下降，
+故其每公斤體重為基準的蛋白質建議攝取量亦相對減 少 （請閱附表）。7～12 月
+嬰兒蛋白質需要量依照 0～6 月為基準，再採用男女參考體重的平均值，利用外推法
+得到每日足夠攝取量為 17.9 g [13.8x（8.5/6）0.75=17.9]，最後換算出每日足夠攝取
+量為2.1 g/kg BW。因此，第七版 7～12 月嬰兒蛋白質需要量修定為2.1 g/kg BW。 
+加拿大 2006 年的一項統合分析（meta-analysis） 研究[35]，蒐集 53 個臨床試驗，
+其中 5 個臨床試驗的結果支持，餵食低出生體重嬰兒高蛋白質配方奶 （蛋白質 3–
+4g/kg BW ），其體重增加顯著高於較低蛋白質配方奶 （蛋白質 <3 g/kg BW ）， 且
+未顯著造成不良反應。 
+隨著年齡增加，嬰兒的生長速度逐漸下降，故其每公斤體重為基準的蛋白質
+建議攝取量亦相對減少 （請閱附表）。黃、林與許[36]以雞蛋蛋白質及牛乳蛋白質
+研究一歲左右嬰幼兒的蛋白質需要量，由氮平衡實驗 （熱量攝取在正常範圍 ）所
+得結果計算的安全攝取量為1.3 g/kg BW，但因一歲左右嬰幼兒通常已斷奶，所攝取
+的混合蛋白質品質較低，故建議一歲左右兒童提高安全攝取量為1.6 g/kg BW。 
+ 
+四、兒童及青少年的蛋白質需要量 
+美國 FNB：IOM 建議 1～3 歲兒童的蛋白質 AMDR 為總熱量的 5～20%，4～
+18 歲為10～30%[37]。1～9 歲兒童無性別差異，生長速度逐漸下降，故其每公斤體
+重為基準的蛋白質建議攝取量亦相對減少。第七版修訂 1～3 歲及 4～6 歲建議攝
+取量為1.6 g/kg BW，7～9 歲為 1.5 g/kg BW。換算為每日攝取量為 1～3 歲 20 g，4
+～6 歲 30 g，7～9 歲 40 g。 
+10～18 歲的青少年，建議攝取量係依據維持氮平衡所需的量、生長所需量、
+標準偏差 （維持氮平衡所需量的標準偏差： 12.5 %，生長所需量的標準偏差：35 
+=== p.8 ===
+73  
+%） 及飲食蛋白質的利用率等訂定。男性每日建議攝取量大於女性，且因青春期
+生長速度快，所以比成年人需要量稍高。估算值再調為整數。因此本次修訂為  10
+～12 歲建議攝取量男性為1.4 g/kg BW （ 55 g/d），女性為1.3 g/kg BW （ 50 
+g/d）。13～15 歲男性為1.3 g/kg BW （ 70 g/d），女性為1.2g/kg BW （ 60 g/d）。
+16～18 歲男性為1.2 g/kg BW（ 75 g/d），女性為1.1 g/kg BW （ 55 g/d）。 
+註：FAO：Food and Agriculture Organization WHO：World Health Organization 
+UNU：United Nations University 
+國人蛋白質營養狀態與慢性疾病風險相關性 
+一、主要食物來源 
+比較 2005～2008 年以及 1993～1996 年的台灣 國民營養健康 狀況變遷 調查
+（Nutrition and Health Survey in Taiwan, 以下簡稱NAHSIT）數據[38]，除了 65 歲以
+上老人外，19～64 歲成人男、女性的「豆魚蛋肉類」攝取總份數與蛋白質總量皆呈
+現增加的現象，尤其是 19～64 歲男性的魚、肉、蛋類攝取量高達 9 份，女性約
+攝取 6～7 份，其中皆以豬肉類及其製品攝取最高（每天約 3 份），但現今豬肉類
+及其製品的脂肪含量較  1993～1996年代有大幅降低的現象，呈現其所提供的蛋白
+質克數增加，但所提供的熱量減少的現象，顯示國人已會選擇脂肪含量較低的畜
+肉製品。若累加家禽類、家畜類、水產、蛋類及其製品所提供的動物性蛋白質，
+與全穀雜糧類、植物油類、堅果類及其製品、黃豆類及其製品及蔬菜水果所提供
+的植物性蛋白質算比值來看，則 19～30 歲、31～64 歲與 65 歲以上男性的比值，
+分別由1993～1996 年 NAHSIT 的 1.5、1.2 與 1.4 改變為 2.3、1.5 與 1.3；女性則
+由 1.4、1.2與 1.2，變成 1.8、1.4、1。顯示成人蛋白質來源其中約二分之一以上到
+三分之二為動物性蛋白質，比值較  1993～1996 年 NAHSIT 大幅提高了，老人則
+減少；年齡越低， 動物性蛋白質攝取量比例越高；男性的動物性蛋白質的攝取比
+例也高於女性。 
+植物性蛋白質的食物來源除了黃豆及其製品以外，全穀雜糧、堅果種子等的
+含量也很高。紅豆、綠豆、花豆、雪蓮子豆等含澱粉的豆科種子被歸納在全穀雜
+糧的乾豆類，蛋白質含量約為白米的三倍。堅果種子類的食物當中，花生、南瓜
+子、與葵瓜子之蛋白質含量高於其他堅果（腰果、核桃、杏仁、芝麻、亞麻仁籽
+等），但低於乾豆類。各類植物性蛋白的胺基酸組成不同，一般穀類如糙米、小
+米、小麥，以及堅果種子等限制胺基酸為離胺酸，而含澱粉的乾豆類之限制胺基
+酸為半胱胺酸及甲硫胺酸。若飲食中完全以植物性食物為蛋白質來源，應均衡攝
+取穀類與豆類以達到胺基酸平衡。 
+二、攝取量 
+根據 2005～2008 年 NAHSIT [38]，以 24 小時飲食回憶法調查蛋白質攝取狀況
+如下。 
+男性成人（ 19～64 歲） 每天平均攝取量為  97.1 g，女性成人平均攝取量為 
+73.1 g。老年（65 歲以上） 男性每天平均攝取量為 72.1 g，老年女性平均攝取量為 
+55.4 g。各年齡層女性攝取量皆少於男性，平均值介於  55～77 g之間，較 1993～
+1996年的調查平均值範圍  52～66 g為高。與建議量比較，男女性各年齡層之平均
+=== p.9 ===
+74  
+攝取量皆超過建議量，男性範圍為 129 %～178 %，女性範圍為 114 %～153 %。三
+大營養素的 分 配 ，在 19～64 歲成人蛋白質、脂肪、醣類佔總熱量百分比分別為 16.2%
+～17.2%、31.2%～34.3%、48.9%～51.8%，在老人為  16.6%～16.8%、27.8%～
+29%、54.1%～55.6%，蛋白質比例與過去相比，從接近 15.5%增加到約 17%。國人
+蛋白質佔熱量比例之範圍均未超過美國心肺血研究所推薦之得舒飲食之蛋白質比
+例 （18 %） 。 
+據 FAO/WHO/UNU 之報告[3]，13～14 歲男孩的蛋白質安全攝取量為0.75 g/kg 
+BW，女孩則為 0.65 g/kg BW ，而我國 1993～1996 年NAHSIT結果[38]顯示，13～
+15 歲男、女孩的建議攝取量分別為1.27 g/kg BW及 1.22 g/kg BW；我國 13～15 歲女
+孩， 其攝取量中位數雖僅為建議量之 85 % ，但仍超過所提 FAO/WHO/UNU 安全
+攝取量。鑑於成人蛋白質攝取平均在  2005～2008 年NAHSIT普遍提高，推測  13
+～15 歲青少年的現今蛋白質攝取平均量應略高於  1993～1996 年 N A H S I T之數
+據，因此蛋白質應無缺乏之虞。 
+三、慢性疾病風險相關性 
+目前以正常人為對象，探討有關蛋白質 上限攝取量 （Tolerable Upper Intake  
+Level, 以下簡稱 UL） 的研究仍舊缺乏。美國的 National Research Council 認為[39]
+一般美國人的蛋白質攝取量相當高，但無明確證據指示有害於健康。 但該委員會
+認為以不超過蛋白質建議攝取量之 2 倍為宜。 
+患某些肝病或腎病時正常的蛋白質攝取量即有可能導致血中氨、尿素或肌酸
+酐明顯偏高而加重病情，不過此種毒性不在本國人膳食營養素參考攝取量
+（Dietary Reference Intakes, DRIs）說明之範圍。 
+此外，鑑於國人的蛋白質攝取量平均值，在各年齡層均高過蛋白質需求量的
+一成到七成，且其動物性來源的比例較高，瞭解「較需求量略偏高」的蛋白質攝
+取量和健康的關係，有其必要性。以下內容就蛋白質攝取量與蛋白質種類和高血
+壓/心臟血管疾病、肥胖、癌症、骨質疏鬆、腎臟病、以及肌少症 /衰弱症的關係，  
+以蘇格蘭跨大專院校指南連線 （Scottish Intercollegiate guideline network, SIG N）
+的建議等級作一系統性回顧，作為使用本建議量之參考。 
+（一）癌症 
+蛋白質攝取量對於大多數癌症發生率的影響，目前尚無足夠研究數據可供參
+考。在蛋白質來源方面，黃豆蛋白攝取量增加可能與特定癌症發生風險之降低有
+關，而某些動物性蛋白質攝取量增加可能與特定癌症發生風險增加有關。中等證
+據顯示黃豆製品降低停經前婦女乳癌風險，有限的證據顯示動物性蛋白質攝取增
+加乳癌發生率[40-41]。有限的證據顯示乳蛋白增加前列腺癌風險，而黃豆蛋白降低
+前列腺癌風險[42-43]。總動物性蛋白質攝取量不影響結直腸癌風險，但是紅肉攝取
+增加結直腸癌風險，而魚類及黃豆攝取降低結直腸癌風險 [44]。蛋白質種類對於其
+他癌症方面的影響相關研究不足。 
+ 
+（二）高血壓及心臟血管疾病 
+ 
+過去探討蛋白質和血壓及心臟血管疾病關係的研究不多，近年來跨國比較、
+=== p.10 ===
+75  
+以及東亞人（日本人、華人）的研究顯示有中等的證據支持蛋白質攝取總量較高
+者血壓較低。強度的證據顯示投與黃豆蛋白或植物蛋白可以降低血壓 [45-46]。流行
+病學研究證據顯示蛋白質攝取量可能與腦中風呈負相關，蔬菜蛋白、黃豆蛋白與
+所有中風（total stroke）成負相關。蔬菜蛋白與缺氧性中風（ischemic stroke） 成負
+相關，而黃豆蛋白與動物性蛋白與出血性中風（hemorrhagic stroke）成負相關 [47-48]。 
+ 
+（三）體重 
+強度的證據顯示，高蛋白飲食用於體重控制被認為有助於減輕體重、幫助體重
+維持，並在熱量限制期間減少瘦體組織流失；中度證據顯示高蛋白、低醣類的飲食
+可降低血中三酸甘油酯，對血中三酸甘油酯高者效果更為顯著，對一般肥胖受試者
+骨質轉換代謝、鈣的排出和腎臟功能沒有負面影響；對第二型糖尿病肥胖病人之血
+脂質、肝腎功能亦無影響。在第二型糖尿病的預防，數個世代追蹤的系統性回顧與
+統合分析研究均顯示動物性蛋白可能提高糖尿病風險，而植物性蛋白則偏向保護[49-
+51] 。強度證據顯示不同蛋白質種類對體重降低的影響並無顯著差異。以低熱量飲食
+減重時蛋白質之熱量百分比應該要提高。 
+（四）腎臟功能 
+美國一世代研究的結果指出，腎功能不全的婦女若長期攝取較多非乳製品動
+物蛋白，可能加速腎功能的降低，但對正常婦女的腎功能無顯著影響 [52]。有較強
+的證據顯示，健康成人攝取一星期的高蛋白飲食（2.0 g/kg BW/d），其腎絲球濾過
+率顯著高於攝取一星期的低蛋白飲食 （0.5 g/kg BW/d），且腎臟功能未受影響[53]。
+此外，低蛋白飲食（0.3～0.75 g/kg BW/d）並不會改變腎臟病患者的身體組成[54]。
+而限制糖尿病患者的蛋白質攝取量在  0.3～0.8 g/kg BW/d 時，腎臟功能流失速率有
+未達顯著性的降低[55]
+。 
+（五）骨質健康 
+蛋白質是骨質的重要成份。中等強度的證據顯示正常的蛋白質攝取量並不會
+影響體內鈣的代謝平衡狀態 [56]。此外，中等強度的證據顯示蛋白質攝取與骨密度
+具有正相關性[56]；且補充蛋白質與較高的腰椎骨密度具有正相關性 [57]；然而迄今
+並無足夠的直接證據顯示蛋白質攝取量與預防髖骨骨折發生具有顯著明確的相關
+性[57]。 
+（六）肌少症及衰弱症 
+衰弱症及肌少症是相當受到重視的兩個相關的老年症候群，反應整體生理系
+統累積性的機能退化。肌少症是一種肌肉量少、肌力弱、肌肉功能退化的疾病[58]； 
+衰弱症表徵經常涵蓋握力弱、及走路速度慢的現象，其盛行率均隨年紀而增加。
+國內外文獻中許多研究以  Linda Fried 之五個臨床表徵（亦即：近期體重下降、
+步行速度緩慢、手握力不足、身體活動量偏低、感到精疲力竭）來定義衰弱症 [59]。
+此方式旨在評估身體衰弱 （physical frailty） 的程度，有三個或多於三個癥候者定
+義為衰弱症患者，有一或兩個症候者為衰弱前期。根據此定義，在臺灣，衰弱症在 65 歲
+以上的老年人群中約  5～11%的盛行率，女性又比男性更容易罹患此症 [60-62]。肌
+少症在女性的盛行率約 4.1%，在男性約 9.3%[63]。衰弱症和肌少症之發病機轉包括
+=== p.11 ===
+76  
+年老引起的生理變化、內分泌失衡、營養攝取不足、神經退化與疾病、外界環境
+壓力等多重因素 [64-65]。肌少症為衰弱症的一個面向，但衰弱症包含面向更廣。衰
+弱症和肌少症一旦存在，會增加跌倒、失能或殘障的機率，可能需要入住養護機構， 
+並且增加住院率和死亡率[64, 66]。若能早期預防這些老年症候群，就有機會避免進
+入惡性循環，降低相關的醫療支出[66]。 
+肌少症與衰弱症的防治核心理念在增加肌肉量和功能，目前飲食管理與物理
+治療 （運動） 相結合是為防止或逆轉這些症候最有效的方法。[31]。流行病學相關
+研究指出，低熱量、低蛋白質攝取、以及維生素 D、維生素 B12、類胡蘿蔔素、硒、
+鋅等不足的現象可能會增加衰弱症的危險性[67-71]。 
+不同種類的營養補充方式已被應用於對抗衰弱症、肌少症的試驗中，其中，  
+補充單一類別營養素（如蛋白質）、結合蛋白質與維生素 D、較高的熱量補給等為
+常見的介入方式 [66, 72-77]。營養補充品對預防衰弱症的影響，目前實驗結果並不一
+致 [30, 31, 78-82]。然而，以食物的方式補充蛋白質介入研究顯示，能顯著增加肌肉量
+與肌肉強度，針對不同身體狀況之合適的需求量仍有待實證研究提供進一步的資
+料[83-84] 。 
+綜合以上，國人蛋白質攝取傾向於略高於前版 RDA，針對癌症、心臟血管疾
+病、肥胖、骨質疏鬆、腎臟疾病、以及肌少症/衰弱症進行系統性文獻探討，蛋白
+質和慢性病關係仍需要更進一步的研究來釐清，但多數文獻並未顯示蛋白質略高
+對一般健康大眾有健康危害，且多數有中等證據的效益，此外，黃豆或植物蛋白
+似乎有助於降低多數慢性疾病的風險。目前蛋白質建議量主要考量在提供足夠的
+蛋白質，使處於各生命期營養的國人其蛋白質平衡無虞，目的不在替蛋白質攝取
+量設立上限，建議營養從業人員不要以蛋白質建議量來論及國人蛋白質攝取過多
+與否，未來需要針對蛋白質攝取上限，作更多的研究與探討。 
+ 
+參考文獻 
+1. Mathews DE. Proteins and amino a cids. In： Ross AC, Caballero B, Cousins RJ, 
+Tucker KL, Ziegler TR, editors. Modern nutrition in Health and Disease. 11th ed. 
+Baltimore, MD： Lippincott Williams & Wilkins; 2012. p. 3-35. 
+2. 行政院衛生署. 「建議國人每日營養素食取量表」及其說明  1981. 
+3. Report of a joint FAO/WHO ad hoc exp ert commitee. Energy and protein 
+requirements. FAO Nutrition Meetings Report Series No. 52. WHO Technical 
+Report Series No. 522. Rome and Geneva.1973. (Level of evidence： 1++, A) 
+4. Garza C, Scrimshaw NS, Young VR. Human protein requirements ： a long-term 
+metabolic nitrogen balance study in young men to evaulate the 1973 FAO/WHO safe 
+level of egg protein intake.  J Nutr. 1977; 107(2)： 335-52. (Level of evidence ： 
+1++, A) 
+5. Report of a joint FAO/WHO/UNU Expert Consultation. Protein and amino acid 
+requirements in human nutrition. World health organization technical report 
+series2007. p. 1-265. (Level of evidence： 1++, A) 
+=== p.12 ===
+77  
+6. Pencharz PB, Ball RO. Amino acid needs for early growth and development. J Nutr. 
+2004; 134(6 Suppl)： S1566-8. 
+7. Humayun MA, Elango R, Ball RO, Pencharz PB. Reevaluation of the protein 
+requirement in young men with the indicator amino acid oxidation technique. Am J 
+Clin Nutr. 2007; 86(4)： 995-1002. (Level of evidence： 1++, A) 
+8. Elango R, Ball RO, Pencharz PB. Indicator  amino acid oxidation ： concept and 
+application. J Nutr. 2008; 138(2)： 243-6. (Level of evidence： 1+, A) 
+9. Tian Y, Liu J, Zhang Y, Piao J, Gou L, Tian Y, Li M, Ji Y, Yang X. Examination of 
+Chinese habitual dietary protein requirements of Chinese young female adults by an 
+indicator amino acid method. Asia Pac J Clin Nutr. 2011; 20(3) ： 390-6. (Level of 
+evidence： 1+, A) 
+10. Tang M, McCabe GP, Elango R, Pencharz PB, Ball RO, Campbell WW. Assessment 
+of protein requirement in octogenarian women with use of the indicator  amino acid 
+oxidation technique. Am J Clin Nutr. 2014; 99(4)： 891-8. (Level of evidence： 1+, 
+A) 
+11. Rafii M, Chapman K, Owens J, Elango R, Campbell WW, Ball RO, Pencharz PB, 
+Courtney-Martin G.  Dietary protein requirement of female adults>  65 years 
+determined by the indicator amino acid oxidation technique is higher than current 
+recommendations. J Nutr. 2015; 145(1)： 18-24. (Level of evidence： 1+, A) 
+12. Rafii M, Chapman K, Elango R, Campbell WW, Ball RO, Pencharz PB, Courtney -
+Martin G. Dietary Protein Requirement of Men> 65 Years Old Determined by the 
+Indicator Amino Acid Oxidation Technique Is Higher than the Current Estimated 
+Average Requirement. J Nutr. 2015; 146(4)： 681-7. (Level of evidence： 1+, A) 
+13. Stephens TV, Payne M, Ball RO, Pencharz PB, Elango R. Protein requirements of 
+healthy pregnant women during early and late gestation are higher than current 
+recommendations. J Nutr. 2015; 145(1)： 73-8. (Level of evidence： 1+, A) 
+14. Elango R, Humayun MA, Ball RO, Pencharz PB. Protein requirement of healthy 
+school-age children determined by the indicator amino acid oxidation method. Am 
+J Clin Nutr. 2011; 94(6)： 1545-52. (Level of evidence： 1+, A) 
+15. Malowany J.M, West DWD, Williamson E, Volterman KA, Sawan SA, Mazzulla M, 
+Moore DR. Protein to Maximize Whole -Body Anabolism in Resistance -trained 
+Females after Exercise. Med Sci Sports Exerc. 2019; 51(4)： 798-804 
+16. Bandegan A, Courtney-Martin G, Rafii M, Pencharz PB, Lemon PWR . Indicator 
+amino acid oxidation protein requirement estimate in endurance -trained men 24 h 
+postexercise exceeds both the EAR and current athlete guidelines. Am J Physiol 
+Endocrinol Metab. 2019; 316(5)： E741-8. 
+17. Bandegan A , Courtney -Martin G, Rafii M, Pencharz PB, Lemon PW.  Indicator 
+Amino Acid -Derived Estima te of Dietary Protein Requirement for Male 
+=== p.13 ===
+78  
+Bodybuilders on a Nontraining Day Is Several -Fold Greater than the Current 
+Recommended Dietary Allowance. J Nutr. 2017; 147(5)： 850-7. 
+18. Al-Mokbel A, Courtney-Martin G, Elango R, Ball RO, Pencharz PB, Tomlinson C. 
+Tryptophan Requirement in School -Age Children Determined by the Indicator 
+Amino Acid Oxidation Method is Similar to Current Recommendations. J Nutr. 2019; 
+149(2)： 280-5. 
+19. Payne M, Stephens T, Lim K, Ball RO, Pencharz PB, Elango R.  Lysine Requirements 
+of Healthy Pregnant Women are Higher During Late Stages of Gestation Compared 
+to Early Gestation. J Nutr. 2018; 148(1)： 94-9. 
+20. Turki A, Ueda K, Cheng B, Giezen A, Salvarinova R, Stockler -Ipsiroglu S, Elango 
+R. The Indicator Amino Acid Oxidation Method with the Use of l -[1-13C]Leucine 
+Suggests a Higher than Currently Recommended Protein Requirement in Children 
+with Phenylketonuria. J Nutr. 2017; 147(2)： 211-7. 
+21. Baum JI, Kim I-Y, Wolfe RR. Protein Consumption and the Elderly： What Is the 
+Optimal Level of Intake? Nutrients. 2016; 8(6)： 359. 
+22. FAO/WHO. Protein quality evaluation in human diets. Rome, Italy ： Food and 
+Agriculture Organization, Food and Nutrition paper 51; 1991 ： 35-36. (Level of 
+evidence： 1++, A) 
+23. Food and Agriculture Organization of the United Nations. Dietary Protein Quality  
+Evaluation in Human Nutrition ： Paper 92. Rome, Italy ： Food and Agriculture  
+Organization of the United Nations; 2013. 
+24. Marinangeli, C.P.F. and J.D. House, Potential impact of the digestible  indispensable 
+amino acid score as a measure of protein quality on dietary regulations and health. 
+Nutr Rev. 2017; 75(8)： 658-67. 
+25. Wolfe RR, Cifelli AM, Kostas G, Kim IY. Optimizing Protein Intake in Adults ： 
+Interpretation and Application of the Recommended Dietary Allowance Compared 
+with the Acceptable Macronutrient Distribution Range. Adv Nutr. 2017; 8(2)： 266-
+75. 
+26. Huang P-C, Lin CP. Protein requirements of young Chinese male adults on ordinary 
+Chinese mixed diet and egg diet at ordinary levels of energy intake. J Nutr. 1982; 
+112(5)： 897-907. (Level of evidence： 1+, A) 
+27. 行政院衛生署。「國民營養指導手冊」，1991;127。 
+28. 劉珍芳、駱菲莉、王慈圓、陳巧明、蕭寧馨、高美丁、莊佳穎、黃青真。. 均
+衡飲食中維生素  E 、 硒 、 礦 物 質 及 一 般 營 養 成 份 分 析： 台灣營誌 ; 
+2002;27：221-31。 
+29. Li M, Sun F, Piao JH, Yang XG. Protein requirements in healthy adults ： a meta-
+analysis of nitrogen balance studies. Biomedical and environmental sciences： BES. 
+=== p.14 ===
+79  
+2014; 27(8)： 606-13. (Level of evidence： 1++, A) 
+30. Milne AC, Potter J, Vivanti A, Avenell A. Protein and energy supplementation in 
+elderly people at risk from malnutrition. Cochrane Database Syst Rev. 2009; 2009(2)： 
+CD003288. (Level of evidence： 1-, B) 
+31. Bauer J, Biolo G, Cederholm T, Cesari M, Cruz -Jentoft AJ, Morley JE, et al. 
+Evidence-based recommendations for optimal dietary protein intake in older people： 
+a position paper from the PROT -AGE Study Group. J Am Med Dir Assoc. 2013;  
+14(8)： 542-59. (Level of evidence： 1++, A) 
+32. Elango R, Ball RO. Protein and Amino Acid Requirements during Pregnancy. Adv 
+Nutr. 2016; 7(4)： S839-44. 
+33. World Health Organization. The quantity and quality of breast milk. Report on the 
+WHO collaborative study on breast milk. Geneva. 1985： 4-52. (Level of evidence： 
+1++, A) 
+34. 蘇郁芬, 盧立卿, 林家慧, 謝武勳, 方麗容. 評估台灣嬰兒六個月前母乳攝取  
+量及營養狀態之研究. 臺灣營養學會雜誌. 2009;34(1)：11-21. (Level of 
+evidence： 3, D) 
+35. Premji S, Fenton T, Sauve R. Does amount of protein in formula matter for low -
+birthweight infants? A Cochrane systematic review. JPEN J Parenter Enteral Nutr. 
+2006; 30(6)： 507-14. 
+36. Huang P, Lin C, Hsu J. Protein requirements of normal infants at the age of about 1 
+year： maintenance nitrogen requirements and obligatory nitrogen losses. J Nutr. 
+1980; 110(9)： 1727-35. (Level of evidence： 1++, A) 
+37. IOM.Dietary Reference Intakes for Energy, Carbohydrate. Fiber, Fat, Fatty Acids, 
+Cholesterol, Protein, and Amino Acids (2002/2005) 
+38. 潘文涵、吳幸娟、葉志嶸、莊紹源、張新儀、葉乃華、謝耀德. 台灣人飲食與
+健康之趨勢： 1993-1996 與 2005-2008 兩次營養健康調查之比較。台北 ： 
+2005-2008 台灣營養健康調查成果發表會; 2009. (Level of evidence： 2++, B) 
+39. National Research Council. Diet and health ： implications for reducing chronic 
+disease risk. Washington, DC： National Academy Press; 1989： 1-750. 
+40. Rizzo G, Baroni L. Soy, Soy Foods and Their Role in Vegetarian Diets. Nutrients. 
+2018; 10(1)： 43. 
+41. Coughlin SS. Epidemiology of Breast Cancer in Women. Adv Exp Med Biol. 2019; 
+1152： 9-29. 
+42. Chhabra G, Singh CK, Ndiaye MA, Fedorowicz S, Molot A, Ahmad N. Prostate 
+cancer chemoprevention by natural agents ：  Clinical evidence and potential 
+implications. Cancer Lett. 2018; 422： 9-18. 
+43. Harrison S, Lennon R, Holly J, Higgins JPT, Gardner M, Perks C, Gaunt T, Tan V, 
+=== p.15 ===
+80  
+Borwick C, Emmet P, Jeffreys M, Northstone K, Rinaldi S, Thomas S, Turner SD, 
+Pease A, Vilenchick V, Martin RM, Lewis SJ. Does milk intake promote prostate 
+cancer initiation or progression via effects on insulin -like growth factors (IGFs)? A 
+systematic review and meta -analysis. Cancer Causes Control. 2017;  28(6)： 497-
+528. 
+44. Ekmekcioglu C, Wallner P, Kundi M, Weisz U, Haas W, Hutter HP. Red meat, 
+diseases, and healthy alternatives： A critical review. Crit Rev Food Sci Nutr. 2018; 
+58(2)： 247-61. 
+45. Elliott P. Protein intake and blood pressure in cardiovascular disease. Proceedings of 
+the Nutrition Society. 2003; 62(02)： 495-504. 
+46. Appel LJ. The effects of protein intake on blood pressure and cardiovascular disease. 
+Current opinion in lipidology. 2003; 14(1)： 55-9. 
+47. Ozawa M, Yoshida D, Hata J, Ohara T, Mukai N, Shibata M, Uchida K, Nagata M, 
+Kitazono T, Kiyohara Y, Ninomiya T. Dietary Protein Intake and Stroke Risk in a 
+General Japanese Population ： The Hisayama Study. Stroke. 2017; 48(6)： 1478-
+86. 
+48. Nagata C, Wada K, Tamura T, Konishi K, Goto Y, Koda S, Kawachi T, Tsuji M, 
+Nakamura K. Dietary soy and natto intake and cardiovascular disease mortality in 
+Japanese adults： the Takayama study. Am J Clin Nutr. 2017; 105(2)： 426-31. 
+49. Shang X, Scott D, Hodge AM, English DR, Giles GG, Ebeling PR, Sanders KM. 
+Dietary protein intake and risk of type 2 diabetes ： results from the Melbourne 
+Collaborative Cohort Study and a meta -analysis of prospective studies. Am J Clin 
+Nutr. 2016; 104(5)： 1352-65. 
+50. Ye J, Yu Q, Mai W, Liang P, Liu X, Wang Y. Dietary protein intake and subsequent 
+risk of type 2 diabetes： a dose-response meta-analysis of prospective cohort studies. 
+Acta Diabetol. 2019; 56(8)： 851-70. 
+51. Tian S1,2, Xu Q3, Jiang R4, Han T5, Sun C6, Na L7. Dietary Protein Consumption 
+and the Risk of Type 2 Diabetes ： A Systematic Review and Meta -Analysis of 
+Cohort Studies. Nutrients. 2017 ; 9(9)： 982. 
+52. Knight EL, Stampfer MJ, Hankinson SE, Spiegelman D, Curhan GC. The impact of 
+protein intake on renal function decline in women with normal renal function or mild 
+renal insufficiency. Ann Intern Med. 2003; 138(6)： 460-7. 
+53. Wagner EA, Falciglia GA, Amlal H, Levin L, Soleimani M. Short-term exposure to 
+a high-protein diet differentially affects glomerular filtration rate but not acid -base 
+balance in older compared to younger adults. J Am Diet Assoc . 2007; 107(8)： 
+1404-8. 
+54. Eyre S, Attman PO. Protein restriction and body composition in renal disease. J Ren 
+=== p.16 ===
+81  
+Nutr. 2008; 18(2)： 167-86. 
+55. Robertson L, Waugh N, Robertson A. Protein restriction for diabetic renal disease.  
+Cochrane Database Syst Rev. 2000; (2)： CD002181. 
+56. Bonjour JP. The dietary protein, IGF -I, skeletal health axis. Horm Mol Biol Clin 
+Investig. 2016; 28(1)： 39-53. 
+57. Rizzoli R, Biver E, Bonjour JP, Coxam V, Goltzman D, Kanis JA, Lappe J, Rejnmark 
+L, Sahni S, Weaver C, Weiler H, Reginster JY. Benefits and safety of dietary protein 
+for bone health -an expert consensus paper endorsed by the European Society for 
+Clinical and Economical Aspects of Osteopororosis, Osteoarthritis, and 
+Musculoskeletal Diseases and by the International Osteoporosis Foundation. 
+Osteoporos Int. 2018; 29(9)： 1933-48. 
+58. Cruz-Jentoft AJ, Bahat G, Bauer J, Boirie Y, Bruyère O, Cederholm T, Cooper C, 
+Landi F, Rolland Y, Sayer AA, Schneider SM, Sieber CC, Topinkova E, 
+Vandewoude M, Visser M, Zamboni M. Sarcopenia： revised European consensus 
+on definition and diagnosis. Age Ageing. 2019; 48(4)： 601. 
+59. Fried LP, Tangen CM, Walston J, Newman AB, Hirsch C, Gottdiener J, Seeman T, 
+Tracy R, Kop WJ, Burke G, McBurnie MA. Frailty in older adults： evidence for a 
+phenotype. J Gerontol A Biol Sci Med Sci. 2001; 56(3)： M146-56. 
+60. Chen CY, Wu SC, Chen LJ, Lue BH. The prevalence of subjective frailty and factors 
+associated with frailty in Taiwan. Arch Gerontol Geriatr. 2010; 50 Suppl 1： S43-7. 
+(Level of evidence： 2++, B) 
+61. Chen LJ, Chen CY, Lue BH, Tseng MY, Wu SC. Prevalence and Associated  Factors 
+of Frailty Among Elderly People in Taiwan. Int J Gerontol. 2014;  8(3)： 114-9. 
+(Level of evidence： 2-, C) 
+62. Lo, Y.L., et al., Dietary Pattern Associated with Frailty： Results from Nutrition and 
+Health Survey in Taiwan. J Am Geriatr Soc. 2017; 65(9)： 2009-15. 
+63. Chen LK, Lee WJ, Peng LN, Liu LK, Arai H, Akishita M. Recent Advances in 
+Sarcopenia Research in Asia ： 2016 Update From the Asian Working Group for 
+Sarcopenia. J Am Med Dir Assoc. 2016; 17(8)： 767.e1-7. 
+64. Cruz-Jentoft AJ, Baeyens JP, Bauer JM, Boirie Y, Cederholm T, Landi F, et al. 
+Sarcopenia： European consensus on definition and diagnosis ： Report of the 
+European Working Group on Sarcopenia in Older People. Age Ageing. 2010; 39(4)： 
+412-23. (Level of evidence： 1++, A) 
+65. Clegg A, Young J, Iliffe S, Rikkert MO, Rockwood K. Frailty in elderly people. 
+Lancet. 2013; 381(9868)： 752-62. (Level of evidence： 1++, A) 
+66. Morley JE, Vellas B, van Kan GA, Anker SD, Bauer JM, Bernabei R, et al. Frailty 
+=== p.17 ===
+82  
+consensus： a call to action. J Am Med Dir Assoc. 2013;  14(6)： 392-7. (Level of 
+evidence： 1++, A) 
+67. Beasley JM, LaCroix AZ, Neuhouser ML, Huang Y, Tinker L, Woods N, et al. 
+Protein intake and incident frailty in the Women's Health Initiative observational 
+study. J Am Geriatr Soc. 2010; 58(6)： 1063-71.(Level of evidence： 2+, C) 
+68. Ensrud KE, Blackwell TL, Cauley JA, Cummings SR, Barrett -Connor E, Dam TT, 
+et al. Circulating 25 -hydroxyvitamin D levels and frailty in older men ：  the 
+osteoporotic fractures in men study. J Am Geriatr Soc. 20 11; 59(1)： 101-6.(Level 
+of evidence： 2-, C) 
+69. Michelon E, Blaum C, Semba RD, Xue QL, Ricks MO, Fried LP. Vitamin and 
+carotenoid status in older women ：  associations with the frailty syndrome. J 
+Gerontol A Biol Sci Med Sci. 2006; 61(6)： 600-7.(Level of evidence： 2-, C) 
+70. Schmuck A, Roussel AM, Arnaud J, Ducros V, Favier A, Franco A. Analyzed dietary 
+intakes, plasma concentrations of zinc, copper, and selenium, and related antioxidant 
+enzyme activities in hospitalized elderly women. J Am Coll Nutr. 1996; 15(5)： 462-
+8.(Level of evidence： 3, D) 
+71. Semba RD, Bartali B, Zhou J, Blaum C, Ko CW, Fried LP. Low serum micronutrient 
+concentrations predict frailty among older women living in the community. J 
+Gerontol A Biol Sci Med Sci. 2006; 61(6)： 594-9.(Level of evidence： 2++, B) 
+72. Kim CO, Lee KR. Preventive effect of protein -energy supplementation on the 
+functional decline of frail older adults with low socioeconomic status ：  a 
+community-based randomized controlled study. J Gerontol A Biol Sci Med Sci. 2013; 
+68(3)： 309-16.(Level of evidence： 1+, A) 
+73. Neelemaat F, Bosmans JE, Thijs A, Seidell JC, van Bokhorst -de van der Schueren 
+MA. Oral nutritional support in malnourished elderly decreases functional 
+limitations with no extra costs. Clinical nutrition (Edinburgh, Scotland). 2012; 31(2)： 
+183-90.(Level of evidence： 1-, B) 
+74. Artaza-Artabe I, Sáez -López P, Sánchez -Hernández N, Fernández -Gutierrez N, 
+Malafarina V. The relationship between nutrition and frailty： Effects of protein 
+intake, nutritional supplementation, vitamin D and exercise on muscle metabolism 
+in the elderly. A systematic review. Maturitas. 2016; 93： 89-99.(Level of 
+evidence： 1+, A) 
+75. Bonnefoy M, Cornu C, Normand S, Boutitie F, Bugnard F, Rahmani A, Lacour JR, 
+Laville M.  The effects of exercise and protein –energy supp lements on body 
+composition and muscle function in frail elderly individuals ：  a long -term 
+controlled randomised study. Br J Nutr. 2003; 89(5)： 731-9.(Level of evidence ： 
+=== p.18 ===
+83  
+1+, A) 
+76. Lammes E, Rydwik E, Akner G. Effects of nutritional intervention and physical 
+training on energy intake, resting metabolic rate and body composition in frail 
+elderly. A randomised, controlled pilot study. J Nutr Health Aging. 2012; 16(2)： 
+162-7. (Level of evidence： 1+, A) 
+77. Payette H, Boutier V, Coulombe C, Gray -Donald K. Benefits of nutritional 
+supplementation in free-living, frail, undernourished elderly people： a prospective 
+randomized community trial. J Am Diet Assoc. 2002;  102(8)： 1088-95.(Level of 
+evidence： 1+, A) 
+78. Park Y, Choi JE, Hwang HS. Protein supplementation improves muscle mass and 
+physical performance in undernourished prefrail and frail elderly subjects ：  a 
+randomized, double-blind, placebo-controlled trial. Am J Clin Nutr. 2018; 108(5)：  
+1026-33. 
+79. Avenell A, Smith TO, Curtain JP, Mak JC, Myint PK. Nutritional supplementation for 
+hip fracture aftercare in older people. Cochrane Database Syst Rev. 2016; 11(11)： 
+CD001880.(Level of evidence： 1-, B) 
+80. Cawood AL, Elia M, Stratton RJ. Systematic review and meta-analysis of the effects 
+of high protein oral nutritional supplements. Ageing Res Rev. 2012; 11(2)： 278-
+96. (Level of evidence： 1++, A) 
+81. Hickson M. Nutritional interventions in sarcopenia： a critical review. Proc Nutr Soc. 
+2015; 74(4)： 378-86.(Level of evidence： 1-, B) 
+82. Manal B, Suzana S, Singh D K. Nutrition and frailty ：  a review of clinical 
+intervention studies. J Frailty Aging. 2015; 4(2)： 100-6.(Level of evidence： 1-, B) 
+83. Bonnefoy M, Berrut G, Lesourd B, Ferry M, Gilbert T, Guérin O, Hanon O, Jeandel 
+C, Paillaud E, Raynaud -Simon A, Ruault G, Rolland Y.  Frailty and nutrition ： 
+Searching for evidence. J Nutr Health Aging. 2015; 19(3)： 250-7. 
+84. Hernández Morante JJ, Gómez Martí nez C, Morillas -Ruiz JM.  Dietary Factors 
+Associated with Frailty in Old Ad ults： A Review of Nutritional Interventions to 
+Prevent Frailty Development. Nutrients. 2019; 11(1)： 102.(Level of evidence： 1+, 
+A) 

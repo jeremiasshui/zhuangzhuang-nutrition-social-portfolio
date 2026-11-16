@@ -1,0 +1,1136 @@
+# 10.「國人膳食營養素參考攝取量」第八版_鎂.pdf
+# 來源：國民健康署（本機副本 tw_hpa/dris_8th）
+
+=== p.1 ===
+1 
+ 
+鎂 
+王瑞蓮 高美丁 翁瑤棽 詹恭臣 許珊菁 劉奕方 陳語辛 
+前言 
+鎂在人體之含量僅次於鈣、鉀、鈉，為體內含量第四豐富的礦物質，也是細
+胞內僅次於鉀 ， 含量第二豐富的陽離子(1)。 鎂是維持骨骼結構及功能的重要元素 ，
+為人體細胞內超過 300 個酵素之輔因子 ， 並參與細胞內信號傳遞過程及蛋白質合
+成作用，對細胞分裂非常重要(2, 3)。鎂與疾病相關研究皆指出無論是飲食鎂或血
+清鎂值偏低時 ， 其罹患疾病之危險率會增高 ， 相關疾病包括心血管疾病 、 糖尿病 、
+骨質疏鬆、焦慮及憂鬱等(4-12)。 
+營養生化生理功能 
+一、理化性質 
+鎂是地球上含量第八豐富的元素，約占 2.5％，同時也是海洋中含量第二多
+的陽離子(1)。鎂的原子序數為 12，原子量為 24.3，具有二價金屬的活潑特性，可
+與鹵素、氧、氫、硫等形成多種離子化合物。鎂與碳酸氫根及鹵素形成的化合物
+可在水中溶解，而與硫酸根、硝酸根、磷酸根與草酸根形成的化合物則在水中不
+易溶解(13, 14)。此外，鎂亦可與紫質（Porphyrin）配位鍵結形成葉綠素。因此，葉
+綠素是鎂的重要來源 (1)。 
+二、營養生化功能 
+鎂是細胞內至少 300 多種酵素之輔因子，可直接或以 Mg-ATP 聚合體的形
+式活化葡萄糖、脂質、蛋白質及核糖代謝的相關酵素活性及調節作用。鎂也是細
+胞合成麩胱甘肽（glutathione）所必需(3)。 
+在細胞信號傳遞過程，鎂可活化腺苷酸環化酶（adenylyl cyclase）將三磷酸
+腺苷（Adenosine triphosphate, ATP）生成環腺核苷單磷酸（cyclic AMP），細胞
+藉由腺苷酸環化酶信號系統控制許多細胞活動 ， 例如調控酵素活性 、荷爾蒙與神
+經傳導物質之分泌等。鎂也調控 磷脂酶（phospholipase C）之活性，可非競爭性
+的抑制細胞內肌醇三磷酸（inositol trisphosphate, IP3）所誘發之鈣離子濃度增加 。
+因此，細胞缺鎂時，會影響細胞受質的利用性、G 蛋白之活性、細胞內鈣離子之
+釋放與敏感性和膜磷脂質的代謝(2, 3)。 
+鎂可維持適當嘌呤與嘧啶量，以供應細胞分化所需的 DNA 與 RNA。 鎂亦
+參與蛋白質合成作用 ， 對細胞之分裂非常重要 。 鎂激活 Na+-K+ ATPase 之活性 ，
+維持細胞內外鈉 、 鉀之平衡 。 鎂控制心肌細胞內鉀外移作用 ， 維持細胞內鉀恆定 ，
+避免產生心律不整(3-12)。 
+=== p.2 ===
+2 
+ 
+鎂是骨骼的重要成分 ， 可促進及維持骨骼 、 牙齒的生長 。 飲食鎂含量會影響
+骨骼礦物質的吸收功能。一項雙盲試驗給予 120 名鎂攝取量低於 220 mg / d 的 8-
+14 歲女童，為期一年 300 mg / d 鎂補充，可增加骨骼的礦物質含量。副甲狀腺素
+（parathyroid hormone, PTH） 與維生素D 在鈣代謝恆定具有調節作用，而血鎂濃
+度的變化對 PTH 分泌及維生素 D 的作用具有影響。血漿鎂含量嚴重降低時，會
+使副甲狀腺功能低下及 PTH 分泌減少，同時也會抑制維生素 D 作用，進而減少
+細胞鈣釋出而引起低血鈣；補充鎂後可回復正常。另外，鎂也參與神經、肌肉功
+能正常的維持。當鎂缺乏時，細胞內鈣濃度會上升，而導致骨骼肌與平滑肌過度
+收縮，引起肌肉痙攣、血壓上升及心臟冠狀動脈及腦血管痙攣等(5, 8, 15)。 
+三、生理吸收代謝、個體存量與排泄 
+(一) 吸收 
+鎂在整個腸道中都可被吸收 ， 但不同腸段部位對鎂的吸收率不盡相同 。 在正
+常生理條件下，鎂在腸道的吸收率依序為十二指腸 11％，空腸 22％，迴腸 56％
+及大腸 11％。鎂可經由主動與被動運送從腸道吸收進入體內。在正常生理狀況
+下，鎂的吸收率約為 30–50 % ，其吸收率與攝取量呈反比。當鎂攝取量為 7–36 
+mg/d 時，可經由腸道黏膜細胞膜上的運鎂蛋白 TRPM6 或 TRPM7（Transient 
+Receptor Potential Melastain 6/7）以主動運送方式吸收進入，吸收率可達 70 %(3)。
+當鎂攝取量達 960–1000 mg / d 時，其吸收率則降低為 12 %。從平衡試驗得知，
+當飲食中的鎂含量落在 200–300 mg / d 時，成人的鎂平均吸收率約為 25 %。 
+鎂的吸收率會受到膳食中其他成分的影響 。 高蛋白質 、 乳糖攝取可增加鎂的
+吸收(1, 16, 17)，而過多的磷、鋅、鐵、銅、錳、草酸、植酸和膳食纖維等攝取則會
+降低鎂的吸收(1, 3, 16, 18)。在每天攝取 355 mg 鎂含量下，9 g / d 低膳食纖維可使成
+年男性鎂代謝呈現正平衡，但膳食纖維攝取量達 59 g / d 時則會導致出現負平衡
+(1, 3, 8)。另外，一般飲食的鈣含量攝取並不會抑制腸道中鎂的吸收，但鈣攝取超過
+2600 mg / d 時，則會降低鎂的吸收(19-21)。 
+(二) 分布 
+成人體內含鎂量約 25-38 g ，其中骨骼約佔 50–60%，其餘軟體組織包括肌
+肉、肝臟、心臟、胰臟等約佔 39 %，細胞外液僅佔 1% (3)。人體血清鎂濃度正常
+範圍為 0.75–0.95 mmol / L (1.8–2.3 mg / dL)，其中約 1/3 鎂是以非特異性與白蛋
+白結合，而 2/3 則屬於游離型式或非游離型式的鎂。非游離鎂主要會與檸檬酸、
+碳酸、磷酸根等鍵結形成複合物 (1, 3)。紅血球細胞鎂含量為 2.3–3.1 mmol / L。除
+非發生很嚴重的鎂缺乏 ， 否則血清鎂濃度會維持在恆定範圍 ； 紅血球中鎂的濃度
+亦是如此。因此血清鎂濃度無法反映體內鎂足夠與否(8)。關於血鎂維持恆定的分
+子機制目前所知有限，推測可能是腸道吸收、腎臟排泄、膜上陽離子的流通及荷
+爾蒙的調節達到維持恆定(1, 3, 8)。 
+ (三) 排泄 
+=== p.3 ===
+3 
+ 
+從食物中攝取到的外源性鎂與腸道所分泌內源性鎂約有 60–70% 會隨糞便
+排出，有些會經由汗液和皮膚脫落而流失，其餘由尿中排出(1, 3, 8)。腎臟是體內
+鎂恆定及維持血鎂濃度的主要器官。每天將近 80%血清鎂經由腎小球過濾，但
+僅約有 3%從尿中排出(8)。腎小球過濾的鎂分別有 60–70%在腎小管亨利氏環的
+上升支（ascending limb of Henle loop）及 10–15 %在近曲小管（proximal 
+convoluted tubule）再吸收(22)。當飲食中鎂的攝取量很低時，腎臟會增加鎂的再
+吸收能力，以達到維持體內鎂的平衡。在一般飲食狀態下，每日尿鎂的排泄量
+約為 2–5 mmol / L。當血清鎂濃度降低時，促使副甲狀腺分泌副甲狀腺素，進
+而增加腎臟對鎂的再吸收。反之，血清鎂濃度增加時，則會增加腎臟對鎂的過
+濾率及排出。此外，升糖激素（glucagon）、抑鈣素（calcitonin）和抗利尿激
+素（Antidiuretic Hormone, ADH）也具有類似副甲狀腺素的作用，但其調節機制
+目前尚不清楚(8, 22)。 
+鎂之需要量評估與營養缺乏症 
+一、鎂缺乏症 
+一般正常飲食狀況下 ， 不易發生鎂缺乏的問題 。 鎂缺乏的導因可歸咎於長期
+鎂攝取不足、腸道吸收不良或腎臟排出尿鎂增加所致(8)。此外，酗酒者、營養不
+良者 、 腎病患者 、 胃腸疾病導致吸收不良患者及長期使用利尿劑者也會增加缺鎂
+的風險(3)。鎂缺乏會出現的症狀包括：心律不整、肌肉痙攣、反胃、嘔吐等。嚴
+重時會出現譫妄 (delirium)、神經錯亂、無法辨識方向等。 
+二、生化/功能性指標 
+(一) 營養狀況的評估指標 
+1. 血清或血漿鎂濃度 
+雖然血清或血漿鎂無法反映細胞內鎂的需要量 ， 但其測量方法簡便 。 有研究
+指出飲食鎂濃度和血清鎂濃度呈正比。然而，在耗盡 -補充（depletion-repletion 
+study） 或單純耗盡的研究中並沒有觀察到血清或血漿鎂濃度隨鎂攝取量而變化 。
+只有將血清鎂的五分位對應近似平均攝取量為 247-258 mg / d，而飲食鎂的五分
+位則是在 < 181 mg / d 至 ≥ 320 mg / d(23)。由此可知血清鎂濃度的變化維持在很
+窄範圍。根據 美國國家健康與營養調查研究 I（National Health and Nutrition 
+Examination Survey, NHANES I ）的調查結果得知血清鎂濃度低於 0.75 mmol / L
+可能被視為缺鎂，而高於 0.96 mmol  / L 則視為攝取過多。然而有研究提出此範
+圍內的鎂濃度無法完全排除鎂缺乏的可能性 (24)。由於當前仍然沒有可取代鎂的
+生化指標，因此血清鎂至今仍是最常用來評估鎂營養狀況的指標 ， 而在臨床上將
+血清鎂濃度低於 0.75 mmol / L 視為低鎂血症(25)。 
+使用專一性離子電極可偵測到血漿中離子態鎂的含量，正常離子態鎂濃度
+=== p.4 ===
+4 
+ 
+為 0.2±0.2 mmol / L 的鎂，而且離子態的鎂被視為血液總鎂含量中具有生物活性
+的部分(26)。因此有少數補充 鎂的研究認為離子態鎂濃度相較於血清鎂濃度更適
+合作為鎂營養的指標(27-29)。 然而離子態鎂濃度與飲食中鎂的攝取量之間的關係仍
+須再確認。 
+2. 細胞內鎂濃度 
+體內的鎂分布在多種組織細胞中，包括：紅血球、骨骼肌、周邊淋巴球細胞
+等 。 由於鎂在細胞內酵素活化過程中占有極重要角色， 所以檢測細胞內鎂的濃度
+會比血清鎂更能代表身體內鎂的營養狀況(1,28)。 
+紅細胞濃厚液（packed red blood cells ）含有 2.3±0.24 mmol / L 高含量的鎂
+(26)，它是三磷酸腺苷（adenosine triphosphate, ATP）利用和其他代謝功能所必需
+的濃度。 飲食中鎂的攝取量與紅血球細胞的鎂濃度呈現微弱的關係(30)。數週的
+低鎂攝取後才會減少紅血球細胞的鎂濃度 ， 因此它可被視為中期鎂營養狀態的參
+考指標。另外，血小板或淋巴細胞中的鎂濃度相較於紅血球細胞的鎂濃度，更適
+合反映肌肉和組織中的鎂濃度(24)。 然而紅血球細胞、血小板及淋巴細胞的鎂濃
+度在鎂營養狀況評估上的應用資訊仍然很匱乏。 
+3. 尿液鎂濃度 
+尿鎂也是反映鎂營養狀況的指標之一。從自選飲食分析得知，鎂攝取量與尿
+鎂濃度具有相關性 （r = 0.45）(30)。從 15 項鎂補充研究及 3 項鎂耗盡-補充或單純
+耗盡研究的統合分析得知，雖然研究彼此間具有很大的異質性，但是尿鎂含量
+（mmol / 24h）與鎂攝取量的變化具有顯著性反應(31)。由於每項研究的受試者人
+數很少 ， 且研究數量不多，因此無法得知有關生物標誌物反應性與鎂補充劑的類
+型、劑量或時間長短的潛在關係。此外，在所有補充研究中均沒有記錄從飲食中
+的鎂攝取量。 
+(二) 需要量之研究方法 
+目前沒有一個最適合的鎂生物指標或狀況作為評估鎂需要量及訂定鎂每日
+建議量的依據。 目前各國仍依循平衡試驗作為鎂需求量制訂的考量 。 平衡試驗是
+對一群健康者進行鎂攝取量及排出量測定 ， 從中找出維持人體鎂平衡的需求量 ，
+再以此值作為制訂鎂平均需要量 （Estimated Average Requirement, 以下簡稱 EAR）
+及建議攝取量（Recommended Dietary Allowance, 以下簡稱 RDA）的參考基準。
+許多國家對於 RDA 的訂定主要是依據平衡試驗所得到的結果。當攝取量超過排
+出量，即表示正平衡。這意謂生長或體重增加，同化作用 （anabolism） 或儲存增
+加所致。當排出量超過攝取量時，營養素的儲存逐漸耗盡。從長期而言，這會導
+致臨床營養缺乏症狀。 
+大多數研究成人的鎂平衡試驗都會落實鎂攝取足夠的適應期，並評估有哪
+些營養素會影響鎂吸收及平衡的作用 。 另外 ，還需要瞭解飲食背景的變異性及攝
+取量變化對鎂平衡試驗的困難度。根據一項橫斷面平衡試驗值及 95%信賴預測
+=== p.5 ===
+5 
+ 
+值得知，一位體重 70 公斤的健康美國成年男性的 EAR 及 RDA 分別為 175 mg / 
+d（7.29 mmol / d）及 250 mg/d（10.42 mmol / d） (32)。另外，日本成年受試者達
+到零平衡時，每天鎂攝取量為 4.1 mg / kg BW (33)和 4.2 mg / kg BW (34)。在日本停
+經女性的研究中 ， 每天鎂攝取量在310-334 mg 時會出現正平衡 （1-26 mg /d）(35)。 
+從 27 項嚴謹代謝單元控制的平衡試驗分析中 ， 在排除低於EAR 及超過 99%
+的攝取者後，每項平衡試驗至少進行為期 28 天，並且包含 6-14 天的平衡飲食期
+(36)。大多數研究沒有使用鎂補充劑，但有少數在研究基礎飲食中給予葡萄糖酸鎂
+或檸檬酸二氫鎂補充，以達到 RDA 或實驗預期的鎂攝取量(36)。鎂攝取量為 165 
+mg / d（95％信賴區間：113–237 mg / d）時，可達到鎂零平衡。相當於每天 2.36 
+mg / kg BW（95％信賴區間：1.58–3.38 mg / kg BW）或 0.075 mg / kcal（95％信
+賴區間：0.05–0.11 mg / kcal）(36)。此外，鎂平衡不會受到年齡及性別的影響。同
+時還鎂代謝在 84-598 mg / d 範圍內具有很強的穩定的控制能力，尤其在攝取量
+低於 165 mg / d(36)。由於台灣欠缺鎂平衡的數據資料，因此無法依據鎂平衡訂定
+鎂的 RDA。 
+ (三) 鎂需要量的影響因素 
+從生理 、生化及代謝層面可知，飲食中的其他礦物質、維生素或物質
+（substance）可能會影響鎂的生物利用率。人體可從食物、飲水、飲料和補充劑
+獲得到鎂的需要量。一般飲食中，鎂的吸收率約為 30-50%，而鎂的吸收率與鎂
+的攝取量有關 。 在兒童或成人的平衡試驗中 ， 沒有偵測到鈣與鎂平衡之間的交互
+作用，但每日鈣攝取量超過 2600 mg 則會降低鎂的吸收(19-21)。在鎂負平衡情況
+下，即是鎂攝取量為 107 和 118 mg / d 時，鈣平衡顯著高於鎂平衡(37, 38)。此外，
+在 90 天期間每天攝取 53 mg 的鋅會降低鎂的平衡(35)。高鈉及鈣攝取可能會導致
+鎂排出量增加(39, 40)，這可能是近端腎小管再吸收過濾鈉、鈣、鎂的相互關係(39)。 
+飲食蛋白質攝取量會影響鎂的吸收。 每天每公斤體重攝取1.65 g 的蛋白質 ，
+只要 4.6 mg/ kg BW 的鎂攝取量即可達到鎂零平衡，而每天蛋白質攝取為 0.77 g 
+/ kg BW 時，則需要 7.6 mg / kg BW 的鎂攝取量(17, 41, 42)。由此可知，適量蛋白質
+攝取可增加鎂的吸收率。另外，在足夠蛋白質攝取情況下，膳食纖維攝取量會影
+響糞便鎂的排出百分比及平衡。在 9 g / d 低膳食纖維攝取下，會使男性鎂攝取
+355 mg / d 出現正平衡，而 59 g / d 高纖維攝取量則會出現鎂負平衡(18, 43, 44)。然
+而綜整上述研究 ， 在低和高膳食纖維及草酸飲食對鎂平衡沒有明顯的影響 。 由此
+可知，在正常飲食下，各營養素的含量包括：鈣、鋅等礦物質、蛋白質或膳食纖
+維對鎂平衡的影響程度甚微。 
+鎂參考攝取量 
+我國鎂最新建議攝取量除依循第七版之原則，加上考量國人目前體位及鎂攝
+取狀況，其制定原則亦參考美國、澳洲、日本及中國(32, 45-47)。表一為臺灣鎂的
+國人膳食營養素參考攝取量（Dietary Reference Intakes, 以下簡稱 DRIs）與各國
+=== p.6 ===
+6 
+ 
+之比對。表二為臺灣鎂上限攝取量（Tolerable Upper Intake Levels, 以下簡稱
+UL）與各國之比對。 
+一、 嬰兒（0–12 個月） 
+參考美國 DRIs 有關鎂的資料，以足夠攝取量（Adequate Intakes, 以下簡稱
+AI）制訂嬰兒期的鎂建議量(32)。一般來說，母乳餵食的嬰兒鮮少出現鎂缺乏的
+狀況，表示母乳鎂含量及生物利用率皆可達到嬰兒的需要量。研究指出美國嬰
+兒平均母乳攝取量為 0.78 L / d，而母乳鎂含量為 34 mg / L(48, 49)，由此算出鎂
+需要量為 26.5 mg，故訂 0-6 個月的嬰兒之 AI 為 30 mg。至於 7-12 個月的嬰
+兒，每天約攝取 0.6 L 之母乳（鎂含量約為 20 mg），加上副食品中約含 55 mg 
+鎂(49-51) ，因此，此年齡層鎂之 AI 訂為 75 mg。澳洲建議攝取量
+（Recommended Dietary Intake, 以下簡稱 RDI） 則採取和美國一樣的標準(46)。
+中國對 0–6 個月嬰兒的 AI 為 20 mg / d，7–12 個月為 65 mg / d (45)。日本 
+DRIs 報告指出(47)，日本婦女母乳中鎂含量 27 mg / L ，且 0–5 個月的嬰兒平
+均每日哺乳量為 0.78 L，經由哺乳可攝取約 21.1 mg 鎂，而將此年齡層的鎂需
+要量訂為 20 mg。6–11 個月的嬰兒平均每日哺乳量為 0.53 L，推算由哺乳可攝
+取約 14 mg 鎂，加上每日副食品提供 46 mg 鎂，共計 60 mg / d ，設為此年
+齡層鎂的 AI。 
+臺灣研究指出，婦女哺乳量約為 0.78 L / d, 而臺灣人的母乳中鎂含量為 30 
+mg / L (52)，換算後，每日母乳約可提供 23.4 mg 的鎂；因此，0-6 個月嬰兒的
+鎂 AI 訂為 25 mg。7–12 個月大的嬰兒，每日母乳攝取量約為 560 mL，其中鎂
+含量約為 17 mg，加上副食品中提供約 55 mg 鎂(48-51)。因此，7–12 個月嬰兒
+的鎂 AI 訂為 70 mg。 
+二、 兒童（1–3 歲，4–6 歲，7–9 歲） 
+美國因缺乏 1-8 歲兒童鎂的最大保留率資料，因此根據平衡研究，並依照不
+同年齡層的體重變化及生長的速度，估算此年齡層的 EAR。根據平衡研究結
+果，每天攝取 5 mg / kg BW 鎂可以達到大多數兒童的鎂平衡狀態，以此乘以各
+年齡層的參考體重則可計算出 EAR(53)。Abrams 等人指出(54)，兒童期每公斤體
+重所需的鎂在性別上沒有差異。1-3 歲兒童的參考體重為 13 kg，因此，EAR 為
+65 mg / d。4-8 歲兒童的參考體重為 22 kg，計算出 EAR 為 110 mg / d。由於
+RDA = EAR + 2 × CV × EAR，鎂的 CV 約為 10%，因此推算出 1–3 歲及 4–8 
+歲之 RDA 分別為 80 mg / d 及 130 mg / d。澳洲 RDI 採取和美國相同的標準
+(46)。 
+中國採用日本平衡試驗結果，維持鎂正平衡的膳食鎂攝取量約為 4.5 mg / 
+kg，計算成人 EAR，再以成人的 EAR 為基礎，由代謝體重比計算兒童各年齡
+=== p.7 ===
+7 
+ 
+層 EAR，並設 CV 約為 10%，計算兒童各年齡層 RNI(45)，如表一所示。 
+日本的 DRIs 報告指出(47)，3–6 歲日本兒童的平衡實驗結果，維持鎂平衡的
+最小必需量是 2.6 mg / kg / d，將此值乘以各年齡分層及性別的參考體重，再乘
+以 1.2 即為日本兒童鎂的 RDA。 
+臺灣沒有鎂的平衡試驗資料，且因考量日本的兒童平衡試驗樣本數較少，
+因此各年齡層兒童鎂的 EAR 採用美國提出的 5 mg / kg / d 乘以各年齡的參考體
+重來換算，沒有性別上的差異。EAR 再乘以 1.2 即為各年齡層鎂的 RDA。如
+此，臺灣 1–3 歲為 80 mg / d，4–6 歲為 120 mg / d，7–9 歲為 170 mg，如表一
+所示。 
+三、 青少年（10–12 歲，13–15 歲，16–18 歲） 
+根據 Abrams 等人的研究(20, 54)，美國 9–13 歲男女童每公斤體重的鎂需要量
+基本上相同，因此，EAR 都以 5 mg / kg / d 乘以參考體重（40 kg）。計算出 9-
+13 歲美國兒童之 EAR 為 200 mg / d，RDA 為 240 mg / d。然而 14–18 歲的青
+少年正處於生長發育旺盛期，鎂的需要量會相對的提高，但男女生的需求會有
+所不同。美國依據研究資料訂出鎂需要量為 5.3 mg/kg/d，以此再乘以不同性別
+及年齡層的參考體重則為 EAR (20, 32, 54)。14–18 歲男生參考體重為 64 kg，因
+此，EAR 為 340 mg / d。對 14–18 歲女生的參考體重為 57 kg，計算出 EAR
+為 300 mg / d。由於 RDA = EAR + 2 × CV × EAR，鎂的 CV 約為 10%，因此
+推算出 14–18 歲的男女生之 RDA 分別為 410 及 360 mg / d。澳洲最新 RDI
+採取和美國一樣的標準(46)。中國 14-17 歲兒童鎂的需要量是先計算成人 EAR，
+並以成人的 EAR 為基礎，以代謝體重比計算兒童各年齡層 EAR，並設 CV 約
+為 10%，計算兒童各年齡層 RNI(45)，如表一所示。日本 DRIs 對青少年的鎂建
+議量，以 4.5 mg / kg / d 乘以依年齡及性別分層的參考體重，再乘以 1.2 即為
+RDA(47)。 
+臺灣因沒有相關的資料，故 10 歲以上的年齡層鎂 EAR 是根據美國所提出 
+5 mg / kg / d 乘以不同性別的參考體重而得；而 13–15 歲及 16–18 歲的年齡層
+則是用 5.3 mg / kg / d 乘以該年齡層不同性別的參考體重而得。最後將各年齡
+層 EAR 乘以 1.2 即為各年齡層鎂的 RDA。因此，臺灣 10-12 歲男性與女性均
+為 230 mg / d，13–15 歲男性為 350 mg / d，女性為 320 mg / d；16–18 歲男性
+為 390 mg / d，女性為 330 mg / d，如表一所示。 
+四、 成年人 
+美國成年人鎂 EAR 的制定是根據平衡實驗結果與數個研究指出(30, 32)，19–
+30 歲健康成年人男性之 EAR 為 330 mg / d，而女性之 EAR 為 255 mg / d；加
+上 CV 10% 後，男女性 RDA 分別為 400 及 310 mg / d。31-50 歲的男、女性之
+=== p.8 ===
+8 
+ 
+EAR 分別為 350、265 mg / d，換算成 RDA 則分別為 420 及 320 g / d。澳洲
+RDI 與美國相同(46)。 
+中國採用日本平衡試驗結果，維持鎂正平衡的膳食鎂攝取量約為 4.5 mg / kg 
+(56)。計算成人 EAR，得到 18 歲以上成年鎂的 EAR 為 275 mg / d，修正為 280 
+mg / d 並設 CV 約為 10%，計算兒童各年齡層 RNI (45)，如表一所示。日本 
+DRIs 對 18-26 歲成人鎂 EAR 制定方式，是參考美國的平衡試驗及日本數個研
+究，並考慮個體差異及烹調流失等因素，最後決定以 4.5 mg / kg / d 為維持鎂平
+衡的基準值(47)。再依據不同年齡及性別的考慮算出 EAR，再乘以 1.2 則為日
+本成年人鎂 RDA。 
+因台灣歷年國民營養健康狀況變遷調查（Nutrition and Health Survey in 
+Taiwan, 以下簡稱 NAHSIT）顯示國人鎂攝取量偏低，加上研究指出低鎂攝取和
+許多慢性疾病有關(4-9, 11, 57, 58)，因此，臺灣 19 歲以上的成年人鎂 EAR 是以 5 
+mg / kg / d 乘以各年齡層的參考體重來計算。最後將各年齡層所算出的 EAR 
+再乘以 1.2 即為各年齡層 RDA。臺灣 19–30 歲與 31–50 歲男性為 380 mg / 
+d，女性為 320 mg / d，如表一所示。 
+美國 51 歲以上健康人之鎂 EARs 制定方法和 31-50 歲健康成年人相同(30, 
+32)。男性之 EAR 為 350 mg / d，而女性之 EAR 為 265 mg / d，換算成 RDA 則
+分別為 420 及 320 mg / d。澳洲最新版 RDI 與美國相同(46)。中國 50 歲以上成
+人鎂的建議量以 EAR 275 mg / d 為基礎，並設 CV 約為 10%，依不同年齡層
+體重，計算 50 歲以上成年人的鎂 RNI(45)，如表一所示。日本 50 歲以上年齡層
+鎂建議量，根據不同性別及年齡層的參考體重，採用和成年人的相同算法(47)。 
+臺灣 51 歲以上健康老年人鎂的 EAR 和健康成年人計算方式相同。71 歲以
+上之老年人的參考體重較輕，推算出的 EAR 相對減少。臺灣 51-70 歲男性為 
+360 mg / d，女性為 310 mg / d；71 歲以上男性為 350 mg / d，女性為 300 mg / 
+d。 
+五、 孕婦與哺乳婦 
+沒有直接的研究顯示在懷孕期間有增加鎂的需要，美國對孕婦鎂攝取量的建
+議是依據孕期間瘦體組織增加量而定(32)。孕婦在懷孕期間瘦體組織增加量約 
+7.5 kg，每 1 公斤瘦體組織含鎂量為 470 mg，以 40 %之鎂利用率估算，則調
+整係數為 2.5(59)，懷孕期間（270 天）整體鎂需要量為 8812 mg，換算成平均
+每日攝取量約為 33 mg，表示美國孕婦在懷孕期間平均每日應多攝取 35 mg。
+因此，美國孕婦的鎂 RDA 是依各年齡層女性之 EAR + 35 mg / d；加上 CV 設
+為 10 %，即得到各年齡層孕婦鎂的 RDA 。中國孕婦鎂攝取量參考美國計算方
+式，依各年齡層女性之 EAR + 30 mg / d，RNI+ 40 mg / d(45)。 
+日本 DRIs 對孕婦鎂建議攝取量的計算方式大致和美國相同(47)，但整個孕期
+是以 280 天計算，估算出的懷孕鎂平均攝取增加量為 30 mg。因此日本孕婦鎂
+=== p.9 ===
+9 
+ 
+的 RDA 是依各年齡層之 EAR + 30 mg / d；加上 CV 10%，即得到各年齡層孕
+婦鎂的 RDA。臺灣因無任何有關孕期鎂的研究，所以依據美國的資料來制定
+RDA。臺灣地區孕婦 RDA 則為各年齡層女性之 RDA + 35 mg / d，此值適用於
+懷孕的三個時期。 
+美國研究指出哺乳期婦女尿中鎂濃度和同年齡之非哺乳婦相似，且哺乳期婦
+女之尿鎂排出量呈現正鎂平衡狀態(32, 60, 61)，所以沒有建議在此時期需做任何補
+充。因此美國哺乳婦鎂之 EAR 及 RDA 和同年齡層的婦女建議量相同。 
+中國(45)與日本(47)也採用美國的建議，哺乳婦鎂之 EAR 及 RDA 和同年齡層
+的婦女建議量相同。臺灣哺乳期婦女鎂的建議則與同年齡非哺乳期的女性相
+同，不需額外增加。 
+國人鎂營養狀態與慢性疾病風險相關性 
+一、主要食物來源 
+鎂存在於富含葉綠素的蔬菜中，為葉綠素組成份之一，例如 ：菠菜、莧菜
+及甘藍菜等。此外，胚芽、全穀類之麩皮、核果類、種子類及香蕉亦為鎂豐富的
+飲食來源。 
+二、攝取量 
+臺灣地區近二十年來共進行 NAHSIT 1993-1996、NAHSIT 1999-2000 老人
+調查、NAHSIT 2001-2002 學童調查、NAHSIT 2005-2008 與 NAHSIT 2013-2016
+等五次營養調查 (62-65)。 
+由 NAHSIT 2001-2002 學童調查與 NAHSIT 2013-2016 發現，7-12 歲男、
+女學童飲食鎂攝取量分別為 247 mg / d、221mg / d 與 228 mg / d、204 mg / d。
+19 歲至 64 歲成年人飲食鎂攝取量經由三次調查結果 （NAHSIT 1993 -1996、 
+NAHSIT 2005–2008 與 NAHSIT 2013-2016）發現男性攝取量由 266 mg / d 增加
+至 323 mg / d，女性攝取量由 212 mg / d 增加至 291 mg / d。長者經由三次調查
+結果（NAHSIT 1999-2000、NAHSIT 2005–2008 與 NAHSIT 2013-2016）發現 65 
+歲以上男性攝取量由 250 mg / d 增加至 326 mg / d；女性攝取量由 216 mg / d 
+增加至 306 mg / d （表二）。 
+由 NAHSIT 2001-2002 學童調查與 NAHSIT 2013-2016 發現膳食鎂攝取達
+建議量百分比，7-12 歲男、女學童分別為 135%至 111%與 123%至 103%，19 歲
+至 64 歲成年人膳食鎂攝取達建議量百分比經由三次調查結果 （NAHSIT 1993-
+1996、 NAHSIT 2005–2008 與 NAHSIT 2013-2016）發現男性由 69%增加至 91%，
+女性由 68%增加至 84%。65 歲以上者經由三次調查結果（NAHSIT 1999-2000、 
+NAHSIT 2005–2008 與 NAHSIT 2013-2016）發現膳食鎂攝取達建議量百分比 ， 發
+現男性由 69%增加至 91%，女性由 69%增加至 100% （表三） 。 
+依據 Lakshmanan 之研究指出(30)，年齡 19–30 歲健康男性攝取 330 mg / d，
+=== p.10 ===
+10 
+ 
+女性 237 mg / d 鎂時，其吸收排泄達正平衡，其平均攝取量為 4.3 mg / kg / d；
+若將國人 NAHSIT 2013-2016 各年齡層膳食鎂攝取量與其體重換算，其平均攝取
+量為 4.6 mg / kg / d，介於 3.5 mg / kg / d 至 5.8 mg / kg / d 之間。其中以女性 16-
+18 歲為最低，男性 7-12 歲為最高。 
+三、生化營養狀況 
+NAHSIT 1993–1996 並未檢測血鎂。國人血鎂趨勢分析僅就 NAHSIT 1999–
+2000、NAHSIT 2001–2002 、NAHSIT 2005–2008 與 NAHSIT 2013-2016 等四次營
+養調查調查做比較。國人血鎂濃度約於 0.85 mmol / L 至 0.90 mmol / L 之間，各
+年齡層間差異不大（表四）。人體血鎂濃度約 0.75–0.95 mmol / L（1.8–2.3 mg / dL），
+除非飲食發生嚴重的缺乏現象，否則血中鎂的濃度並不會下降，可見國人沒有嚴
+重的缺鎂問題（而血鎂能維持衡定之機制迄今未明）。 
+鎂攝取量低於 DRIs 建議攝取量的族群為男性 13 歲以上、女性 13－64 歲及
+女性 75 歲以上 ， 其中以男性13－15 歲及 16－18 歲差距較大分別達 DRIs 的 71%
+及 67%，女性則以 13－15 歲、16－18 歲及 19－44 歲差距較大分別達 62%、60%
+及 74%。顯示國人於富含鎂食物的攝取仍有相當大的改善空間，若能鼓勵國人飲
+食多攝取含鎂豐富的食物，包括綠葉蔬菜、堅果、豆類與全穀類等食物，應能有
+效增加國人之飲食鎂攝取量。另外，鑒於鎂與慢性疾病的關聯非常密切，因此應
+定期調查國民營養之膳食攝取監測國人之飲食鎂攝取狀況。 
+四、已知或尚待確認之慢性疾病風險相關性 
+有許多臨床研究分析膳食鎂攝取量與血漿鎂濃度變化，以及慢性疾病罹患
+之風險。一些臨床研究也發現鎂的補充對於一些疾病之治療潛力（例如偏頭
+痛，神經肌肉疾病（如不寧腿症候群）或憂鬱症，另外鎂補充劑也被認為是心
+血管疾病病人的心臟保護劑，尤其是心血管疾病伴隨心臟衰竭及低血鎂者(66)。
+另外在慢性腎臟病患者，低血鎂也相當常見。本節內文中所分析收錄之文獻僅
+限於研究鎂與一般健康人群的慢性疾病發生率，並儘可能使用足夠的證據如鎂
+的膳食攝取量與相關慢性疾病之發生率，以下為鎂與慢性疾病之相關研究說
+明。 
+(一) 鎂與糖尿病之相關性研究 
+鎂攝取不足可能降低葡萄糖耐受力並增加胰島素抗性(10, 67-70)。介入型研究
+指出，給予極低鎂攝取量使身體耗鎂者（depletion）、或依臨床標準血清和血球
+鎂低於正常者，其胰島素抗性都較高 (10, 71)。研究指出約 1/4 的糖尿病患者伴隨
+有低血鎂狀況，若給予鎂補充，對第 2 型糖尿病患者或老年人之胰島素抗性
+者，可改善其葡萄糖耐量及提升葡萄糖耐受力(10, 67-69, 72)。研究亦指出，正常血
+鎂者之胰臟 β 細胞與胰島素敏感性都顯著高於低血鎂者，但是低血鎂者之胰島
+素敏感性無法適當反映 β 細胞之功能，導致低血鎂者會有 β 細胞功能不足之
+=== p.11 ===
+11 
+ 
+現象 (73)。 
+2000 年台灣老人營養健康狀況調查中，血漿鎂濃度最低分位者（低於 
+0.863 mmol / L）罹患糖尿病危險為最高分位者（高於 0.946 mmol / L）之 3.25 
+倍(65)。台灣於 2012 年所發表之長期觀察性研究，發現鎂攝取量在最低的五分
+位（中位數 212.4 mg）與最高的五分位（中位數 405.9 mg）相比，罹患第二型
+糖尿病的風險明顯增加 2.61 倍（95% CI = 1.42-4.79） (74)。日本於 2010 年發
+表涵蓋 17,592 名受試者（年齡 40-65 歲），進行 5 年追蹤之大型世代研究報
+告，也發現不同飲食鎂攝取量與糖尿病罹患呈現負相關趨勢(75)。2016 年發表的
+一項分析報告提到，每天鎂攝取量每增加 100 mg（鎂攝取量 < 500 mg），第 2
+型糖尿病的罹病風險降低 8-13％(76)。另一篇日本研究，並未發現鎂攝取量與糖
+尿病罹患率有關 (77)，可能是因受試者鎂的攝取量之差異不大所致。 
+    在以系統性分析鎂攝取量與第二型糖尿病之研究中，一篇包含 13 項前瞻性
+研究 536,318 名參與者的 24,516 起事件，發現若每日鎂攝取量增加 100 mg，罹
+患第二型糖尿病的相對風險明顯降低 0.86 倍（95% CI = 0.82–0.89）(78)。在此統
+合分析中，經調整膳食纖維攝取量後，相對風險沒有顯著改變。此外，此篇研
+究中鎂攝取量增加對於第二型糖尿病罹病風險降低之影響僅存在於 BMI ≥ 25 kg 
+/ m2 的組別中。但是，在護理師健康研究和健康專業人員隨訪研究中，鎂攝取
+量和 BMI 之間並無發現顯著的交互作用，罹患第二型糖尿病的風險降低，存在
+於 BMI ≤ 27 和 > 27 kg/m2 二組中 (79)。 
+鎂攝取量與第 2 型糖尿病風險之間存在負相關關係。每日以氯化鎂
+（MgCl2）形式給 50 歲的第 2 型糖尿病患者補充 630 mg 鎂，可改善發生代謝
+綜合症的風險 (80)。但因鎂攝取量與第 2 型糖尿病風險之間缺少劑量-效應關係
+的有力證據，故無法依據以上結果作為設定建議量之依據 (81)。 
+ (二) 鎂與心血管疾病之相關性研究 
+在 14,221 名動脈粥狀硬化患者的社區世代研究指出(57)， 經過15 年追蹤調查
+後 ， 飲食鎂攝取量與缺血性中風呈臨界負相關趨勢 。 由於高血清鎂者有較低的高
+血壓盛行率 ， 雖然血清鎂濃度與罹患缺血性中風呈負相關性 ， 但經調整高血壓與
+糖尿病後 ， 血清鎂濃度對罹患缺血性中風之風險比則無顯著差異 。 這顯示對高血
+壓與糖尿病患者 ， 低血清鎂濃度可能增加其罹患缺血性中風之危險 。 在心血管疾
+病死亡率部分，研究指出，鎂攝取量低與較高的死亡率有關，血鎂濃度正常者，
+其動脈粥狀硬化症之危險性較低(82)， 在瑞典南部居住於硬水地區之居民 ， 因鎂攝
+取量較高，有較低的心肌梗塞（myocardial infarction）死亡率(83)。 
+橫斷式研究發現鎂攝取量與冠狀動脈以及腹腔主動脈的鈣化程度呈現負相
+關，這可能是鎂攝取增加，有較低心血管疾病與中風的原因之一(84)。近年來統合
+分析研究顯示鎂攝取量與心血管疾病之間的關係 ， 可能與膳食纖維攝取量和其他
+膳食因素混淆。其中一篇分析 19 個研究的統合分析，只有四個針對膳食纖維進
+行調整，三項針對鉀的攝取進行調整(85)。 而在另一篇則約有一半研究針對社會
+=== p.12 ===
+12 
+ 
+人口統計學和生活方式等因子進行調整，包括年齡、性別、種族、BMI、腰圍、
+吸菸、飲酒和運動訓練。因此，不易由富含鎂的食物中，了解鎂本身的作用(86)。 
+ (三) 鎂與高血壓之相關性研究 
+針對 45-64 歲中年男女的研究發現飲食之鎂攝取量與血壓呈負相關性(5)；美
+國鎂 DRIs 文本中提到攝取量低的族群其高血壓盛行率較高 (32)。於夏威夷針對
+日裔男性（45-65 歲）飲食與血壓之相關性研究，在分析了鎂，鈣，磷，鉀，纖
+維，植物蛋白，澱粉，維生素C 和維生素 D 等攝取量後，發現這些飲食因素中，
+鎂攝取量與血壓有最高的負相關性(87)。另外在涵蓋 58,218 名女性受試者之調查
+顯示，鎂攝取量低於  200 mg / d 時高血壓危險率明顯高於鎂攝取量超過  300 
+mg/d 者(88)。涵蓋 30,681 名男性（45-75 歲）受試者並經 4 年追蹤之前瞻性研究
+(89)與 15,248 名受試者之調查 (5)均發現鎂攝取量與收縮壓或舒張壓有顯著負相
+關性。一項針對荷蘭 55 歲以上及老年人的研究提到，膳食鎂攝取量每增加 100 
+mg /d （311 ± 75 mg / d）與 1.2 / 1.1 mmHg（SBP / DBP）血壓降低有關 (90)。在
+2014 年發表的一項為期 8 週的交叉試驗中，讓14 位血壓正常的健康年輕人補充
+鎂（368 mg /d）並不會影響他們的血壓，包含 SBP 與 DBP (91)。可能顯示在不同
+年齡層，鎂攝取增加所造成之生理反應不同。 
+根據 30 項觀察性研究（主要是橫斷性研究）的統合分析，說明鎂的攝取量
+與收縮壓和舒張壓之間可能存在負相關係 (92)。在以介入研究為主的統合分析指
+出，平均鎂補充量為 410 mg / d，其收縮壓/舒張壓變化為-0.32 /-0.36 mmHg，雖
+然血壓降幅輕微但已達顯著水準(93)。 但其他統合分析研究中 ， 鎂補充並未顯示降
+壓作用(92, 94)。 這可能與這些研究未能妥適去除造成偏差的影響因子有關 。 在2016
+年和 2017 年發表的統合分析 ， 顯示補充鎂（300-450 mg）可以降低血壓（SBP/DBP）
+(95, 96)。 
+目前被公認有顯著防治高血壓成效的得舒（DASH）飲食，能提供人體所需
+之足夠鎂量，一天約可提供鎂量 500 mg(97)。 
+(四) 鎂與中風之相關性研究  
+鎂是第二主要的細胞內陽離子，可藉影響血壓、血管內皮功能、血小板聚集
+和凝結、心律以及葡萄糖和胰島素代謝來影響心血管系統(12, 98, 99)。 歐洲癌症與營
+養前瞻性研究，追蹤 12 年期間，觀察到飲食鎂攝取量與中風風險呈負相關。最
+低四分位數和最高四分位的總鎂攝取量（即飲食加上補充劑）分別為 ≤ 285 mg / 
+d 和 ≥ 398 mg / d，每日增加攝取鎂 100 mg，中風風險降低 22％(100)；該研究鉀
+和鈣的攝取量與中風之發生率無顯著相關。在美國 2015 年，針對護理師兩批次 
+（NHS1 & NHS2 ）的前瞻性研究報告中，也發現鎂的攝取量每增加 100 mg / d 
+（各分位鎂攝取量平均值為 226-434 mg），與較低的中風罹患率有關(101)。 
+以鎂攝取量與中風之間關係的兩篇統合分析文獻中，分析了 15 項前瞻性研
+究（鎂攝取範圍 186-575 mg / d） ，發現鎂攝取量與中風發生率成反比關係；每日
+=== p.13 ===
+13 
+ 
+增加 100 mg 鎂攝取量與總中風風險有降低之趨勢；進一步分析顯示罹患缺血性
+中風的風險在鎂攝取量最高的組別明顯較低(102, 103)。另外在 2019 年發表的鎂攝
+取量與中風發生的統合分析中 ， 罹患中風與缺血性中風危險率 ， 皆隨著血清鎂濃
+度增加而降低(104)。 
+ (五) 鎂與代謝症候群之相關性研究 
+在與代謝症候群相關風險之間的部分。將八項橫斷性研究和兩項前瞻性研
+究，進行統合分析，發現每日增加 150 mg 鎂（150-550 mg）的攝取與代謝症候
+群風險呈現負相關(105)。 在另外六項橫斷性研究，也顯示每增加 100 mg/d 的鎂
+攝取量，發生代謝症候群的總風險降低 17％(106)。 
+在一項針對台灣 65 歲以上，罹患糖尿病男女的橫斷性研究中發現，鎂的攝
+取量與代謝症候群有明顯負相關(107)。 
+ (六) 鎂與骨骼健康相關研究 
+鎂與骨骼健康的關係主要由構成骨骼中的羥基磷灰石結晶（hydroxyapatite 
+crystal）結構而發揮。各項研究（橫斷性、觀察性研究，使用鎂補充劑的介入
+研究）說明了鎂攝取量與骨密度（BMD）或骨礦物質含量（BMC）的各種影響
+(108-111)。針對 8 至 14 歲之青少女，其飲食鎂攝取量低於 220 mg / d，每日補充
+鎂 300 mg 一年之後，顯著提高髖部骨礦物質含量約 3％，但腰椎部分則不受影
+響；補充組和安慰劑組之間的骨密度沒有差異(110)。在更年期後婦女的研究中發
+現，每日鎂攝取量高於 423 mg 的女性相較於每天攝入少於 207 mg 的女性，其
+髖關節骨密度增加 3％，全身骨密度增加 2％。然而在平均 7.6 年的追蹤期間，
+鎂攝取量在髖部和全部骨折的發生率及相對風險沒有差異(112)。 
+以年輕女性進行一項隨機交叉試驗，受試者日常飲食鎂攝取量約為 275 
+mg，在給予 250 mg / d 的鎂補充四週後，骨形成和吸收的生化指標沒有顯著改
+變(113)。針對鎂攝取量、骨礦物質密度以及骨折風險的系統性回顧與統合分析表
+示，鎂攝取量與股骨頸、前臂骨密度有顯著正相關，對腰椎無顯著相關。大量
+攝取鎂，不會提高髖部和骨折之風險(114)。 
+儘管鎂在骨骼結構和生理中的作用已得到充分證據支持，但有關鎂攝取量
+與骨骼之相關研究尚不充足，故無法在制定鎂之建議攝取量時作為參考依據
+(81)。 
+ (七) 鎂與氣喘之相關性研究 
+鎂會與鈣競爭進而抑制平滑肌收縮(73)， 也會抑制組織胺 、 一氧化氮與前列腺
+素釋放，並穩定肥大細胞和 T 淋巴細胞，減少呼吸道的發炎反應，因此有益於氣
+喘的治療 (6, 115)。流行病學研究推測，低鎂飲食會損傷肺功能，造成過度換氣及
+增加氣喘之危險(116)，研究建議補充鎂可以減少支氣管阻塞、降低肺部壓力，並
+=== p.14 ===
+14 
+ 
+且可以增加呼吸肌肉強度(117)。動物實驗證實鎂會藉由釋放組織胺或改變神經電
+位來抑制氣管平滑肌收縮(118)。多項研究對氣喘病患投以硫酸鎂治療以減輕氣喘
+症狀(119)，嚴重氣喘病患體內紅血球鎂含量顯著低於健康受試者，而於氣喘藥物
+治療後，其紅血球鎂含量顯著增加(120)。 
+日本流行病學研究指出約有 40% 氣喘病患有缺鎂情形(121)。NAHSIT 2001–
+2002 指出，6–12 歲之國小氣喘女學童比健康女學童雖有較低之飲食鎂攝取量，
+但兩者間未達顯著差異 ； 將血清鎂濃度分為四分位後，比較最高分位與最低分位
+之學童罹患氣喘之危險比 ， 發現不同血清鎂濃度之學童罹患氣喘之危險比並無顯
+著差異 (63)。英國以半定量飲食頻率問卷評估 2633 名受試者鎂的攝取量 ， 發現每
+日鎂攝取量增加 100 mg 以上之受試者，其氣管比較不會異常收縮，且罹患過度
+換氣之危險比可顯著降低(87)。 而無論是由膳食 、 霧化吸入或以靜脈注射方式給予
+鎂，氣喘治療方案中，其預後的改善情形並不一致(122, 123)。 
+(八) 鎂與憂鬱症 
+研究指出鎂攝取量與憂鬱症狀具相關性 。 挪威以醫院之量表評估5708名社區
+區民之焦慮及憂鬱症狀 ， 並以食物頻率問卷評估鎂攝取量後顯示 ， 經熱量調整干
+擾因子後，鎂攝取量與標準化憂鬱分數、憂鬱狀況呈負相關性，但與焦慮狀況則
+不具相關性(58)。 在統合了11項評估飲食鎂攝取與憂鬱症罹患風險之研究 ， 飲食鎂
+攝取量增加可降低罹患憂鬱症之風險； 此現象呈現非線性關係 ， 研究顯示攝取320 
+mg的鎂有最大之預防效應(124)。但在以憂鬱症患者進行鎂的補充之研究，治療效
+果並不一致(125)。 
+(九) 鎂與發炎、氧化壓力之相關性研究 
+研究顯示鎂缺乏會增加體內慢性發炎與氧化 壓力(7,9,11)，低鎂飲食會呈現慢
+性發炎壓力現象 ， 一般人最常見的低鎂飲食是屬於臨界至合宜之間建議 （建議的
+50%– < 100% ）；這類飲食也會造成實驗動物出現發炎與氧化壓力的代償 或升高
+現象(11)。臨界至合宜間之低鎂飲食者，其慢性病盛行率增加，若再伴隨肥胖，則
+會出現慢性低程度的發炎代償現象(12)。 另外 ，鎂攝取量與 C 反應蛋白（C-reactive 
+protein, CRP ）濃度呈現負相關性(7)。由於 CRP 是發炎指標，同時亦是心血管疾
+病危險指標，因此，鎂攝取量與發炎間之相關性仍須進一步驗證。一篇統合性分
+析中提到在糖尿病患者，鎂攝取與丙二醛濃度，呈現高度負相關(126)。在以 CRP
+與鎂攝取量相關的統合分析中，發現鎂的攝取量與血液中 CRP 濃度有明顯的負
+相關(127)。而在另一份統合分析中發現，若血中 CRP 濃度超過 3 mg / L，口服補
+充鎂可降低血中 CRP 之濃度(128)。 
+ 
+=== p.15 ===
+15 
+ 
+過量危害與毒性 
+一、毒性與症狀 
+目前尚無報告指出由一般食物中攝取過量鎂會造成不良的影響 。 大量攝取食
+物外的鎂所造成之不良反應 ， 僅在腎臟機能不佳時才會表現出來 。 在不良症狀出
+現之前，血清中的鎂濃度會上升到 2-3.5 mmol/L（4.8-8.4 mg/dL）以上。必須於
+飲食外額外給予營養補充劑或是醫藥品中攝取 10 mg/kg/d 以上的鎂(129)，才有可
+能造成血液中的鎂濃度上升。有研究指出，年輕男性從食物攝取鎂 310 mg ，每
+日再經口攝取 360 mg 的鎂補充劑後，血清鎂濃度並沒有上升的情形(130)。研究也
+發現，若以 140-960 mg/d 的飲食攝取，再加上鎂的補充劑時，鎂的吸收量會增
+加，即使扣除尿中排泄量的增加，體內鎂的滯留量也會增加。鎂在體內滯留量增
+加對身體的影響(16)，應是今後研究的課題。 
+ 
+二、過量危害及上限攝取量之訂定 
+UL 的訂定 ， 是指對所有健康個體不造成不良影響最高營養素攝取量 ， 用來
+保護一般健康族群中較敏感之個體，如老年人。鎂的  LOAEL 或 NOAEL（No 
+Observed Adverse Effect Level）是以鎂攝取過多會導致腹瀉做為訂定標準。 
+至目前為止，尚無報告指出由一般食物攝取過量鎂會有不良影響。研究結
+果發現鎂攝取過量所造成之不良影響 ， 大都是由於含鎂藥物或鎂補充劑攝取過量
+所引起。因此，鎂的「上限攝取量」不考慮從食物攝取的鎂量，而是以不會造成
+不良影響的鎂補充劑的量訂定之食物以外過量的鎂攝取 ， 初期的不良影響是腹瀉
+(131)，所以腹瀉症狀的有無，作為鎂安全性的指標。 
+美國成年人的鎂上限攝取量，取其食品以外的鎂為 360 mg / d，並考慮不確
+定係數後，建議食品以外的鎂 UL 是 350 mg。美國未建議嬰兒的 UL；兒童的非
+食物性鎂之 UL 為 1-3 歲 65 mg / d，4-8 歲 110 mg / d，其他均為 350 mg / d。
+日本以非食物性的鎂來源制定成人和兒童 （8 歲以上） 的UL 容許上限為 350 mg，
+兒童的容許限制為 5 mg / kg BW。中國則考慮用非食物性鎂來源制定膳食鎂 UL
+不夠合理，故無制定 UL(45)。 
+臺灣因沒有國人相關之研究報告，所以採用美國之計算方式，嬰兒未建議  
+UL，其他年齡層之 UL 為非食物性鎂量。非食物性鎂量分別是：1-3 歲 65 mg / 
+d、4-6 歲與 7-9 歲為 110 mg / d，其他各年齡層均為 350 mg / d。因此，1–3 歲、
+4-6 歲與 7-9 歲各年齡層之 UL 各為 65 mg/ d、110 mg / d、110 mg / d ，10 歲以
+上均為 350 mg / d，如表五。 
+ 
+=== p.16 ===
+16 
+ 
+總結 
+由於我國並未對鎂進行平衡試驗 ， 因此第八版 「國人膳食營養素參考攝取量」
+所建議的鎂攝取量乃依據美國的平衡試驗數據與 各年齡層國人參考體重換算而
+得 。 有關營養素鎂與疾病相關性研究中 ， 皆指出無論是飲食鎂或血清鎂值偏低時 ，
+其罹患疾病之危險性會增高，相關之疾病包括心血管疾病、糖尿病、骨質疏鬆、
+焦慮及憂鬱等疾病。目前國人血鎂缺乏率（< 0.7 mmol / L）相當低(65)，但為考量
+避免國人罹患相關疾病之風險， 建議使用目前之計算模式且依據體位之變化進行
+調整。 
+ 
+=== p.17 ===
+17 
+ 
+表 一 、臺灣的鎂 DRIs 與中、日、美加與紐澳之比對 a
+ 
+臺灣 2020 日本 2020 中國 2013 美加 1997,2019 紐澳 2006 
+  年齡 
+(歲) 
+EAR 
+男/女 
+RDA 
+男/女 
+ 年齡 
+(歲) 
+EAR 
+男/女 
+RDA 
+男/女 
+ 年齡 
+(歲) 
+EAR RNIb  年齡 
+(歲) 
+EAR 
+男/女 
+RDA 
+男/女 
+ 年齡 
+(歲) 
+EAR 
+男/女 
+RDI 
+男/女 
+  0 月-  25  0 月-  20  0 
+月- 
+ 20  0 月-  30  0 月-  30 
+  7 月-  70  6 月-  60  5 
+月-  65  7 月-  75  7 月-  75 
+  1- 65 80  1- 60 70  1- 110 140  1- 65 80  1- 65 80 
+  4- 100 120  3- 80 100  4- 130 160  4- 110 130  4- 110 130 
+  7- 140 170  6- 110 130  7- 180 220         
+      8- 140 170/160             
+  10- 190 230  10- 180 210/220  11- 250 300  9- 200 240  9- 200 240 
+  13- 290/260 350/320  12- 250/240 290/290             
+  16- 330/270 390/330  15- 300/260 360/310  14- 270 320  14- 340/300 410/360  14- 340/300 410/360 
+  19- 320/260 380/320  18- 280/230 340/270  18- 280 330  19- 330/255 400/310  19- 330/255 400/310 
+  31- 320/270 380/320  30- 310/240 370/290      31- 350/265 420/320  31- 350/265 420/320 
+  51- 300/260 360/310  50- 310/240 370/290  50- 280 330  51- 350/265 420/320  51 350/265 420/320 
+  71- 290/250 350/300  65- 290/230 350/280  65- 270 320  >70 350/265 420/320  >70 350/265 420/320 
+      75- 270/220 320/260  80- 260 310         
+  懷孕期  + 35   + 30 + 40   + 30 + 40  ≦18 335 400  14 335 400 
+              19- 290 350  19 290 350 
+              31-50 300 360  31-50 300 360 
+  哺乳期 C + 0 + 0   + 0 + 0   + 0 + 0  ≦18 300 360  14 300 360 
+              19 255 310  19 255 310 
+              31-50 265 320  31-50 265 320 
+a 1 歲以內嬰兒均為 AI；b RNI = recommended nutrient intake; c 表示比同齡非孕婦之增加量。 
+=== p.18 ===
+- 18 - 
+ 
+ 
+表二 國民營養健康狀況變遷調查之國人每日膳食鎂攝取量平均值趨勢  
+ 
+ 
+ 年齡
+（歲） 
+ 男性 (mg/d)     女性 (mg/d)   
+ 1993-6 1999-2000 2001-2 2005-8 2013-6  1993-6 1999-2000 2001-2 2005-8 2013-6 
+            
+1-6     188      158 
+7-12   247  221    228  204 
+13-15     245      198 
+16-18     260      198 
+19-44 269   299 304  221   253 237 
+45-64 266   329 323  212   282 291 
+65-74  250  279 326   216  227 306 
+≧75     314      237 
+             
+ 
+  
+=== p.19 ===
+- 19 - 
+ 
+ 
+表三 國民營養健康狀況變遷調查之國人每日膳食鎂攝取達建議量百分比趨勢  
+ 
+ 
+    男性 (%)     女性 (%)   
+年齡（歲） 1993-6 1999-2000 2001-2 2005-8 2013-6  1993-6 1999-2000 2001-2 2005-8 2013-6 
+            
+1-6     191      163 
+7-12   135  111    123  103 
+13-15     71      67 
+16-18     67      60 
+19-44 75   83 80  70   80 74 
+45-64 74   91 91  68   90 84 
+65-74  69  78 91   69  72 100 
+≧75     90      79 
+             
+  
+=== p.20 ===
+- 20 - 
+ 
+表四 營養健康狀況變遷調查之國人血鎂濃度趨勢  
+ 
+ 
+    男性 (mmol/L)     女性 (mmol/L)   
+年齡（歲） 1993-6 1999-2000 2001-2 2005-8 2013-6  1993-6 1999-2000 2001-2 2005-8 2013-6 
+            
+1-6            
+7-12   0.87  0.88    0.86  0.87 
+13-15     0.88      0.87 
+16-18     0.9      0.88 
+19-44    0.87 0.89     0.85 0.88 
+45-64    0.87 0.9     0.87 0.9 
+65-74  0.9  0.87 0.88   0.90  0.86 0.89 
+≧75     0.89      0.89 
+             
+  
+=== p.21 ===
+- 21 - 
+ 
+表五 、臺灣的鎂 UL 與其他國家之比對  
+ 
+臺灣 2020 日本 2020 中國 2013       美國 1997                 紐澳 2006 
+ 年齡 
+(歲) UL* 
+ 年齡 
+(歲) UL 
+ 年齡 
+(歲) UL 
+ 年齡 
+(歲) UL  年齡 
+(歲) UL 
+ 0 月- -  0 月-   0 月-   0 月-     
+ 7 月- -  4 月-   6 月-   7 月-     
+ 1- 65  1- 5mg/kg  1-   1- 65  1- 65 
+ 4- 110  3- 5mg/kg  4-   4- 110  4- 110 
+ 7- 110  6- 5mg/kg  7-   9- 350  9- 350 
+                10- 350  8- 350  11- 無       
+ 13- 350  10- 350  14- 訂  14- 350  14- 350 
+ 16- 350  12- 350   定 
+ 
+      
+    15- 350          
+ 19- 350  ≧18 350  ≧18   19- 350  19- 350 
+ 31- 350        31- 350  31- 350 
+ 51- 350        51- 350  51- 350 
+ 71- 350        >70 350  >70 350 
+ 懷孕期 350        ≦18 350  14- 350 
+          19 350  19- 350 
+          31-50 350  31-50 350 
+ 哺乳期 350        ≦18 350  14- 350 
+          19 350  19- 350 
+          31-50 350  31-50 350 
+*UL 值為非食物性鎂量。 
+  
+=== p.22 ===
+22 
+ 
+參考文獻 
+1. Wester PO. Magnesium. Am J Clin Nutr. 1987;45:1305-12. 
+2. V olpe P, Alderson-Lang BH, Nickols GA. Regulation of inositol 1,4,5 -
+trisphosphate-induced Ca 2+ release. I. Effect of Mg 2+. Am J Physiol.  
+1990;258:C1077-85. 
+3. Quamme GA. Recent developments in intestinal magnesium absorption. Curr 
+Opin Gastroenterol. 2008;24:230-5. 
+4. Nadler JL, Buchanan T, Natarajan R, Antonipillai I, Bergman R, Rude R. 
+Magnesium deficiency produces insulin resistance and increased thromboxane 
+synthesis. Hypertension. 1993;21:1024-9. 
+5. Ma J, Folsom AR, Melnick SL, Eckfeldt JH, Sharrett AR, Nabulsi AA, Hutchinson 
+RG, Metcalf PA. Associations of serum and dietary magnesium with 
+cardiovascular disease, hypertension, diabetes, insulin, and carotid arterial wall 
+thickness: the ARIC study. Atherosclerosis Risk in Communities Study. J Clin 
+Epidemiol. 1995;48:927-40. 
+6. Hill J, Micklewright A, Lewis S, Britton J. Investigation of the effect of short-term 
+change in dietary magnesium intake in asthma. Eur Respir J. 1997;10:2225-9. 
+7. King DE. Inflammation and elevation of C-reactive protein: does magnesium play 
+a key role? Magnes Res. 2009;22:57-9. 
+8. Musso CG. Magnesium metabolism in health and disease. Int Urol Nephrol . 
+2009;41:357-62. 
+9. Barbagallo M, Dominguez LJ. Magnesium and aging.  Curr Pharm Des . 
+2010;16:832-9. 
+10. Chaudhary DP, Sharma R, Bansal DD. I mplications of magnesium deficiency in 
+type 2 diabetes: a review. Biol Trace Elem Res. 2010;134:119-29. 
+11. Nielsen FH. Magnesium, inflammation, and obesity in chronic disease. Nutr Rev. 
+2010;68:333-40. 
+12. Shechter M. Magnesium and cardiovascular system. Magnes Res. 2010;23:60-72. 
+13. Maguire ME, Cowan JA. Magnesium chemistry and biochemistry. Biometals. 
+2002; 15:203-10. 
+14. Wolf FI, Cittadini A. Chemistry and biochemistry of magnesium. Mol Aspects 
+Med. 2003;24:3-9. 
+15. Iseri LT, French JH. Magnesium: nature's physiologic calcium blocker. Am Heart 
+J. 1984;108:188-93. 
+16. Fine KD, Santa Ana CA, Porter JL, Fordtran JS. Intestinal absorption of 
+magnesium from food and supplements. J Clin Invest. 1991;88:396-402. 
+17. Schwartz R, Walker G, Linz MD, MacKellar I. Metabolic responses of adolescent 
+=== p.23 ===
+23 
+ 
+boys to two levels of dietary magnesium and protein. I. Magnesium and nitrogen 
+retention. Am J Clin Nutr. 1973;26:510-8. 
+18. Siener R, Hesse A. Influence of a mixed and a vegetarian diet on urinary 
+magnesium excretion and concentration. Br J Nutr. 1995;73:783-90. 
+19. Lewis NM, Marcus MS, Behling AR, Greger JL. Calcium supplements and milk: 
+effects on acid -base balance and on retention of calcium, magnesium, and 
+phosphorus. Am J Clin Nutr. 1989;49:527-33. 
+20. Andon MB, Ilich  JZ, Tzagournis MA, Matkovic V . Magnesium balance in 
+adolescent females consuming a low - or high -calcium diet. Am J Clin Nutr . 
+1996;63:950-3. 
+21. Seelig MS. Interrelationship of magnesium and estrogen in cardiovascular and 
+bone disorders, eclampsia, migraine and premenstrual syndrome. J Am Coll Nutr. 
+1993;12:442-58. 
+22. Wen SF, Evanson RL, Dirks JH. Micropuncture study of renal magnesium 
+transport in proximal and distal tubule of the dog. Am J Physiol. 1970;219:570-6. 
+23. Misialek JR, Lopez FL, Lutsey PL, H uxley RR, Peacock JM, Chen L Y , Soliman 
+EZ, Agarwal SK, Alonso A. Serum and dietary magnesium and incidence of atrial 
+fibrillation in whites and in African Americans --Atherosclerosis Risk in 
+Communities (ARIC) study. Circ J. 2013;77:323-9. 
+24. Arnaud MJ. Up date on the assessment of magnesium status. Br J Nutr. 2008;99 
+Suppl 3:S24-36. 
+25. Elin RJ. Assessment of magnesium status. Clin Chem. 1987;33:1965-70. 
+26. Millart H, Durlach V , Durlach J. Red blood cell magnesium concentrations: 
+analytical problems and significance. Magnes Res. 1995;8:65-76. 
+27. Durlach J, Pagès N, Bac P, Bara M, Guiet-Bara A. Importance of the ratio between 
+ionized and total Mg in serum or plasma: new data on the regulation of Mg status 
+and practical importance of total Mg concentration i n the investigation of Mg 
+imbalance. Magnes Res. 2002;15:203-5. 
+28. Rooney MR, Rudser KD, Alonso A, Harnack L, Saenger AK, Lutsey PL. 
+Circulating ionized magnesium: comparisons with circulating total magnesium 
+and the response to magnesium supplementation in a randomized controlled trial. 
+Nutrients. 2020;12:263. doi: 10.3390/nu12010263. 
+29. Zhan J, Wallace TC, Butts SJ, Cao S, Ansu V , Spence LA, Weaver CM, Gletsu -
+Miller N. Circulating ionized magnesium as a measure of supplement 
+bioavailability: results from a pilot study for randomized clinical trial. Nutrients. 
+2020;12:1245. doi: 10.3390/nu12051245. 
+30. Lakshmanan FL, Rao RB, Kim WW, Kelsay JL. Magnesium intakes, balances, 
+and blood levels of adults consuming self -selected diets. Am J Clin Nutr. 
+=== p.24 ===
+24 
+ 
+1984;40:1380-9. 
+31. Witkowski M, Hubert J, Mazur A. Methods of assessment of magnesium status in 
+humans: a systematic review. Magnes Res. 2011;24:163-80. 
+32. Institute of Medicine . Dietary Reference Intakes for Calcium, Phosphorus, 
+Magnesium, Vitamin D, and Fluoride. Washington , D.C.: National Academies 
+Press (US); 1997. 
+33. Nishimuta M, Kodama N, Morikuni E, Yoshioka YH, Matsuzaki N, Takeyama H, 
+Yamada H, Kitajima H. Equilibrium intakes of calcium and magnesium within an 
+adequate and limited range of  sodium intake in human. J Nutr Sci Vitaminol.  
+2006;52:402-6. 
+34. Nishimuta M, Kodama N, Shimada M, Yoshitake Y , Matsuzaki N, Morikuni E. 
+Estimated equilibrated dietary intakes for nine minerals (Na, K, Ca, Mg, P, Fe, Zn, 
+Cu, and Mn) adjusted by mineral ba lance medians in young Japanese females. J 
+Nutr Sci Vitaminol. 2012;58:118-28. 
+35. Nielsen FH, Milne DB. A moderately high intake compared to a low intake of zinc 
+depresses magnesium balance and alters indices of bone turnover in 
+postmenopausal women. Eur J Clin Nutr. 2004;58:703-10. 
+36. Hunt CD, Johnson LK. Magnesium requirements: new estimations for men and 
+women by cross -sectional statistical analyses of metabolic magnesium balance 
+data. Am J Clin Nutr. 2006;84:843-52. 
+37. Nielsen FH. The alteration of magnesium, calcium and phosphorus metabolism by 
+dietary magnesium deprivation in postmenopausal women is not affected by 
+dietary boron deprivation. Magnes Res. 2004;17:197-210. 
+38. Nielsen FH, Milne DB, Gallagher S, Johnson L, Hoverson B. Moderate 
+magnesium deprivation results in calcium retention and altered potassium and 
+phosphorus excretion by postmenopausal women. Magnes Res. 2007;20:19-31. 
+39. Quamme GA, Dirks JH. The physiology  of renal magnesium handling. Ren 
+Physiol. 1986;9:257-69. 
+40. Kesteloot H, Joossens JV . The relationship between dietary intake and urinary 
+excretion of sodium, potassium, calcium and magnesium: Belgian Interuniversity 
+Research on Nutrition and Health. J Hum Hypertens. 1990;4:527-33. 
+41. Hunt SM, Schofield FA. Magnesium balance and protein intake level in adult 
+human female. Am J Clin Nutr. 1969;22:367-73. 
+42. Mahalko JR, Sandstead HH, Johnson LK, Milne DB. Effect of a moderate increase 
+in dietary protein on the retention and excretion of Ca, Cu, Fe, Mg, P, and Zn by 
+adult males. Am J Clin Nutr. 1983;37:8-14. 
+43. Kelsay JL, Behall KM, Prather ES. Effect of fiber from fruits and vegetables on 
+metabolic responses of human subjects, II. Calcium, magnesium, iron, and silicon 
+=== p.25 ===
+25 
+ 
+balances. Am J Clin Nutr. 1979;32:1876-80. 
+44. Wisker E, Nagel R, Tanudjaja TK, Feldheim W. Calcium, magnesium, zinc, and 
+iron balances in young women: effects of a low -phytate barley-fiber concentrate. 
+Am J Clin Nutr. 1991;54:553-9. 
+45. 中國營養學會。中國居民膳食營養素參考攝入量。北京: 科學出版社; 2013. 
+46. Australian Government Department of Health and Ageing NZMoH. Nutrient 
+Reference Values for Australia and New Zealand  Including Recommended 
+Dietary Intakes. Australia: National Health and Medical Research Council; 2006. 
+47. Ministry of Health Labour and Welfare. Dietary Reference Intakes for Japanese 
+(2020). Tokyo, Japan: Health Service Bureau, Ministry of Health, Labour and 
+Welfare, 2020. 
+48. Da Costa TH, Haisma H, Wells JC, Mander AP, Whitehead RG, Bluck LJ. How 
+much human milk do infants consume? Data from 12 countries using a 
+standardized stable isotope methodology. J Nutr. 2010;140:2227-32. 
+49. Atkinson SA A-MB, Lonnerdal B, Neville MC. Thomson MP. Major minerals and 
+ionic constituents of human and bovine milk. 1st ed. California: Academic Press; 
+1995. 
+50. Heinig MJ, Nommsen LA, Peerson JM, Lonnerdal B, Dewey KG. Energy and 
+protein intakes of breast -fed and formula -fed infants during the first year of life 
+and their association with growth velocity: the DARLING Study. Am J Clin Nutr. 
+1993;58:152-61. 
+51. Specker BL, Beck A, Kalkwarf H, Ho M. Randomized trial of varying mineral 
+intake on total body bone mineral accretion during the first year of life. Pediatrics. 
+1997;99:E12. 
+52. Su YF, Lyu LC, Lin CH, Hsieh WS, Fang LJ. Estimation of breast milk intake by 
+test-weighing and nutrient intake by Taiwanese infants before 6 months of age. 
+Nutr Sci J. 2009;34:11-21. 
+53. Food, Nutrition Board, IOM. Dietary reference intakes for calcium, phosphorus, 
+magnesium, vitamin D, and fluoride. National Academy Press Washington, DC; 
+1997. 
+54. Abrams SA, Grusak MA, Stuff J, O'Brien KO. Calcium and magnesium balance 
+in 9-14-y-old children. Am J Clin Nutr. 1997;66:1172-7. 
+55. Ministry of Health , Welfare J. Dietary Reference Intakes for Jap anese, 2015. 
+Daiichi Shuppan Tokyo, Japan; 2005. 
+56. Nishimuta M, Kodama N, Morikuni E, Yoshioka YH, Takeyama H, Yamada H, 
+Kitajima H, Suzuki K. Balances of calcium, magnesium and phosphorus in 
+Japanese young adults. J Nutr Sci Vitaminol. 2004;50:19-25. 
+57. Ohira T, Peacock JM, Iso H, Chambless LE, Rosamond WD, Folsom AR. Serum 
+=== p.26 ===
+26 
+ 
+and dietary magnesium and risk of ischemic stroke: the Atherosclerosis Risk in 
+Communities Study. Am J Epidemiol. 2009;169:1437-44. 
+58. Jacka FN, Overland S, Stewart R, Tell GS, Bjelland I, Mykletun A. Association 
+between magnesium intake and depression and anxiety in community -dwelling 
+adults: the Hordaland Health Study. Aust N Z J Psychiatry. 2009;43:45-52. 
+59. Institute of Medicine Comm ittee on Nutritional Status During P, Lactation.  
+Nutrition During Lactation. Washington (DC): National Academies Press (US); 
+1991. 
+60. Klein CJ, Moser-Veillon PB, Douglass LW, Ruben KA, Trocki O. A longitudinal 
+study of urinary calcium, magnesium, and zin c excretion in lactating and 
+nonlactating postpartum women. Am J Clin Nutr. 1995;61:779-86. 
+61. Dengel JL, Mangels AR, Moser -Veillon PB. Magnesium homeostasis: 
+conservation mechanism in lactating women consuming a controlled -magnesium 
+diet. Am J Clin Nutr. 1994;59:990-4. 
+62. 王瑞蓮、潘文涵、高美丁。台灣地區國人鎂營養現況及其變遷：由 NASHIT 
+1993-1996 到 2005-2008。衛生福利部食品藥物管理署，台北市；2010。 
+63. Wang JL, Shaw NS, Kao MD. Magnesium deficiency and its lack of association 
+with asthma in Taiwanese elementary school children. Asia Pac J Clin Nutr . 
+2007;16 Suppl 2:579-84. 
+64. 潘文涵。2013-2016 年臺灣國民營養健康狀況變遷調查成果報告。台北市。
+2019。行政院衛生福利部國民健康署。 
+65. Wang JL, Shaw NS, Yeh HY , Kao MD. Magnesium status and association with 
+diabetes in the Taiwanese elderly. Asia Pac J Clin Nutr. 2005;14:263-9. 
+66. Wu N, Veillette A. Im munology: Magnesium in a signalling role. Nature. 
+2011;475:462-3. 
+67. Paolisso G, Sgambato S, Gambardella A, Pizza G, Tesauro P, Varricchio M, 
+D'Onofrio F. Daily magnesium supplements improve glucose handling in elderly 
+subjects. Am J Clin Nutr. 1992;55:1161-7. 
+68. Paolisso G, Passariello N, Pizza G, Marrazzo G, Giunta R, Sgambato S, Varricchio 
+M, D'Onofrio F. Dietary magnesium supplements improve B -cell response to 
+glucose and arginine in elderly non -insulin dependent diabetic subjects. Acta 
+Endocrinol. 1989;121:16-20. 
+69. Schmidt LE, Arfken CL, Heins JM. Evaluation of nutrient intake in subjects with 
+non-insulin-dependent diabetes mellitus. J Am Diet Assoc. 1994;94:773-4. 
+70. Paolisso G, Scheen A, D'Onofrio F, Lefebvre P. Magnesium and glucose 
+homeostasis. Diabetologia. 1990;33:511-4. 
+71. Spencer H, Fuller H, Norris C, Williams D. Effect of magnesium on the intestinal 
+absorption of calcium in man. J Am Coll Nutr. 1994;13:485-92. 
+=== p.27 ===
+27 
+ 
+72. Sjogren A, Floren CH, Nilsson A. Magnesium, potassium and zinc deficiency i n 
+subjects with type II diabetes mellitus.  Acta Psychiatr Scand. 1988;224:461-6. 
+73. Simental-Mendia LE, Rodriguez-Moran M, Guerrero-Romero F. Failure of beta-
+cell function for compensate variation in insulin sensitivity in hypomagnesemic 
+subjects Magnes Res.. 2009;22:151-6. 
+74. Weng LC, Lee NJ, Yeh WT, Ho LT, Pan WH. Lower intake of magnesium and 
+dietary fiber increases the incidence of type 2 diabetes in Taiwanese. J Formos 
+Med Assoc.2012;111:651-9. 
+75. Kirii K, Iso H, Date C, Fukui M, Tamakoshi A. Magnesium intake and risk of self-
+reported type 2 diabetes among Japanese. J Am Coll Nutr. 2010;29:99-106. 
+76. Fang X, Han H, Li M, Liang C, Fan Z, Aaseth J, He J, Montgomery S, Cao Y . 
+Dose-Response Relationship between Dietary Magnesium Intake and Risk of 
+Type 2 Diabetes Mellitus: A Systematic Review and Meta-Regression Analysis of 
+Prospective Cohort Studies. Nutrients. 2016 Nov 19;8. 
+77. Nanri A, Mizoue T, Noda M, Takahashi Y , Kirii K, Inoue M, Tsugane S. 
+Magnesium intake and type II diabetes in Japanese men a nd women: the Japan 
+Public Health Center-based Prospective Study. Eur J Clin Nutr. 2010;64:1244-7. 
+78. Dong JY , Xun P, He K, Qin LQ. Magnesium intake and risk of type 2 diabetes: 
+meta-analysis of prospective cohort studies. Diabetes care. 2011;34:2116-22. 
+79. Lopez-Ridaura R, Willett WC, Rimm EB, Liu S, Stampfer MJ, Manson JE, Hu 
+FB. Magnesium intake and risk of type 2 diabetes in men and women. Diabetes 
+care. 2004;27:134-40. 
+80. Rodrí guez-Morán M, Guerrero -Romero F. Oral magnesium supplementation 
+improves insulin sensitivity and metabolic control in type 2 diabetic subjects: a 
+randomized double-blind controlled trial. Diabetes care. 2003;26:1147-52. 
+81. Carlo Agostoni RBC, Susan Fairweather‐Tait, Marina Heinonen, Hannu 
+Korhonen, Sébastien La Vieille, Rosang ela Marchelli, Ambroise Martin, 
+Androniki Naska, Monika Neuhäuser‐Berthold, Grażyna Nowicka, Yolanda Sanz, 
+Alfonso Siani, Anders Sjödin, Martin Stern, Sean (J.J.) Strain, Inge Tetens, Daniel 
+Tomé, Dominique Turck and Hans Verhagen. Scientific Opinion on Di etary 
+Reference Values for magnesium. EFSA J. 2015;13. 
+82. Dreosti IE. Magnesium status and health. Nutr Rev. 1995;53:S23-7. 
+83. Rubenowitz E, Axelsson G, Rylander R. Magnesium in drinking water and death 
+from acute myocardial infarction. Am J Epidemiol. 1996;143:456-62. 
+84. Hruby A, O'Donnell CJ, Jacques PF, Meigs JB, Hoffmann U, McKeown NM. 
+Magnesium intake is inversely associated with coronary artery calcification: the 
+Framingham Heart Study. JACC Cardiovasc Imaging. 2014;7:59-69. 
+85. Qu X, Jin F, Hao Y , Li H, Tang T, Wang H, Yan W, Dai K. Magnesium and the risk 
+=== p.28 ===
+28 
+ 
+of cardiovascular events: a meta-analysis of prospective cohort studies. PLoS One. 
+2013;8:e57720. 
+86. Del Gobbo LC, Imamura F, Wu JH, de Oliveira Otto MC, Chiuve SE, Mozaffarian 
+D. Circulating and dietary magnesium and risk of cardiovascular disease: a 
+systematic review and meta -analysis of prospective studies. Am J Clin Nutr . 
+2013;98:160-73. 
+87. Joffres M R, Reed DM, Yano K. Relationship of magnesium intake and other 
+dietary factors to blood pressure: the Honolulu heart study. Am J Clin Nutr . 
+1987;45:469-75. 
+88. Witteman JC, Willett WC, Stampfer MJ, Colditz GA, Sacks FM, Speizer FE, 
+Rosner B, Hennekens CH. A prospective study of nutritional factors and 
+hypertension among US women. Circulation. 1989;80:1320-7. 
+89. Ascherio A, Rimm EB, Giovannucci EL, Colditz GA, Rosner B, Willett WC, 
+Sacks F, Stampfer MJ. A prospective study of nutritional factors and hypertension 
+among US men. Circulation. 1992;86:1475-84. 
+90. Geleijnse JM, Witteman JC, den Breeijen JH, Hofman A, de Jong PT, Pols HA, 
+Grobbee DE. Dietary electrolyte intake and blood pressure in older subjects: the 
+Rotterdam Study. J. Hypertens. 1996;14:737-41. 
+91. Cosaro E, Bonafini S, Montagnana M, Danese E, Trettene MS, Minuz P, Delva P, 
+Fava C. Effects of magnesium supplements on blood pressure, endothelial 
+function and metabolic parameters in healthy young men with a family history of 
+metabolic syndrome. Nutr Metab Cardiovasc Dis. 2014;24:1213-20. 
+92. Mizushima S, Cappuccio FP, Nichols R, Elliott P. Dietary magnesium intake and 
+blood pressure: a qualitative overview of the observational studies. J Hum 
+Hypertens. 1998;12:447-53. 
+93. Kass L, Weekes J, Carpente r L. Effect of magnesium supplementation on blood 
+pressure: a meta-analysis. Eur J Clin Nutr. 2012;66:411-8. 
+94. Dickinson HO, Nicolson DJ, Campbell F, Cook JV , Beyer FR, Ford GA, Mason J. 
+Magnesium supplementation for the management of essential hypertens ion in 
+adults. Cochrane Database Syst Rev. 2006;Cd004640. 
+95. Dibaba DT, Xun P, Song Y , Rosanoff A, Shechter M, He K. The effect of 
+magnesium supplementation on blood pressure in individuals with insulin 
+resistance, prediabetes, or noncommunicable chronic diseases: a meta-analysis of 
+randomized controlled trials. Am J Clin Nutr. 2017;106:921-9. 
+96. Zhang X, Li Y , Del Gobbo LC, Rosanoff A, Wang J, Zhang W, Song Y . Effects of 
+Magnesium Supplementation on Blood Pressure: A Meta-Analysis of Randomized 
+Double-Blind Placebo-Controlled Trials. Hypertension. 2016;68:324-33. 
+97. Sacks FM, Obarzanek E, Windhauser MM, Svetkey LP, V ollmer WM, 
+=== p.29 ===
+29 
+ 
+McCullough M, Karanja N, Lin PH, Steele P, et al. Rationale and design of the 
+Dietary Approaches to Stop Hypertension trial (DASH). A multicenter controlled-
+feeding study of dietary patterns to lower blood pressure. Ann. Epidemiol . 
+1995;5:108-18. 
+98. V olpe SL. Magnesium, the metabolic syndrome, insulin resistance, and type 2 
+diabetes mellitus. Crit Rev Food Sci Nutr. 2008;48:293-300. 
+99. Kolte D, Vijayaraghavan K, Khera S, Sica DA, Frishman WH. Role of magnesium 
+in cardiovascular diseases. Cardiol Rev. 2014;22:182-92. 
+100. Sluijs I, Czernichow S, Beulens JW, Boer JM, van der Schouw YT, Verschuren 
+WM, Grobbee DE. Intakes of potassium,  magnesium, and calcium and risk of 
+stroke. Stroke. 2014;45:1148-50. 
+101. Adebamowo SN, Spiegelman D, Willett WC, Rexrode KM. Association between 
+intakes of magnesium, potassium, and calcium and risk of stroke: 2 cohorts of US 
+women and updated meta-analyses. Am J Clin Nutr. 2015;101:1269-77. 
+102. Nie ZL, Wang ZM, Zhou B, Tang ZP, Wang SK. Magnesium intake and incidence 
+of stroke: meta -analysis of cohort studies. Nutr Metab Cardiovasc Dis . 
+2013;23:169-76. 
+103. Larsson SC, Orsini N, Wolk A. Dietary magnesium  intake and risk of stroke: a 
+meta-analysis of prospective studies. Am J Clin Nutr. 2012;95:362-6. 
+104. Zhao B, Hu L, Dong Y , Xu J, Wei Y , Yu D, Xu J, Zhang W. The Effect of 
+Magnesium Intake on Stroke Incidence: A Systematic Review and Meta-Analysis 
+With Trial Sequential Analysis. Front Neurol. 2019;10:852. 
+105. Ju SY , Choi WS, Ock SM, Kim CM, Kim DH. Dietary magnesium intake and 
+metabolic syndrome in the adult population: dose -response meta -analysis and 
+meta-regression. Nutrients. 2014;6:6005-19. 
+106. Dibaba DT, Xun P, Fly AD, Yokota K, He K. Dietary magnesium intake and risk 
+of metabolic syndrome: a meta-analysis. Diabet Med. 2014;31:1301-9. 
+107. Huang JH, Lu YF, Cheng FC, Lee JN, Tsai LC. Correlation of magnesium intake 
+with metabolic parameters, depressi on and physical activity in elderly type 2 
+diabetes patients: a cross-sectional study. Nutr J. 2012;11:41. 
+108. Tucker KL, Hannan MT, Chen H, Cupples LA, Wilson PW, Kiel DP. Potassium, 
+magnesium, and fruit and vegetable intakes are associated with greater bone 
+mineral density in elderly men and women. Am J Clin Nutr. 1999;69:727-36. 
+109. Ryder KM, Shorr RI, Bush AJ, Kritchevsky SB, Harris T, Stone K, Cauley J, 
+Tylavsky FA. Magnesium intake from food and supplements is associated with 
+bone mineral density in healthy older white subjects. J Am Geriatr Soc.  
+2005;53:1875-80. 
+110. Carpenter TO, DeLucia MC, Zhang JH, Bejnerowicz G, Tartamella L, Dziura J, 
+=== p.30 ===
+30 
+ 
+Petersen KF, Befroy D, Cohen  D. A randomized controlled study of effects of 
+dietary magnesium oxide supplementation on bone mineral content in healthy girls. 
+J Clin Endocrinol Metab. 2006;91:4866-72. 
+111. Farrell V A, Harris M, Lohman TG, Going SB, Thomson CA, Weber JL, 
+Houtkooper LB.  Comparison between dietary assessment methods for 
+determining associations between nutrient intakes and bone mineral density in 
+postmenopausal women. J Am Diet Assoc. 2009;109:899-904. 
+112. Orchard TS, Larson JC, Alghothani N, Bout -Tabaku S, Cauley JA, Ch en Z, 
+LaCroix AZ, Wactawski-Wende J, Jackson RD. Magnesium intake, bone mineral 
+density, and fractures: results from the Women's Health Initiative Observational 
+Study. Am J Clin Nutr. 2014;99:926-33. 
+113. Doyle L, Flynn A, Cashman K. The effect of magnesiu m supplementation on 
+biochemical markers of bone metabolism or blood pressure in healthy young adult 
+females. Eur J Clin Nutr. 1999;53:255-61. 
+114. Farsinejad-Marj M, Saneei P, Esmaillzadeh A. Dietary magnesium intake, bone 
+mineral density and risk of fracture: a systematic review and meta -analysis. 
+Osteoporos Int. 2016;27:1389-99. 
+115. Janson C, Herala M, Sjogren I. Nebulization versus injection in a mbulatory 
+treatment of acute asthma: a comparative study. Br J Dis Chest. 1988;82:347-53. 
+116. Britton J, Pavord I, Richards K, Wisniewski A, Knox A, Lewis S, Tattersfield A, 
+Weiss S. Dietary magnesium, lung function, wheezing, and airway hyperreactivity 
+in a random adult population sample. Lancet. 1994;344:357-62. 
+117. Bohmer T. Magnesium in lung diseases. Tidsskr Nor Laegeforen. 1995;115:827-
+8. 
+118. Spivey WH, Skobeloff EM, Levin RM. Effect of magnesium chloride on rabbit 
+bronchial smooth muscle. Ann Emerg Med. 1990;19:1107-12. 
+119. Ciarallo L, Brousseau D, Reinert S. Higher-dose intravenous magnesium therapy 
+for children with moderate to severe acute asthma. Arch Pediatr Adolesc Med . 
+2000;154:979-83. 
+120. Zervas E, Papatheodorou G, Psathakis K, Panagou P,  Georgatou N, Loukides S. 
+Reduced intracellular Mg concentrations in patients with acute asthma. Chest. 
+2003;123:113-8. 
+121. Hashimoto Y , Nishimura Y , Maeda H, Yokoyama M. Assessment of magnesium 
+status in patients with bronchial asthma. J Asthma. 2000;37:489-96. 
+122. Green RH. Asthma in adults (acute): magnesium sulfate treatment. BMJ Clin Evid. 
+2016;2016. 
+123. Abuabat F, AlAlwan A, Masuadi E, Murad MH, Jahdali HA, Ferwana MS. The 
+role of oral magnesium supplements for the management of stable bronchial 
+=== p.31 ===
+31 
+ 
+asthma: a systematic review and meta -analysis. NPJ Prim Care Respir Med.  
+2019;29:4. 
+124. Li B, Lv J, Wang W, Zhang D. Dietary magnesium and calcium intake and risk of 
+depression in the general population: A meta -analysis. Aust N Z J Psychiatry . 
+2017;51:219-29. 
+125. Botturi A, Ciappolino V , Delvecchio G, Boscutti A, Viscardi B, Brambilla P. The 
+Role and the Effect of Magnesium in Mental Disorders: A Systematic Review. 
+Nutrients. 2020;12. 
+126. Tabatabaei-Malazy O, Ardeshirlarijani E, Namazi N, Nikfar S, Jalili RB, Larijani 
+B. Dietary antioxidative supplements and diabetic retinopathy; a systematic review. 
+J Diabetes Metab Disord. 2019;18:705-16. 
+127. Dibaba DT, Xun P, He K. Dietary magnesium intake is inversely associated with 
+serum C-reactive protein levels: meta-analysis and systematic review. Eur J Clin 
+Nutr. 2014;68:510-6. 
+128. Simental-Mendia LE, Sahebkar A, Rodriguez -Moran M, Zambrano -Galvan G, 
+Guerrero-Romero F. Effect of Magnesium Supplementation on Plasma C-reactive 
+Protein Concentrations: A Systematic Review and Meta-Analysis of Randomized 
+Controlled Trials. Curr Pharm Des. 2017;23:4678-86. 
+129. Durlach J, Durlach V , Bac P, Bara M, Guiet-Bara A. Magnesium and therapeutics. 
+Magnes Res. 1994;7(3-4):313-328. 
+130. Dimai HP, Porta S, Wirnsberger G, Lindsching er M, Pamperl I, Dobnig H, 
+Wilders-Truschnig M, Lau KH. Daily oral magnesium supplementation 
+suppresses bone turnover in young adult males. J Clin Endocrinol Metab . 
+1998;83:2742-8. 
+131. Fine KD, Santa Ana CA, Fordtran JS. Diagnosis of magnesium-induced diarrhea. 
+N Engl J Med. 1991;324:1012-7. 
+ 
+ 

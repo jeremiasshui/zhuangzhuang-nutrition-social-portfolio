@@ -1,0 +1,1309 @@
+# 8.「國人膳食營養素參考攝取量」第八版_鉀.pdf
+# 來源：國民健康署（本機副本 tw_hpa/dris_8th）
+
+=== p.1 ===
+ 
+1 
+ 
+鉀 
+董家堯、章雅惠、潘文涵 
+前言 
+鉀（potassium, K）是人體細胞內主要的陽離子，為正常細胞功能所必需，其
+主要作用為調節血液與組織的水平衡和酸鹼平衡 、協助神經訊息的傳遞和肌肉收
+縮 、 維持心肌的正常功能等。鉀攝取量低與許多非傳染性疾病 （noncommunicable 
+diseases, NCDs） 有關，包括心血管疾病、高血壓、骨密度低下和慢性腎結石等。
+鉀攝取增加可能有助於減少心血管疾病的風險及降低血壓，且對骨密度產生有益
+影響，並減輕高鈉攝取的負面影響(1)。世界衛生組織（World Health Organization, 
+WHO）建議成人的鉀攝取量至少為 90 毫莫耳/天（3510 毫克/天）(1)，但歷次國
+民營養健康狀況變遷調查結果發現國人每天鉀平均攝取量皆不到 3000 毫克(2, 3)，
+且國際研究亦顯示臺灣鉀攝取較低於世界各國(4)。過去臺灣膳食營養素參考攝取
+量（Dietary Reference Intakes , 以下簡稱 DRIs）(5)並無鉀的部分，故此次新增鉀
+之攝取建議， 期能提供公共衛生營養計畫和政策參考 ， 進而降低國人非傳染性疾
+病的風險。 
+由於 目 前 仍 缺 乏充分 證據來確定 鉀 的 平 均 需 要 量（ Estimated Average 
+Requirement, 以下簡稱 EAR）和建議攝取量（Recommended Dietary Allowance , 
+以下簡稱 RDA），此次僅訂定各性別年齡層之鉀足夠攝取量 （Adequate Intake, 以
+下簡稱 AI）。本版亦暫時不訂定鉀的慢性疾病風險降低攝取量（Chronic Disease 
+Risk Reduction Intake , 以下簡稱 CDRR）與上限攝取量（Tolerable Upper Intake 
+Levels, 以下簡稱 UL） ，因現今國際上仍無充足的整合分析數據顯示鉀攝取量與
+慢性疾病風險的關係，也沒有足夠的鉀中毒風險證據。未來需更進一步探討不同
+形式的鉀和健康之因果關係與劑量效應，作為將來訂定 CDRR 的依據。 
+營養生化生理功能 
+一、理化性質 
+鉀為鹼金屬族第四列元素 ， 原子序19， 原子量39.10， 是種銀白色軟質金屬，
+以金屬鍵結合(6)。鉀的價電子解離能很低（418.7 千焦耳/莫耳），在自然界只以離
+子化合物形式存在，鉀化合物具有良好的水溶性，在水中解離生成一價陽離子(7-
+9)。 
+天然存在的鉀由三種同位素組成，分別是穩定同位素鉀-39（天然豐度 93.3
+％）和鉀-41（6.7％）， 以及放射性同位素鉀-40（0.01％）， 其半衰期很長（1.251×109
+年），衰變時放射出 β 射線和 γ 射線，β 射線的最大能量為 1.31MeV，γ 射線有
+1460.8keV 和 2.958keV 兩種。人體內大多數自然發生的放射性源自鉀-40(9)。 
+=== p.2 ===
+ 
+2 
+ 
+蔬菜和水果中含有大量的鉀 ， 但其含量會隨著加工和精製的過程而降低(10)。 
+ 
+二、營養生化功能 
+鉀是人體必需的巨量礦物質營養素，其總量排名第二，僅次於鈣而多於鈉，
+在人體內主要的功能為： 
+(一) 調節血液與組織的水平衡和酸鹼平衡 
+鉀是人體細胞內主要的陽離子 ， 全身約98％的鉀存在於細胞內(11)。
+細胞內液的鉀濃度約 145 毫莫耳/公升 ， 血漿和間質液 （interstitial fluid）
+等細胞外液的鉀濃度較低，只有 3.8-5 毫莫耳/公升。鉀對細胞內滲透壓
+的維持具有重要的作用(11)。人體細胞內液中的鉀和細胞外液中鈉含量的
+平衡 ， 是細胞內外水分恆定的根本條件 。鉀離子能通過細胞膜與細胞外
+的 H+或 Na+交換，達到調節酸鹼平衡的作用(6)。 
+(二) 協助神經訊息的傳遞和肌肉收縮 
+神經訊息的傳遞和肌肉收縮主要倚賴鈉 離子和鉀離子通過細胞膜
+所產生的電位差 。細胞內的鉀離子和細胞外的鈉離子聯合作用 ，細胞膜
+上的鈉鉀泵（Na+/K+-ATPase pump）利用 ATP 分解所產生能量，以主動
+運輸將三個鈉離子送出細胞 ， 同時將兩個鉀離子送進細胞 ， 來維持細胞
+內外鉀鈉離子濃度梯度（concentration gradient ） ，產生細胞膜電位變化
+（cellular membrane potentials）(11)。當膜去極化時在軸突產生動作電位
+變化，引起突觸釋放神經傳導物質(6)。 
+(三) 維持心肌的正常功能 
+心肌細胞內外的鉀濃度對心肌的自律性 、 傳導性和興奮性有密切關
+係。鉀缺乏時，心肌興奮性增高；鉀過高時則使心肌自律性、傳導性和
+興奮性受抑制；兩者均可引起心律失常(6)。 
+ 
+三、生理吸收代謝、儲存與排泄 
+（一）吸收 
+健康者對飲食中鉀的吸收率至少有 85％(12, 13)，主要吸收部位是小腸，藉由
+電化學梯度而被動運輸(14, 15)。在大腸後段，表皮細胞分泌鉀以交換鈉的再吸收；
+當鉀流失時，大腸具有再吸收的機制以保留鉀(16)。 
+ 
+（二）運送與分布 
+小腸吸收的鉀經由血液和細胞外液運送，並很快進入細胞內。鈉鉀泵負責
+維持細胞內高濃度的鉀。因為胰島素會刺激鈉鉀泵，所以血漿胰島素濃度的變
+=== p.3 ===
+ 
+3 
+ 
+化會影響細胞外鉀濃度，進而影響血鉀濃度。血清鉀濃度的正常範圍是 3.5-5.5
+毫莫耳/升；血漿的濃度比血清低略低 0.3-0.4 毫莫耳/升，主要是游離態離子，
+並有 10-20％為蛋白質結合態(17)。血鉀濃度受恆定調節而維持相當穩定，不會
+因飲食鉀攝取量的變動而有大幅的波動(18, 19)。 
+人體的鉀含量約為每公斤體重 40-55 毫莫耳，其中 98％都存在各組織的細
+胞內，肌肉佔有 70％，其餘則分布在骨骼、肝臟、皮膚和紅血球等(20)。細胞內
+外的鉀運送受多項因素的影響。血鉀、胰島素、腎上腺素與醛固酮等濃度升
+高，代謝性鹼中毒，活化 β-2 腎上腺素受體的藥物等，都會增加細胞獲鉀。反
+之，血鉀降低、代謝性酸中毒、細胞外液高滲透壓、腎上腺素受體拮抗藥物
+等，則會促進細胞釋出鉀(19)。 
+ 
+（三）排泄 
+腎臟是鉀排泄的主要途徑。飲食中的鉀（約 77-90％）主要通過尿液排泄，
+其餘主要通過糞便排泄，少量由汗液流失(12, 14, 21)。腎小管具有再吸收與分泌鉀
+的作用。大部分經腎絲球過濾的鉀在近曲小管和亨氏管中再吸收（70-80％），
+只有少量（10％）會到達遠曲小管。尿液中大部分的鉀是在遠曲小管分泌進入
+皮質集尿管，分泌作用受多種因素調控，包括醛固酮（aldosterone）(18)。血漿
+鉀濃度升高會刺激腎上腺皮質釋放醛固酮，進而增加皮質集尿管中鉀的分泌而
+進入尿液(13)。 
+飲食中鉀的攝取量與尿鉀含量之間的相關性很高 (12) 鉀攝取量高時可以有
+效排除 ， 但攝取量低時則不能有效增加鉀的保留(22)。尿鉀排泄反映飲食中鉀的攝
+取量(13)，攝取較高劑量的鉀會增加尿鉀排泄；對 6 名約 24 歲健康男性進行了正
+常（鉀攝取量 3.1 克/天）和高鉀飲食（鉀攝取量 11.7 克/天）研究，攝取高鉀飲
+食 18 天後，尿鉀排泄量從每天 2.0 克增加至 9.1 克(23)。 
+通常鈉的攝取量不會影響鉀的排泄(13, 24-28)， 但鈉的攝取量很高時 （6.9 克/天） ，
+尿鉀排泄量會超過飲食攝取量（負平衡）(29)。持續 28 天維持三個較低鈉攝取量
+（1.5、2.4、和 3.2 克/天） ，尿鉀排泄量均未超過飲食攝取量，且三種鈉攝取量的
+尿鉀排泄量皆相似(30)。 
+糞便部分，一項 28 名成年人（12 名男性和 16 名女性）的平衡研究發現，
+每天鉀攝取量約為 2.6-2.9 克，糞便中每日鉀的流失量為 0.11-0.85 克(12)。大腸會
+分泌鉀。當極度限制鉀攝取量（每天少於 39 毫克），經 2-7 天後，糞鉀量顯著減
+少到 0.06-0.3 克(31)；此量或許代表人體鉀的必需流失量，來自消化液（唾液、胃
+液，胰液和膽汁），消化道的細胞脫落和黏液。 
+許多飲食因素，包括膳食纖維和鈉，都會影響鉀的平衡(13, 32)。研究發現隨著
+纖維質攝取量的增加，糞便鉀的流失量增加；在6 名 21-25 歲的健康男性中評估
+增加小麥纖維攝取量對糞便鉀流失的影響 ， 先前的纖維質平均攝取量為17 克/天，
+鉀的攝取量維持在 3.1 克/天 ； 隨著攝取的纖維質增加到每天攝取45 克小麥纖維 ，
+並維持 3 週 ， 糞便重量從大約79 克/天顯著增加至約 228 克/天 ， 糞便中的鉀流失
+=== p.4 ===
+ 
+4 
+ 
+量也從研究前的 0.3 克/天顯著增加到 1.1 克/天(33)。 
+汗液中鉀的濃度相對較低，約為 0.12-0.28 克/公升(9)。溫度適中下進行適度
+體力活動，流汗量約為每天 0.5 公升時，經由汗液流失的鉀約為 0.08-0.14 克/天
+(9)。雖然極度高溫暴露和劇烈身體活動會增加汗液中鉀的流失(11, 13)，但汗鉀的濃
+度相當穩定，不易受流汗速率、環境適應程度、鈉攝取量或鉀攝取量極度限制之
+影響(34)。 
+ 
+需要量評估與營養缺乏症 
+一、鉀平衡（potassium balance） 
+代謝平衡實驗被應用於訂定蛋白質和多種巨量與微量礦物質營養素的平均
+需要量。營養平衡的基本原理是：健康者的營養素攝取量與身體流失量必須相
+當，才不至造成負平衡，導致攝取不敷身體之需而危害健康。理論上，個人的
+生理需求等於營養平衡時的攝取量。平衡實驗的精確程度取決於攝取量和排泄
+量的精確測量，包括平衡實驗的天數，攝取量的完整紀錄和估算，以及糞便、
+尿液、皮膚和汗液等排泄管道的完整收集與分析。 
+針對鉀的平衡研究數量很少，歐美國家有數項科學證據度較高的成人和兒童
+的鈉平衡研究。只有一項美國的少女研究有嚴謹完整的攝取和排泄量 (35)；四項
+美國研究的排泄量不盡完整(12, 31, 36, 37) ，攝取量與排泄量都不完整的研究有 美國
+一項(38)、英國一項(39)和荷蘭一項(23)。另有一項排泄量不完整的日本研究 (40)。 
+美國少女的研究結果，鉀攝取量平均 2,186 毫克/天都可達到微量的正平衡
+(35)。美國成人研究中鉀攝取量每天 3.3 克和 2.4 克(12)、2.5 克(37)、3.12 克(36)或 3.9
+克(38)，荷蘭研究 3120 和 8580 毫克(23)，英國研究 4743 毫克(39)，都可以達到正平
+衡。日本研究每天攝取 2034 毫克時可達到平衡(40)。在極度限制鉀攝取量的實驗
+中，每天鉀攝取量<39 毫克、546-624 毫克與 975-1053 毫克時，都是負平衡(31)。
+整體而言，鉀攝取量每天約 2000 毫克可以維持人體的鉀平衡，少於 1000 毫克
+則為負平衡。 
+研究發現，每天攝取 1.6 克鉀且維持鉀平衡的非高血壓者，血清鉀濃度處於
+臨床正常範圍之下限(41)。1993 年歐洲食品科學委員會（Scientific Committee for 
+Food, SCF）建議成人每日最少需攝取 1.6 克（40 毫莫耳）鉀，以避免低血漿鉀
+濃度和身體鉀的流失(42)。 
+ 
+ 
+=== p.5 ===
+ 
+5 
+ 
+二、生化/功能性指標 
+（一） 血清鉀濃度 
+血清鉀濃度以及體內鉀含量取決於鉀的攝取量和排泄量 ， 因為胃腸道會吸收
+飲食中 85％的鉀，而大部分吸收的鉀由腎臟排泄(13, 43-45)。若飲食減少鉀攝取且
+無法有效地保存 ， 可能因此降低血清鉀濃度(43)。 然正常腎功能者的腎臟在攝取過
+多鉀導致血清鉀濃度略微增加時 ， 會有效地排泄鉀 ， 可防止因飲食鉀攝取增加所
+導致的高鉀血症（hyperkalemia）(31)，大幅增加鉀的攝取，血漿濃度仍保持正常
+或幾乎沒有變化(46-49)。因此，血清鉀不是鉀攝取量的敏感指標(13)。 
+（二） 低鉀血症（hypokalemia） 
+低鉀血症的定義是血清鉀濃度低於 3.5 毫莫耳/公升 ， 可能導致心律不整、肌
+肉無力、 高血鈣症 、 和葡萄糖耐受不良等。但中度缺鉀並不見得會發生低鉀血症 ，
+造成低鉀血症的原因為利尿劑、代謝性鹼中毒、或醛固酮生成增加等，可經由給
+予鉀進行治療，因此低鉀血症不適合作為飲食鉀缺乏之指標(13)。 
+（三）尿鉀 
+根據代謝平衡實驗，尿鉀量大約佔攝取量的 77-92％，研究上會利用 24 小
+時尿鉀量乘以一項因數來估計一日的鉀攝取量，此因數值或用 1.3(9, 50)，或用
+1.25(51)。在族群層次，24 小時尿鉀量是成人鉀攝取量的可信指標(9)。 
+單次尿鉀可以藉由公式計算而用於估計 24 小時尿鉀量，因收尿時間而公式
+不同。空腹晨尿可用 Kawasaki 公式(52)，隨機單次可用 Tanaka 公式(53)。雖然單
+次尿液在人群研究中有其價值，不過對尿鉀排泄量會有高估或低估的不準確性
+(9)。 
+ 
+三、影響鉀需要量的因素 
+(一) 鉀的型式 
+鉀攝取 對健康 的影響 不單是由於鉀本身，也可能是其伴隨的 共軛 陰離子
+（conjugate anion），或兩者一起。水果和蔬菜等富含鉀的未加工食物，鉀伴隨的
+陰離子通常為檸檬酸鹽，其在體內轉化為碳酸氫鹽，可作為酸鹼緩衝劑，中和飲
+食衍生的酸（例如肉類和其它高蛋白食品中的含硫胺基酸所產生之硫酸）。當體
+內碳酸氫鉀不足時 ，則使用骨骼中鹼性鈣鹽來緩衝飲食中過量的酸， 進而導致尿
+中鈣增加和檸檬酸減少，增加骨骼礦物質流失和腎結石風險(11, 54-56)。 
+鉀也以氯化鉀（KCl）型式被攝取。氯化鉀通常作為食品添加劑成分、食鹽
+替代品、或補充劑。氯化鉀可以治療低鉀血症並降低血壓，但無法作為酸鹼緩衝
+劑來中和飲食衍生的酸(13)。 
+在健康的成年人中，碳酸氫鉀 （KHCO3）會增加檸檬酸的排泄而減少鈣的排
+=== p.6 ===
+ 
+6 
+ 
+泄，但氯化鉀卻不會，顯示碳酸氫鉀或檸檬酸鉀是最有利於降低腎結石風險的型
+式(47, 57)。因為飲食衍生的酸會導致骨骼礦物質流失(58, 59)， 因此氯化鉀也無法如碳
+酸氫鉀一樣可促進骨骼健康(47, 60)。 
+(二) 與其它營養素的交互作用 
+飲食中鉀的影響部分取決於氯化鈉攝取量。鉀可減緩氯化鈉對血壓的影
+響，碳酸氫鉀或其它產生碳酸氫鉀的鉀鹽攝取量增加，會降低鹽敏感性（salt 
+sensitivity），並降低尿鈣排泄量，這個效應在攝取較多的氯化鈉時更為顯著
+(61)。研究顯示血壓與鈉/鉀比值的相關性比單獨鈉或鉀量的相關性為更高(62)。研
+究亦發現，雖然腎結石與尿鉀排泄的關係微弱且不顯著，但腎結石與尿液鈉/鉀
+比值的關係是直接且非常顯著(63)。 
+考慮到鈉和鉀之間相互關聯，鉀的需求量可能完全取決於飲食中鈉的含
+量，而飲食中鉀的攝取量越高，鈉的有害作用就越弱(13)。但是，目前數據仍不
+足，尚無法根據鈉的攝取量訂定鉀的建議攝取量或以鈉/鉀比值設定建議量。 
+(三) 特殊族群 
+1. 過多汗液流失 
+暴露在高溫下或從事高強度身體活動（尤其是在高溫下）的人，由
+於汗液流失的鉀比平常高，達每天390到2300毫克，可能需要比AI高的鉀
+攝取量(36, 37, 64, 65)。成年人在一般環境溫度和中等強度身體活動時，汗液
+中鉀濃度為100–300 毫克/公升，估計總流失約為每天78–137毫克(9, 13)。
+高溫下汗液鉀的濃度可以增加到500毫克/公升(66)，熱適應個體鉀的濃度
+升高較少，約為200毫克/公升，然而他們出汗量增加20倍（約8公升/
+天） ，汗液總鉀流失仍然很大，約為每天2300毫克(64)。 
+2. 服用影響鉀保留或排泄的藥物 
+對於服用影響鉀保留或排泄藥物的人，需根據個人情況聽從醫事人
+員建議攝取鉀。ACE-Is與ARBs（治療高血壓或心衰竭的藥物）有保鉀作
+用，服用者若攝取富含鉀的飲食，其發生高鉀血症的風險可能提高(67)。
+其它影響鉀恆定的藥物，例如保鉀利尿劑（potassium-sparing diuretics），
+也需要注意。相反，許多非保鉀利尿劑會增加尿鉀流失並降低血鉀濃
+度，服用者則需要增加鉀的攝取(11)。 
+3. 糖尿病、慢性腎臟疾病、腎上腺功能不全等疾病 
+糖尿病、慢性腎臟疾病、腎上腺功能不全等疾病患者的鉀攝取量需
+要依個人腎功能、合併症、藥物使用、和血鉀濃度情況諮詢醫事人員的
+建議(11)。 
+=== p.7 ===
+ 
+7 
+ 
+參考攝取量 
+目前仍缺乏足夠的證據來確定鉀的 EAR 與 RDA，原因如下(11)： 
+1. 目前還沒找到靈敏且可反映健康人體內鉀營養狀況的生物指標。 
+2. 平衡研究存在許多局限性，如：研究數量和每項研究的受試者人數少、
+攝取量和流失量測量不完全等。且多數的代謝平衡研究都以歐美白人為
+對象，國人的實證數據十分欠缺，存有高度的不確定性，無法估計健康
+國人鉀需要量的分佈。 
+為求得國人鉀的 AI，使用 2013-2016 年臺灣國民營養健康狀況變遷調查 24
+小時飲食回憶資料分析，各年齡層依下列定義排除「疾病者」 ，計算出各性別年
+齡層「健康者」平均膳食鉀攝取量及分布（詳見附錄） ，再以鉀攝取量中位數作
+為鉀 AI 值訂定參考（圖一、圖二）。這些「健康者」的日常鉀攝取量不會受到疾
+病、藥物使用、或營養治療的影響。 
+各年齡層「疾病者」定義如下，其中高血壓定義同 2013-2016 年臺灣國民營
+養健康狀況變遷調查成果報告(3)，但 16-18 歲採與 19 歲以上相同之血壓數值）： 
+1. 2個月-6歲：診斷先天性心臟病。 
+2. 7-9歲：收縮壓≧122毫米汞柱，或舒張壓≧78毫米汞柱，或確診先天性心
+臟病/心律不整，或服用心臟病藥物。 
+3. 10-12歲：收縮壓≧126毫米汞柱，或舒張壓≧82毫米汞柱，或確診先天性
+心臟病/心律不整，或服用心臟病藥物。 
+4. 13-15歲：收縮壓≧136毫米汞柱，或舒張壓≧86毫米汞柱，或確診先天性
+心臟病/心律不整，或服用心臟藥物。 
+5. 16-18歲：收縮壓≧140毫米汞柱，或舒張壓≧90毫米汞柱，或確診先天性
+心臟病/心律不整，或服用心臟藥物。 
+6. 19歲以上：收縮壓≧140毫米汞柱，或舒張壓≧90毫米汞柱，或確診高血
+壓，或服用高血壓藥物，或確斷中風，或確診心臟病，或服用心臟藥。 
+  
+=== p.8 ===
+ 
+8 
+ 
+ 
+圖一、2013-2016 年 18 歲以下各性別年齡層「健康者」之鉀攝取量中位數 
+*資料來源：2013-2016 年國民營養健康狀況變遷調查，排除「疾病者」後，以 24 小時飲食回
+憶法評估「健康者」每人每日鉀攝取量，分析結果經加權調整（詳見附錄）。 
+ 
+ 
+圖二、2013-2016 年 19 歲以上各性別年齡層「健康者」之鉀攝取量中位數 
+*資料來源：2013-2016 年國民營養健康狀況變遷調查，排除「疾病者」後，以 24 小時飲食回
+憶法評估「健康者」每人每日鉀攝取量，分析結果經加權調整（詳見附錄）。 
+ 
+  
+2-12月 1-3歲 4-6歲 7-9歲 10-12歲 13-15歲 16-18歲
+男(毫克/天) 943 1494 1732 1699 1973 2109 2270
+女(毫克/天) 791 1297 1428 1658 1749 1618 1677
+全(毫克/天) 925 1394 1586 1685 1871 1859 1937
+0
+500
+1000
+1500
+2000
+2500
+鉀攝取量中位數（毫克/天）
+2425
+2590
+2767
+2577
+2016
+2195
+2538
+2009
+0
+500
+1000
+1500
+2000
+2500
+3000鉀攝取量中位數（毫克/天）
+鉀 AI 值 
+男 2800 
+女 2500 
+=== p.9 ===
+ 
+9 
+ 
+一、0-6 個月嬰兒 
+0-6 個月嬰兒鉀 AI 主要是根據母乳的平均鉀含量及平均攝食量所設定。
+2005-2007 年國內研究指出，嬰兒第 2 至 6 個月平均母乳攝取量分別為 580、
+620、670、720 及 760 公克(68)，國人每 100 公克母乳中約含 39 毫克鉀(69)，故鉀
+攝取量分別為 226、242、261、281 及 296 毫克。但若以美國農業部食品成分資
+料庫每 100 公克母乳中含 51 毫克鉀(70)計算，臺灣嬰兒第 2 至 6 個月鉀攝取量
+分別為 296、316、342、367 及 388 毫克。比較美國 2019 年鈉與鉀 DRIs 報告
+書中每 100 公克母乳含鉀 51.5 毫克(11)，日本母乳含鉀 47 毫克(10)，中國母乳含
+鉀 44.3 毫克(6)，臺灣母乳含鉀僅 39 毫克數值偏低（可能因樣本數偏低，且採母
+奶庫之奶），故採用美國農業部食品成分資料庫母乳濃度計算，取最大值（388
+毫克）四捨五入之整數，建議國內 0-6 個月嬰兒鉀 AI 設定為 400 毫克。此數值
+與日本、韓國、美國、紐澳等國鉀 AI 相同（表一）。 
+ 
+二、7-12 個月嬰兒 
+WHO 未對 7-12 個月嬰兒鉀攝取提出建議(1)，故此次參考美國與日本以營
+養調查所得之母乳和副食品的估計攝取量訂定 7-12 個月嬰兒 AI (10, 11)。由 2013-
+2016 年臺灣國民營養健康狀況變遷調查得知 2 個月-不滿 1 歲嬰兒「健康者」每
+日平均鉀攝取量為 1008 毫克（男嬰 983 毫克，有效樣本數 56 人；女嬰 1039 毫
+克，有效樣本數 62 人），中位數為 925 毫克（男嬰 943 毫克、女嬰 791 毫克）
+（圖一）。取中位數四捨五入之整數，建議國內 7-12 個月嬰兒鉀 AI 設定為
+900 毫克（表一）。 
+ 
+三、19-70 歲成人 
+WHO 建議成人的鉀攝取量至少為 90 毫莫耳/天（3510 毫克/天）(1)。2013-
+2016 年國民營養健康狀況變遷調查顯示 19-30 歲、31-50 歲、51-70 歲男性「健
+康者」每日鉀攝取量中位數分別為 2425 毫克、2590 毫克、2767 毫克（圖
+二）。血壓隨年紀增加，年輕時沒有高血壓不代表進入中老年時不會高血壓，
+由於鉀的保護效應要在中老年以上才能顯現，因此，建議以 50-70 歲無高血壓
+等疾病者之中位數為鉀 AI，以中位數四捨五入取整數為 2800 毫克（表一）。
+19-30 歲、31-50 歲、51-70 歲女性「健康者」每日鉀攝取量中位數分別為 2016
+毫克、2195 毫克、2538 毫克（圖二），同樣以 19-70 歲無高血壓等疾病成年女
+=== p.10 ===
+ 
+10 
+ 
+性鉀中位數最大值四捨五入取整數，建議 AI 為 2500 毫克（表一）。 
+ 
+四、71 歲以上老人 
+各國老年人鉀 AI 大都與成年人相同（表一）。雖然老年人比成年人消耗較
+少的熱量，但隨著年齡增長，血壓升高的風險增加，鉀的需求可能更大(13)，因
+此將 AI 設定為與成年人相同（男 2800 毫克、女 2500 毫克）。 
+由於高鉀血症可能對心臟造成嚴重的不利影響，因此 AI 不適用於患有會損
+害鉀排泄之疾病或藥物的個人，尤其老年人更需注意(13)，鉀 AI 僅適用於健康
+人。 
+ 
+五、懷孕期和哺乳期 
+研究指出懷孕期間需要鉀來建構胎兒組織，估計孕期總需要量為 12.5 克
+(10)。如果孕期以 9 個月估計，則每日需要量為 46 毫克，並不需要攝取比未懷
+孕時更多的鉀，因為正常飲食可以充分補充該含量(6, 10)。懷孕期間體內鉀儲存
+狀況的研究很少，目前沒有證據顯示懷孕期鉀有不同的需求(9, 11)，大部分國家
+懷孕期鉀 AI 並未建議增加（表一），只有美國參考營養調查懷孕期每日鉀攝取
+量中位數建議依懷孕年齡層再增加 300 毫克來訂定鉀 AI (11)。臺灣目前仍缺乏
+孕婦鉀的攝取量資料，19-50 歲育齡期未懷孕的鉀 AI 皆為 2500 毫克，因此建
+議將懷孕期鉀 AI 同樣訂定為 2500 毫克。 
+關於哺乳期間體內鉀含量變化的研究很少(11)。一項測量全身鉀含量的研究
+發現，與非哺乳期相比，哺乳期體內鉀含量的損失明顯更大(71)，這表示哺乳期
+體內鉀含量可能下降。各國哺乳期鉀 AI 較同年齡層增加數值不一（表一），考
+量每天因分泌母乳之鉀流失量，歐盟增加 500 毫克(32)，中國、韓國與紐澳增加
+400 毫克(6, 72, 73)；日本與美國則依營養調查哺乳期每日鉀攝取量中位數訂定建議
+量，增加 200 毫克(10, 11)；英國未增加(74)。臺灣目前並無哺乳婦鉀的攝取量資
+料，考慮哺乳期提供哺餵嬰兒之所需，並參考 0-6 個月嬰兒鉀 AI 為 400 毫克，
+故建議增加鉀 400 毫克，將臺灣哺乳期鉀 AI 訂定為 2900 毫克。 
+ 
+六、1-18 歲兒童和青少年 
+高血壓主要好發於中年後，但近年調查顯示年輕族群蔬果攝取少、鈉攝取
+高(3)，可能影響未來慢性病之發生，WHO 建議增加兒童飲食中鉀的攝取量以控
+=== p.11 ===
+ 
+11 
+ 
+制兒童血壓(1)。2013-2016 年國民營養健康狀況變遷調查顯示 1-3 歲、4-6 歲、
+7-9 歲、10-12 歲、13-15 歲、16-18 歲「健康者」每日鉀攝取量中位數分別為
+1394 毫克、1586 毫克、1685 毫克、1871 毫克、1859 毫克、1937 毫克（圖
+一）。考量臺灣兒童和青少年蔬果攝取較少，可能導致調查的鉀攝取量中位數
+偏低，故兒童與青少年鉀 AI 訂定參考 WHO 方法(1)，依照熱量需要量由臺灣成
+人鉀 AI 值推算。使用膳食營養素參考攝取量中的熱量需要量進行計算。考量兒
+童與青少年活動量較大很少久坐，且 2013-2016 年臺灣國民營養健康狀況變遷
+調查顯示各性別年齡層平均熱量攝取較為接近膳食營養素參考攝取量稍低生活
+活動強度建議熱量(3)，因此此次以膳食營養素參考攝取量稍低生活活動強度建
+議熱量為推算標準。男女成人鉀 AI 建議量分別為 2800 毫克與 2500 毫克，取平
+均值 2650 毫克，而膳食營養素參考攝取量(Dietary Reference Intakes, DRIs)19-70
+歲所有生活活動強度建議熱量平均值約為 2000 大卡，依此比例以膳食營養素參
+考攝取量稍低生活活動強度建議熱量推算 1-18 歲兒童與青少年鉀 AI（表
+二）。1-3 歲鉀 AI 建議為 1500 毫克；4-6 歲男童鉀 AI 建議為 2100 毫克，女童
+為 1900 毫克；7-9 歲男童鉀 AI 建議為 2400 毫克，女童為 2200 毫克；10-12 歲
+男童鉀 AI 建議為 2700 毫克，女童為 2500 毫克。13-18 歲青少年膳食營養素參
+考攝取量建議熱量已接近或大於成人，故比照成人鉀 AI 建議：男性 2800 毫
+克、女性 2500 毫克。 
+ 
+ 
+=== p.12 ===
+ 
+12 
+ 
+表一、各國鉀之足夠攝取量(AI)（毫克/天） 
+年齡 
+臺灣 
+2020 
+WHO 
+2012 
+(1) 
+中國 
+2018 
+(75) 
+日本 
+2020 
+(10) 
+韓國 
+2015 
+(72) 
+美國 
+2019 
+(11) 
+歐盟 
+2017 
+(32) 
+英國 
+2019 
+(74) 
+紐澳 
+2017 
+(73) 
+AI 
+男      女  AI 
+ 
+AI 
+男       女 
+AI 
+ 
+AI 
+男       女 
+AI 
+ 
+RNI 
+ 
+AI 
+男       女 
+0-6 月 400   350  400  400  400   800  400 
+7-12 月 900   550  700  700  860  750  700  700 
+1-3 歲 1500   900  900 2000 2000  800  800 2000 
+4-6 歲 2100 1900 
+依熱量 
+需求 
+推算 
+1200 1000 2300 2300 1100 1100 2300 7-9 歲 2400 2200 1500 1500 2600 2300 1800 2000 
+10-12 歲 2700 
+2500 
+1900 1800 3000 2500 2300 2700 3100 3000 2500 
+13-15 歲 
+2800 
+2200 2300 1900 
+3500 
+3000 2300 3600 2600 16-18 歲 
+3510 
+2200 2700 
+2000 
+3000 2300 
+3500 3500 
+19-30 歲 
+2000 2500 3400 2600 3800 2800 
+31-50 歲 
+51-70 歲 
+71 歲- 
+懷孕期    +300  
+哺乳期  2900 2400  2200 +400  +200 4000  3200 
+*因各國年齡層分法不同，各年齡層各國建議量取最接近該年齡層之數值。  
+AI: Adequate Intake。 
+RNI: Reference Nutrient Intakes。 
+ 
+=== p.13 ===
+ 
+13 
+ 
+表二、兒童和青少年鉀足夠攝取量(AI)推算 
+年齡 
+男 女 
+DRIs 
+建議 
+熱量 
+（大卡/
+天） 
+鉀 AI 
+推算 
+（毫克/
+天） 
+鉀 AI 
+建議量 
+（毫克/
+天） 
+DRIs 
+建議 
+熱量 
+（大卡/
+天） 
+鉀 AI 
+推算 
+（毫克/
+天） 
+鉀 AI 
+建議量 
+（毫克/
+天） 
+1-3 歲 1150 1524 1500 1150 1524 1500 
+4-6 歲 1550 2054 2100 1400 1855 1900 
+7-9 歲 1800 2385 2400 1650 2186 2200 
+10-12 歲 2050 2716 2700 1950 2584 2500 
+13-15 歲 2400 3180 2800 2050 2716 2500 
+16-18 歲 2500 3313 2800 1900 2518 2500 
+*男女成人鉀AI建議量平均為2650毫克，DRIs19-70歲所有生活活動強度建議熱量平均值約為
+2000大卡，依此比例以DRIs稍低生活活動強度建議熱量推算兒童與青少年鉀AI。 
+ 
+  
+=== p.14 ===
+ 
+14 
+ 
+國人鉀營養狀態與慢性疾病風險相關性 
+一、主要食物來源 
+各類食物中，以蔬菜、水果及乳漿（乳品類與豆漿）等三類的鉀含量最為
+豐富。蔬菜類食品中，多數蔬菜每 100 克含有 150 毫克以上的鉀量，紅莧菜、
+韭菜、茼蒿、空心菜、菠菜、川七、莧菜、茄茉菜、牛蒡、綠竹筍、金針菇等
+更高達 350 毫克以上(76)。水果類中，新鮮水果的鉀含量較水果製品或蜜餞類者
+為豐富，一份榴槤、白文旦、釋迦、哈密瓜、泰國芭樂等含鉀超過 350 毫克。
+一杯 240 毫升鮮乳與鹹豆漿亦含 350 毫克以上的鉀(76)。另含鉀減鈉鹽是將部份
+的氯化鈉以氯化鉀取代，1 克含鉀減鈉鹽約含 260 毫克的鉀(77)，不同產品置換
+比例不盡相同，鉀含量亦有差異。 
+2013-2016 年國民營養健康狀況變遷調查 19-64 歲成人與 65 歲以上老人鉀
+之食物細項來源分別詳列於表三與表四，鉀最主要的食物來源為深色蔬菜類，
+提供成人鉀 381 毫克（占 15％） ，老人461 毫克（占 18％） ；其次為新鮮水果
+類，提供成人鉀 260 毫克（占 10％） ，老人288 毫克（占 12％） ；第三為豬肉類
+及其製品，提供成人鉀 247 毫克（占 10％） ，老人171 毫克（占 7％） 。黃豆類
+及其製品、淺色蔬菜類、米類及其製品、乳品類亦是鉀的重要食物來源。 
+比較 2005-2008 年與 2013-2016 年國民營養健康狀況變遷調查資料，19-64
+歲成人前三項食物來源順序皆相同，依序為：深色蔬菜類、新鮮水果類、豬肉
+類及其製品，累積提供 35％的鉀。但 2013-2016 年由深色蔬菜類、新鮮水果
+類、與淺色蔬菜類的鉀攝取量減少，豬肉類及其製品的鉀攝取量則略微增加，
+米類及其製品提升至第六名。 
+2005-2008 年與 2013-2016 年 65 歲以上老人鉀之食物細項來源排序變化較
+大，但第一名與第二名食物來源維持一樣，為深色蔬菜類與新鮮水果類。乳品
+類由 2005-2008 年第三名降至 2013-2016 年第六名，及供應之鉀量由 212 毫克
+（占 9％）減少至 130 毫克（占 6％）。與成人趨勢類似，由深色蔬菜類與淺色
+蔬菜類的鉀攝取量減少，豬肉類及其製品的鉀攝取量則略微增加，但老人新鮮
+水果類的鉀攝取量差異不大。 
+食物製備與烹調會影響鉀含量，因鉀離子可溶於水中，故清洗及水煮食材
+時皆可能造成鉀的流失。研究發現水煮豆類中的鉀含量會降至未經烹煮豆類的
+50％以下(78)；白米經水洗滌與蒸煮後，鉀含量平均只剩約 50％(79)；蔬菜加熱處
+理 1、3 分鐘鉀流失率分別為葉菜類 10-20％、30-50％，瓜果類 1-10％、10-20
+％，根莖類 5-10％、10-20％，菇蕈類則為 20-30％、30-40％(80)。  
+=== p.15 ===
+ 
+15 
+ 
+表三、19-64 歲成人鉀之食物細項來源變遷狀況 
+2005-2008 2013-2016 
+排
+序 食物細項 攝取量
+（毫克） 
+累積 
+百分比 
+（％） 
+排
+序 
+食物細項 攝取量
+（毫克） 
+累積 
+百分比 
+（％） 
+1 深色蔬菜類 445 16 1 深色蔬菜類 381 15 
+2 新鮮水果類 302 27 2 新鮮水果類 260 25 
+3 豬肉類及其製品 232 35 3 豬肉類及其製品 247 35 
+4 淺色蔬菜類 151 41 4 黃豆類及其製品 138 40 
+5 黃豆類及其製品 131 46 5 淺色蔬菜類 128 45 
+6 乳品類 121 50 6 米類及其製品 118 50 
+7 冰、飲料類 120 54 7 乳品類 117 54 
+8 鹹水魚類（新鮮） 93 58 8 冰、飲料類 110 58 
+9 其他調味料類 85 61 9 澱粉根莖類及其製品 90 62 
+    10 雞類及其製品 85 65 
+    11 麥類及麵粉類製品 68 68 
+    12 鹹水魚類（新鮮） 67 71 
+    13 瓜類 60 73 
+    14 包子、餃類 53 75 
+    15 蛋類及其製品 48 77 
+    16 糕點、餅乾類 45 79 
+    17 醬油類 45 80 
+    18 牛肉類及其製品 44 82 
+    19 其他調味料類 39 84 
+    20 調味蔬菜類 37 85 
+*資料來源：2005-2008 與 2013-2016 年國民營養健康狀況變遷調查(2)。 
+ 
+  
+=== p.16 ===
+ 
+16 
+ 
+表四、65 歲以上老人鉀之食物細項來源變遷狀況 
+2005-2008 2013-2016 
+排
+序 食物細項 攝取量
+（毫克） 
+累積 
+百分比 
+（％） 
+排
+序 
+食物細項 攝取量
+（毫克） 
+累積 
+百分比 
+（％） 
+1 深色蔬菜類 609 24 1 深色蔬菜類 461 18 
+2 新鮮水果類 281 35 2 新鮮水果類 288 30 
+3 乳品類 212 44 3 豬肉類及其製品 171 37 
+4 淺色蔬菜類 159 50 4 米類及其製品 148 43 
+5 豬肉類及其製品 154 56 5 淺色蔬菜類 144 48 
+6 澱粉根莖類及其製品 99 60 6 乳品類 130 54 
+7 黃豆類及其製品 97 64 7 麥類及麵粉類製品 118 58 
+8 鹹水魚類（新鮮） 94 68 8 黃豆類及其製品 118 63 
+9 米類及其製品 92 71 9 澱粉根莖類及其製品 115 68 
+    10 鹹水魚類（新鮮） 98 72 
+    11 瓜類 88 75 
+    12 冰、飲料類 59 77 
+    13 淡水魚類（新鮮） 52 79 
+    14 堅果類及其製品 39 81 
+    15 調味蔬菜類 35 82 
+    16 醬油類 34 84 
+    17 筍類 31 85 
+    18 雞類及其製品 29 86 
+    19 蛋類及其製品 27 87 
+    20 醃漬蔬菜類 27 88 
+*資料來源：2005-2008 與 2013-2016 年國民營養健康狀況變遷調查(2)。 
+ 
+  
+=== p.17 ===
+ 
+17 
+ 
+二、攝取量 
+2013-2016 年國人各性別年齡層之鉀平均攝取量詳見圖三(3)。除了 1 歲以下
+嬰兒，男性鉀攝取量都較同年齡層女性高，且隨著年齡較大，鉀攝取量較高，
+31-50 歲最高，2815 毫克，51 歲以後則略為低些。女性鉀攝取量亦隨著年齡較
+大而較高，青少年時期最低，51-70 歲最高，2626 毫克，71 歲以後則低下至
+2273 毫克。鈉/鉀莫耳比值約等於１被認為對健康有益(1, 81)，19-64 歲國人鉀之
+平均攝取量為 2573 毫克，但鈉/鉀莫耳比值為 2.57 (82)，顯示台灣地區成人鈉鉀
+攝取不利健康(表五)。 
+1988 年 INTERSALT (International Study of Sodium, Potassium, and Blood 
+Pressure)研究比較 32 個國家的 52 個人群樣本（包含臺灣）24 小時尿鉀排泄的
+標準化數據，共 10,079 名 20-59 歲成人，結果發現臺灣民眾是鉀攝取最低的地
+區之一(4)。檢視 2000 年後歷次國民營養健康狀況變遷調查國人鉀攝取量變遷狀
+況（圖四），結果顯示成人與兒童鉀攝取量呈現下降趨勢，但老人為上升趨
+勢。2005-2008 年成人鉀平均攝取量略高於鉀 AI，但 2014-2017 年男性成人鉀
+攝取平均降至接近鉀 AI，女性成人更低於鉀 AI。老人部分則相反，1999-2000
+年老人鉀攝取平均低於鉀 AI，但 2005-2008 與 2014-2017 年男性老人鉀攝取平
+均已增加到接近鉀 AI。 
+ 
+三、生化營養狀態 
+2013-2016年臺灣國民營養健康狀況變遷調查各性別年齡層血鉀與尿鉀狀況
+詳見表六(3)。國人血中鉀濃度受身體恆定機制之調控，基本上處穩定狀態，7-
+12歲、13-15歲、16-18歲及19歲以上的平均值分別為4.23毫莫耳/公升、4.27毫莫
+耳/公升、4.19毫莫耳/公升及4.14毫莫耳/公升。國人尿鉀濃度(毫克/分升)需以尿
+液肌酸酐進行尿液濃度校正，然各年齡性別層的變化可能部份和肌肉量差異所
+導致的尿液肌酸酐不同有關，以下僅供參考。7-18歲族群隨著年齡增長呈現減
+少趨勢，反之，19歲以上族群則隨著年齡增長呈現增加的趨勢。7-18歲兩性間
+尿鉀差異不大，男性為0.70-1.18，女性為0.86-1.26；但19歲以上則女性之尿鉀
+高於男性（此亦可能因女性肌酸酐較低），女性尿鉀平均值為1.30，男性為
+0.97。 
+ 
+  
+=== p.18 ===
+ 
+18 
+ 
+ 
+ 
+圖三、2013-2016 年各性別年齡層之鉀平均攝取量 
+*資料來源：2013-2016 年國民營養健康狀況變遷調查。以 24 小時飲食回憶法評估平均每人每
+日鉀攝取量，分析結果經加權調整。 
+ 
+ 
+圖四、國人各性別年齡層之鉀攝取量變遷狀況 
+*資料來源：1993-1996、1999-2000、2001-2002、2005-2008、2014-2017 年國民營養健康狀況變
+遷調查，以 24 小時飲食回憶法評估平均每人每日鉀攝取量(2, 83-85)。 
+ 
+  
+983
+1578
+1862 1962
+2135 2209 2323
+2616
+2815 2783 2726
+1039
+1407
+1553
+1841 1908
+1776 1783
+2059
+2404
+2626
+2273
+0
+500
+1000
+1500
+2000
+2500
+3000
+2-12月 1-3歲 4-6歲 7-9歲 10-12歲 13-15歲 16-18歲 19-30歲 31-50歲 51-70歲 71歲-
+平均鉀攝取量（毫克/天）
+男 女
+2431
+2092
+2951 2789
+2500
+2798 2761
+2263
+1898
+2584
+2374
+2168 2257 2414
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500平均鉀攝取量（毫克/天）
+男
+女
+=== p.19 ===
+ 
+19 
+ 
+表五、2013-2016 年國民營養健康變遷狀況調查之各性別年齡層之鉀攝取量 
+ 
+*資料來源：2013-2016 年國民營養健康狀況變遷調查。數值均以平均值呈現，分析結果經
+SUDAAN 加權調整。 
+ 
+ 
+ 
+ 
+  
+性別 年齡層 人數 
+鉀           
+(毫克/天) 
+鈉密度(毫克
+/1000 大卡) 
+鉀密度(毫克
+/1000 大卡) 
+鈉鉀比 
+(重量比) 
+鈉鉀比   
+(莫耳比) 
+男性 
+2 個月-6 歲 794 1657  1291 1265  1.14 1.94 
+7-12 歲 916 2054  1699 1108  1.65 2.79 
+13-15 歲 459 2209  1671 1033  1.81 3.06 
+16-18 歲 410 2323  1686 1036  1.80 3.06 
+19-50 歲 1204 2724  1788 1158  1.70 2.88 
+51-64 歲 704 2792  1654 1327  1.38 2.35 
+65 歲以上 958 2701  1734 1391  1.42 2.40 
+19 歲以上 2866 2737  1748 1232  1.58 2.68 
+女性 
+2 個月-6 歲 797 1446  1324 1277  1.16 1.96 
+7-12 歲 918 1877  1805 1150  1.70 2.89 
+13-15 歲 462 1776  1840 1070  1.88 3.19 
+16-18 歲 385 1783  1869 1111  1.90 3.22 
+19-50 歲 1212 2277  1910 1373  1.58 2.68 
+51-64 歲 706 2651  1763 1626  1.23 2.09 
+65 歲以上 960 2334  1833 1592  1.28 2.18 
+19 歲以上 2878 2379  1861 1470  1.45 2.46 
+全體 
+2 個月-6 歲 1591 1556  1307 1271  1.15 1.95 
+7-12 歲 1834 1970  1749 1128  1.67 2.84 
+13-15 歲 921 2000  1753 1051  1.84 3.13 
+16-18 歲 795 2061  1775 1073  1.85 3.13 
+19-50 歲 2416 2501  1849 1265  1.64 2.78 
+51-64 歲 1410 2720  1711 1481  1.31 2.21 
+65 歲以上 1918 2506  1787 1498  1.35 2.28 
+19 歲以上 5744 2555  1806 1352  1.51 2.57 
+=== p.20 ===
+ 
+20 
+ 
+表六、2013-2016 年國人血鉀和尿鉀濃度 
+性別 年齡層 
+血鉀（毫莫耳/公升） 尿鉀/尿肌酸酐 
+人數 平均值 標準誤 人數 平均值 標準誤 
+男性 
+ 7-12 歲  375 4.26 0.02  497 1.18 0.04 
+13-15 歲  207 4.33 0.05  208 0.81 0.04 
+16-18 歲  166 4.20 0.03  172 0.70 0.02 
+19-44 歲  424 4.15 0.02  428 0.83 0.02 
+45-64 歲  542 4.16 0.02  544 1.01 0.03 
+65-74 歲  323 4.20 0.03  328 1.20 0.03 
+75 歲以上  220 4.17 0.04  232 1.53 0.19 
+19 歲以上 1509 4.16 0.01 1532 0.97 0.02 
+女性 
+ 7-12 歲 403 4.20 0.02 480 1.26 0.06 
+13-15 歲 190 4.20 0.04 172 0.91 0.05 
+16-18 歲 172 4.19 0.02 149 0.86 0.04 
+19-44 歲 495 4.14 0.02 451 1.03 0.03 
+45-64 歲 582 4.12 0.02 586 1.46 0.04 
+65-74 歲 321 4.13 0.03 331 1.58 0.04 
+75 歲以上 199 4.13 0.05 199 1.73 0.09 
+19 歲以上 1597 4.13 0.01 1567 1.30 0.03 
+全體 
+ 7-12 歲  778 4.23 0.02  977 1.22 0.04 
+13-15 歲  397 4.27 0.03  380 0.85 0.03 
+16-18 歲  338 4.19 0.02  321 0.77 0.02 
+19-44 歲  919 4.14 0.02  879 0.92 0.02 
+45-64 歲 1124 4.14 0.02 1130 1.24 0.03 
+65-74 歲  644 4.16 0.02  659 1.40 0.03 
+75 歲以上  419 4.15 0.03  431 1.63 0.10 
+19 歲以上 3106 4.14 0.01 3099 1.13 0.02 
+*資料來源：2013-2016 年國民營養健康狀況變遷調查(3)。分析結果經 SUDAAN 加權調整。 
+  
+=== p.21 ===
+ 
+21 
+ 
+四、慢性疾病風險降低攝取量 
+鉀攝取低與許多慢性疾病有關，包括心血管疾病、高血壓、骨密度低下、
+和慢性腎結石等。鉀攝取增加可能有助於減少心血管疾病的風險及降低血壓，
+且對骨密度產生有益影響，並減輕高鈉攝取的負面影響(1)。鉀攝取量與潛在慢
+性疾病指標之間關係如下： 
+ 
+(一) 總死亡率、心血管疾病、冠心病、心肌梗塞、中風 
+WHO強烈建議增加食物中鉀的攝取量，以降低成年人的心血管疾病、中
+風、和冠心病的風險(1)。鈉/鉀比值近於1（莫耳比值）不偏高，被認為對健康較
+有益(1, 81)。臺灣一項長期提供含鉀減鈉鹽試驗，以1981名居住於板橋榮民之家
+的老人為對象，提供含鉀減鈉鹽（由49％氯化鈉、49％氯化鉀、和2％其他添加
+劑組成）給2個宿舍廚房使用，另外3個宿舍廚房則繼續使用一般精鹽（由99.6
+％氯化鈉和0.4％其他添加劑組成），所有老人都吃一樣的菜，以此進行為期約
+31個月的長期臨床研究。追蹤後發現，使用含鉀減鈉鹽的老人，其心血管疾病
+死亡率顯著降低約40％，不但如此，這些老人的平均餘命約增加了0.3-0.9年，
+而且健保住院花費也明顯減少（約14913元/年）。這項研究顯示老人從普通鹽
+改為含鉀減鈉鹽，對心血管疾病死亡率和醫療費用具有長期有益的影響，此作
+用可能是由於鉀的大量增加和鈉攝取的適度減少所致(86, 87)。 
+後續的研究亦發現，即便血液中鉀離子濃度在正常範圍內的老人，若屬於
+正常偏低者（小於3.8毫莫耳/公升），其死亡率也較高(87-89)，顯示老人應注意在
+必要情況下補鉀。 
+臺灣另一項雙盲隨機對照試驗，291位中風出院患者，分為三組，分別提供
+一般食鹽、含鉀低鈉鹽、和含鉀含鎂低鈉鹽。介入6個月後，和一般食鹽組相
+比，含鉀含鎂低鈉鹽組可以顯著增加中風病人神經功能表現的勝算比（odds 
+ratio)，但是單獨使用鉀鹽的作用居中，但未達統計顯著。這項研究顯示，長期
+同時提供DRI量的鎂和鉀有助於中風患者從神經功能缺損中康復(89, 90)。 
+ 
+(二) 血壓 
+WHO指出增加鉀攝取量能夠降低血壓，當鉀攝取量增至每日90-120毫莫耳
+時，血壓降幅最大。兒童增加鉀攝取量後，收縮壓降低，但降幅很小，降低量
+微不足道(1)。 
+INTERSALT研究使用32個國家的52個人群樣本（包含臺灣）資料，對
+10,079位20-59歲成人進行24小時尿液電解質排泄與血壓關係分析，結果發現尿
+=== p.22 ===
+ 
+22 
+ 
+鉀排泄與血壓呈負相關(4)，且飲食中鈉/鉀比值較高的人群，其血壓隨著年紀而
+顯著上升的現象，而鈉/鉀比值低的人群就沒有血壓隨年齡上升的現象(87)。 
+前瞻性城鄉流行病學研究（Prospective Urban Rural Epidemiology study, 
+PURE）(91)，由2002年到2009年調查18個國家35-70歲成人，共102,216人（其中
+42％來自中國，但臺灣並未參與），以一個空腹的早晨尿液樣本估計24小時鈉
+和鉀的排泄量，並估算攝取量。結果顯示鉀排泄量與收縮壓之間存在顯著的負
+相關（P<0.001）。鉀排泄量每增加1克，收縮壓降低0.75毫米汞柱（P 
+<0.001），舒張壓降低0.06毫米汞柱（P=0.33）。與其他研究的地理區域相比，
+中國的鉀排泄與血壓之間存在更強的反比關係。 
+臺灣一項介入試驗，47位35-64歲血壓正常偏高或第一期高血壓之中老年
+人，隨機分成三組：控制組、減鹽組、代鹽（含鉀減鈉鹽）組。飲食介入9個月
+後，減鹽組收縮壓平均降低9.21毫米汞柱，舒張壓平均降低5.40毫米汞柱；代鹽
+（含鉀減鈉鹽）組收縮壓平均降低6.83毫米汞柱，舒張壓平均降低4.23毫米汞
+柱；至於控制組則收縮壓平均上升3.97毫米汞柱，舒張壓平均上升5.76毫米汞
+柱。此血壓的趨勢顯示長期的減鹽和使用代鹽（含鉀減鈉鹽）有助於血壓的降
+低，且二種飲食對血壓的影響程度相似(92)。 
+ 
+(三) 骨密度 
+飲食中鉀伴隨的陰離子可經由中和酸負荷減少骨骼中鈣的流失，從而對骨
+密度產生有益影響。2008-2011年韓國國家健康與營養調查（the Korean National 
+Health and Nutrition Examination Survey, KNHANES），分析3,135名50歲以上男
+性和4,052名停經後女性。50歲以上男性和停經後女性飲食中鉀的攝取與骨密度
+呈正相關，表明飲食中鉀的攝取對骨骼健康有益(93)。且較高的飲食鉀攝取量對
+韓國老年婦女的骨骼健康和預防骨質疏鬆症具有良好的作用，但與男性骨質疏
+鬆的風險無關(94)。 
+一項隨機、雙盲、與安慰劑對照試驗，201位65歲以上健康老人，每天接受
+60毫當量（mEq）檸檬酸鉀或口服安慰劑，所有受試者均接受鈣和維生素D。
+24個月後，發現服用檸檬酸鉀增加腰椎的骨密度1.7％，且骨小梁（trabecular）
+的密度在橈骨和脛骨中均有增加，並減少骨折的預測值(95)。 
+ 
+(四) 腎結石 
+較高的飲食鉀攝取量將減少尿中鈣的排泄，從而有可能防止結石形成(47)。
+研究分析美國三個大規模世代研究：醫護人員追蹤研究（Health Professionals 
+=== p.23 ===
+ 
+23 
+ 
+Follow-Up Study）（n=42,919）、護理人員健康研究I（Nurses’ Health Study I）
+（n=60,128）、與護理人員健康研究II（n=90,629）。結果發現在這三個世代研
+究中均觀察到鉀攝取量與腎結石之間存在顯著的負相關，高鉀飲食或鉀相對豐
+富的飲食可以預防腎結石(96)。 
+ 
+(五) 糖尿病 
+低血清鉀濃度會降低胰島素分泌，導致葡萄糖耐受不良，而因利尿劑引起
+的低鉀血症會增加高血壓個體罹患糖尿病的風險。美國前瞻性世代研究ARIC
+（the Atherosclerosis Risk in Communities Study），12,209位45-65歲成人參與，
+於1986年開始，進行了9年的面對面隨訪和17年的電話訪問。在9年中，共有
+1,475位受試者被診斷出糖尿病。研究發現血清鉀與第二型糖尿病的發病風險呈
+負相關，但飲食中鉀的攝取與糖尿病風險之間沒有顯著相關性(97)。 
+ 
+美國健康照護研究與品質管理局（Agency for Healthcare Research and 
+Quality, AHRQ）2018年「鈉和鉀的攝取量：對慢性病結果和風險的影響」系統
+評價的結論為：減少鈉的攝取量，增加鉀的攝取量，並在飲食中使用含鉀的鹽
+替代品會顯著降低血壓，特別是在高血壓人群中(98)。然而，目前仍缺乏足夠的
+證據來確定國人鉀的慢性疾病風險降低攝取量（CDRR），原因如下(11, 98)： 
+1. 由於飲食中鉀與其他營養素的強烈相關性，結果可能存在混淆，無法確定
+因果關係。目前在隨機對照試驗中尚無足夠證據評估鉀攝取對總死亡率、
+心血管疾病、冠心病、心肌梗塞、中風、和慢性腎臟疾病的獨立影響。 
+2. 有一些證據顯示補充鉀可以降低血壓，特別是在高血壓成年人中。但各研
+究之間存在差異、缺乏攝取劑量-效應（intake–response）關係、且證據強
+度不足。 
+3. 補充鉀對骨密度的試驗結果可能會因補充劑中的共軛陰離子（例如檸檬酸
+根、碳酸氫根、或氯離子）而有所不同，因此不一定反映鉀的獨立作用。 
+4. 沒有足夠的證據表明鉀攝取對腎結石有影響，雖然鉀攝取量增加可能與腎
+結石風險降低有關，但目前證據強度仍不足。 
+5. 沒有足夠的證據顯示鉀攝取與糖尿病、血糖控制、和胰島素敏感性之間存
+在因果關係。 
+ 
+由於目前國際上沒有充足的整合分析數據、24小時飲食回憶資料每日變動
+大、人數不夠多、且還需與健保資料結合進行各項指標的前瞻性分析，故此次
+=== p.24 ===
+ 
+24 
+ 
+暫時不訂定鉀的CDRR。 
+然而，缺乏鉀CDRR並不表示攝取鉀沒有降低慢性疾病風險作用。相反，
+補充鉀具有降低血壓作用的適度證據，但缺乏攝取劑量-效應關係以及對慢性病
+終點影響的證據。未來需要更進一步探討鉀不同劑量和形式的效果，作為將來
+訂定CDRR的依據(11)。 
+ 
+過量危害與毒性 
+對於健康個體，沒有證據顯示從食物中攝取大量鉀會產生不利影響(56)。 
+不過鉀補充劑可能對一些次人群造成急性毒性。病例報告提供的證據顯示，長
+期攝取大量鉀補充劑會導致鉀排泄能力受損的人發生高鉀血症（血清鉀濃度高
+於 5.5 毫莫耳/公升）(11)，最嚴重的影響是心律不整和死亡。某些形式的鉀補充
+劑亦會導致胃腸道不適。但這些案例研究中，鉀的劑量常不精確，且受到合併
+症和藥物使用的干擾。 
+在一般飲食狀況下，短期補充鉀約 2,500 毫克/天（64 毫莫耳/天）對健康的
+個體似乎是安全的(11)，可能會稍微增加血液中鉀的濃度，但沒有證據顯示其會
+導致高鉀血症。然而腎臟疾病、糖尿病、心臟衰竭、腎上腺功能不全、或使用
+可能導致血鉀濃度升高的藥物的人，鉀攝取量仍需特別注意。 
+目前鉀補充劑試驗中，不良事件報告並不一致。因此，在健康的人群中，
+沒有足夠的鉀毒性風險證據，無法建立鉀上限攝取量（UL）。然而缺乏鉀 UL
+並不意味沒有過量攝入的風險，尤其是腎功能受損或高風險的人群，仍應注意
+避免補充過多的鉀，且鉀補充劑建議在醫療監督下使用(11)。 
+ 
+參考文獻 
+1. World Health Organization. Guideline: potassium intake for adults and children. 
+Geneva: World Health Organization; 2012. 
+2. Wu SJ, Pan WH, Yeh NH, Chang HY . Trends in nutrient and dietary intake 
+among adults and the elderly: from NAHSIT 1993-1996 to 2005-2008. Asia Pac J 
+Clin Nutr. 2011;20:251-65. 
+3. 衛生福利部國民健康署. 國民營養健康狀況變遷調查成果報告 2013-2016
+年. https://www.hpa.gov.tw/Pages/List.aspx?nodeid=3998. 2019. 
+4. Intersalt Cooperative Research Group. Intersalt: an international study of 
+electrolyte excretion and blood pressure. Results for 24 hour urinary sodium and 
+potassium excretion. Bmj. 1988;297:319-28. 
+=== p.25 ===
+ 
+25 
+ 
+5. 行政院衛生署. 國人膳食營養素參考攝取量及其說明（第七版）. 台北市; 
+2012. 
+6. 中國營養學會. 第八章常量元素.  中國居民膳食營養素參考攝入. 北京: 科
+學出版社; 2013. p. 165-215. 
+7. Crichton R. Chapter 1 An Overview of the Role of Metals in Biology.  
+Biological inorganic chemistry : a new introduction to molecular structure and 
+function. 3rd ed. London, United Kingdom: Academic Press; 2019. p. 1-18. 
+8. Da Silva JF, Williams RJP. Chap. 8 Sodium, potassium, and chlorine: osmotic 
+control, electrolytic equilibria, and currents.  The biological chemistry of the 
+elements: the inorganic chemistry of life. 2nd ed. New York: Oxford University Press; 
+2001. p. 206-27. 
+9. EFSA Panel on Dietetic Products, Nutrition and Allergies. Scientific opinion on 
+dietary reference values for potassium. EFSA Journal. 2016;14:4592. 56 pp. 
+10. Ministry of Health, Labour and Welfare. Dietary Reference Intakes for Japanese.  
+2020  [cited; Available from: 
+https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/syokuji
+_kijyun.html 
+11. National Academies of Sciences, Engineering, Medicine. Dietary reference 
+intakes for sodium and potassium. In: Stallings V A, Harrison M, Oria M, editors. 
+Washington, DC: The National Academies Press; 2019. p. 3-1~6-34. 
+12. Holbrook JT, Patterson KY , Bodner JE, Douglas LW, Veillon C, Kelsay JL, 
+Mertz W, Smith JC, Jr. Sodium and potassium intake and balance in adults consuming 
+self-selected diets. Am J Clin Nutr. 1984;40:786-93. 
+13. Institute of Medicine. Dietary Reference Intakes for water, potassium, sodium, 
+chloride, and sulfate. Washington, DC: The National Academies Press; 2005. 
+14. Agarwal R, Afzalpurkar R, Fordtran JS. Pathophysiology of potassium 
+absorption and secretion by the human intestine. Gastroenterology. 1994;107:548-71. 
+15. Bailey J, Sands J, Franch H. Water, electrolytes, and acid-base metabolism. In: 
+Ross AC, Caballero B, Cousins RJ, Tucker KL, Ziegler TR, editors. Modern Nutrition 
+in Health and Disease, 11th ed. Williams & Wilkins, Lippincott; 2014. p. 102-32. 
+16. Meneton P, Schultheis PJ, Greeb J, Nieman ML, Liu LH, Clarke LL, Duffy JJ, 
+Doetschman T, Lorenz JN, Shull GE. Increased sensitivity to K+ deprivation in 
+colonic H,K-ATPase-deficient mice. J Clin Invest. 1998;101:536-42. 
+17. Ifudu O, Markell MS, Friedman EA. Unrecognized pseudohyperkalemia as a 
+cause of elevated potassium in patients with renal disease. Am J Nephrol. 
+1992;12:102-4. 
+18. Palmer BF. Regulation of Potassium Homeostasis. Clin J Am Soc Nephrol. 
+2015;10:1050-60. 
+=== p.26 ===
+ 
+26 
+ 
+19. Gumz ML, Rabinowitz L, Wingo CS. An Integrated View of Potassium 
+Homeostasis. N Engl J Med. 2015;373:1787-8. 
+20. Weiner ID, Linas SL, Wingo CS, Floege J, Johnson R, Feehally J. Chap. 9. 
+Disorders of Potassium Metabolism. In: Johnson R, Fluege J, Feehally J, editors. 
+Comprehensive clinical nephrology, 4th ed. Philadelphia, USA: Elsevier Saunders; 
+2010. p. 118-29. 
+21. Pietinen P. Estimating sodium intake from food consumption data. Ann Nutr 
+Metab. 1982;26:90-9. 
+22. Kee J, Paulanka B, Polek C. Potassium imbalances. In: Helba S, Bellegarde W, 
+editors. Handbook of Fluid, Electrolyte, and Acid-Base Imbalances. 3th ed. New York, 
+USA.: Delmar Gengage Learning; 2010. p. 54-73. 
+23. Hené RJ, Koomans HA, Boer P, Dorhout Mees EJ. Adaptation to chronic 
+potassium loading in normal man. Miner Electrolyte Metab. 1986;12:165-72. 
+24. Bruun NE, Skøtt P, Damkjaer Nielsen M, Rasmussen S, Schütten HJ, Leth A, 
+Pedersen EB, Giese J. Normal renal tubular response to changes of sodium intake in 
+hypertensive man. J Hypertens. 1990;8:219-27. 
+25. Castenmiller JJ, Mensink RP, van der Heijden L, Kouwenhoven T, Hautvast JG, 
+de Leeuw PW, Schaafsma G. The effect of dietary sodium on urinary calcium and 
+potassium excretion in normotensive men with different calcium intakes. Am J Clin 
+Nutr. 1985;41:52-60. 
+26. Overlack A, Ruppert M, Kolloch R, Göbel B, Kraft K, Diehl J, Schmitt W, 
+Stumpe KO. Divergent hemodynamic and hormonal responses to varying salt intake 
+in normotensive subjects. Hypertension. 1993;22:331-8. 
+27. Sharma AM, Arntz HR, Kribben A, Schattenfroh S, Distler A. Dietary sodium 
+restriction: adverse effect on plasma lipids. Klin Wochenschr. 1990;68:664-8. 
+28. Sullivan JM, Ratts TE, Taylor JC, Kraus DH, Barton BR, Patrick DR, Reed SW. 
+Hemodynamic effects of dietary sodium in man: a preliminary report. Hypertension. 
+1980;2:506-14. 
+29. Luft FC, Weinberger MH, Grim CE. Sodium sensitivity and resistance in 
+normotensive humans. Am J Med. 1982;72:726-36. 
+30. Sacks FM, Svetkey LP, V ollmer WM, Appel LJ, Bray GA, Harsha D, et al. 
+Effects on blood pressure of reduced dietary sodium and the Dietary Approaches to 
+Stop Hypertension (DASH) diet. DASH-Sodium Collaborative Research Group. N 
+Engl J Med. 2001;344:3-10. 
+31. Squires RD, Huth EJ. Experimental potassium depletion in normal human 
+subjects. I. Relation of ionic intakes to the renal conservation of potassium. J Clin 
+Invest. 1959;38:1134-48. 
+32. EFSA. Dietary Reference Values for nutrients Summary Report. EFSA 
+=== p.27 ===
+ 
+27 
+ 
+supporting publication 2017;14:e15121, 98 pp. 
+33. Cummings JH, Hill MJ, Jenkins DJ, Pearson JR, Wiggins HS. Changes in fecal 
+composition and colonic function due to cereal fiber. Am J Clin Nutr. 1976;29:1468-
+73. 
+34. Weschler LB. Sweat electrolyte concentrations obtained from within occlusive 
+coverings are falsely high because sweat itself leaches skin electrolytes. J Appl 
+Physiol. 2008;105:1376-7. 
+35. Palacios C, Wigertz K, Martin BR, Braun M, Pratt JH, Peacock M, Weaver CM. 
+Racial differences in potassium homeostasis in response to differences in dietary 
+sodium in girls. Am J Clin Nutr. 2010;91:597-603. 
+36. Costill DL, Cote R, Fink WJ. Dietary potassium and heavy exercise: effects on 
+muscle water and electrolytes. Am J Clin Nutr. 1982;36:266-75. 
+37. Consolazio CF, Matoush LO, Nelson RA, Harding RS, Canham JE. Excretion of 
+sodium, potassium, magnesium and iron in human sweat and the relation of each to 
+balance and requirements. J Nutr. 1963;79:407-15. 
+38. Kirkendall AM, Connor WE, Abboud F, Rastogi SP, Anderson TA, Fry M. The 
+effect of dietary sodium chloride on blood pressure, body fluids, electrolytes, renal 
+function, and serum lipids of normotensive man. J Lab Clin Med. 1976;87:411-34. 
+39. Tasevska N, Runswick SA, Bingham SA. Urinary potassium is as reliable as 
+urinary nitrogen for use as a recovery biomarker in dietary studies of free living 
+individuals. J Nutr. 2006;136:1334-40. 
+40. Kodama N, Morikuni E, Matsuzaki N, Yoshioka YH, Takeyama H, Yamada H, 
+Kitajima H, Nishimuta M. Sodium and potassium balances in Japanese young adults. 
+J Nutr Sci Vitaminol (Tokyo). 2005;51:161-8. 
+41. Sebastian A, McSherry E, Morris RC, Jr. Renal potassium wasting in renal 
+tubular acidosis (RTA): its occurrence in types 1 and 2 RTA despite sustained 
+correction of systemic acidosis. J Clin Invest. 1971;50:667-78. 
+42. Scientific Committee for Food. Nutrient and energy intakes for the European 
+community.  1993  [cited; Available from: http://aei.pitt.edu/40840/ 
+43. Young DB. Role of potassium in preventive cardiovascular medicine. Boston: 
+Kluwer Academic Publishers; 2001. 
+44. Young DB, McCabe RD. Endocrine control of potassium balance. In: Fray JCS, 
+Goodman HM, editors. Handbook of physiology: section 7, the endocrine system. 
+New York: Oxford University Press; 2000. p. 306-30. 
+45. Young DB. Analysis of long-term potassium regulation. Endocr Rev. 1985;6:24-
+44. 
+46. Lemann J Jr, Pleuss JA, Gray RW. Potassium bicarbonate, but not sodium 
+bicarbonate, reduces urinary calcium excretion and improves calcium balance in 
+=== p.28 ===
+ 
+28 
+ 
+healthy men. Kidney Int. 1989;35:688-95. 
+47. Lemann J Jr, Pleuss JA, Gray RW, Hoffmann RG. Potassium administration 
+reduces and potassium deprivation increases urinary calcium excretion in healthy 
+adults. Kidney Int. 1991;39:973-83. 
+48. Morris R, Frassetto L, Schmidlin O, Forman A, Sebastian A. Expression of 
+osteoporosis as determined by diet-disordered electrolyte and acid-base metabolism. 
+Nutritional Aspects of Osteoporosis. 2001::357-78. 
+49. Schmidlin O, Forman A, Tanaka M, Sebastian A, Morris RC, Jr. NaCl-induced 
+renal vasoconstriction in salt-sensitive African Americans: antipressor and 
+hemodynamic effects of potassium bicarbonate. Hypertension. 1999;33:633-9. 
+50. World Health Organization. Effect of increased potassium intake on 
+cardiovascular disease, coronary heart disease and stroke. Geneva: World Health 
+Organization; 2012. p. 42. 
+51. Freedman LS, Commins JM, Moler JE, Willett W, Tinker LF, Subar AF, et al. 
+Pooled results from 5 validation studies of dietary self-report instruments using 
+recovery biomarkers for potassium and sodium intake. Am J Epidemiol. 
+2015;181:473-87. 
+52. Kawasaki T, Itoh K, Uezono K, Sasaki H. A simple method for estimating 24 h 
+urinary sodium and potassium excretion from second morning voiding urine specimen 
+in adults. Clin Exp Pharmacol Physiol. 1993;20:7-14. 
+53. Tanaka T, Okamura T, Miura K, Kadowaki T, Ueshima H, Nakagawa H, 
+Hashimoto T. A simple method to estimate populational 24-h urinary sodium and 
+potassium excretion using a casual urine specimen. J Hum Hypertens. 2002;16:97-
+103. 
+54. Corbetta S, Baccarelli A, Aroldi A, Vicentini L, Fogazzi GB, Eller-Vainicher C, 
+Ponticelli C, Beck-Peccoz P, Spada A. Risk factors associated to kidney stones in 
+primary hyperparathyroidism. J Endocrinol Invest. 2005;28:122-8. 
+55. Curhan GC, Taylor EN. 24-h uric acid excretion and the risk of kidney stones. 
+Kidney Int. 2008;73:489-96. 
+56. Institute of Medicine. Dietary Reference Intakes: The essential guide to nutrient 
+requirements. Washington, DC: The National Academies Press; 2006. 
+57. Sakhaee K, Alpern R, Jacobson HR, Pak CY . Contrasting effects of various 
+potassium salts on renal citrate excretion. J Clin Endocrinol Metab. 1991;72:396-400. 
+58. New SA, Robins SP, Campbell MK, Martin JC, Garton MJ, Bolton-Smith C, 
+Grubb DA, Lee SJ, Reid DM. Dietary influences on bone mass and bone metabolism: 
+further evidence of a positive link between fruit and vegetable consumption and bone 
+health? Am J Clin Nutr. 2000;71:142-51. 
+59. Bushinsky DA, Frick KK. The effects of acid on bone. Curr Opin Nephrol 
+=== p.29 ===
+ 
+29 
+ 
+Hypertens. 2000;9:369-79. 
+60. Lemann J Jr, Pleuss JA, Gray RW. Potassium causes calcium retention in healthy 
+adults. J Nutr. 1993;123:1623-6. 
+61. Whelton PK, He J, Cutler JA, Brancati FL, Appel LJ, Follmann D, Klag MJ. 
+Effects of oral potassium on blood pressure. Meta-analysis of randomized controlled 
+clinical trials. Jama. 1997;277:1624-32. 
+62. Khaw KT, Barrett-Connor E. The association between blood pressure, age, and 
+dietary sodium and potassium: a population study. Circulation. 1988;77:53-61. 
+63. Cirillo M, Laurenzi M, Panarelli W, Stamler J. Urinary sodium to potassium ratio 
+and urinary stone disease. The Gubbio Population Study Research Group. Kidney Int. 
+1994;46:1133-9. 
+64. Malhotra MS, Sridharan K, Venkataswamy Y . Potassium losses in sweat under 
+heat stress. Aviat Space Environ Med. 1976;47:503-4. 
+65. Malhotra MS, Sridharan K, Venkataswamy Y , Rai RM, Pichan G, Radhakrishnan 
+U, Grover SK. Effect of restricted potassium intake on its excretion and on 
+physiological responses during heat stress. Eur J Appl Physiol Occup Physiol. 
+1981;47:169-79. 
+66. Fukumoto T, Tanaka T, Fujioka H, Yoshihara S, Ochi T, Kuroiwa A. Differences 
+in composition of sweat induced by thermal exposure and by running exercise. Clin 
+Cardiol. 1988;11:707-9. 
+67. Cappuccio FP, Buchanan LA, Ji C, Siani A, Miller MA. Systematic review and 
+meta-analysis of randomised controlled trials on the effects of potassium supplements 
+on serum potassium and creatinine. BMJ Open. 2016;6:e011716. 
+68. 蘇郁芬、盧立卿、林家慧、謝武勳、方麗容. 評估台灣嬰兒六個月前母乳
+攝取量及營養狀態之研究. 2009. p. 11-21. 
+69. 盧立卿、李芳靚、陳秀瑩、方麗容、江忻蓉. 台灣母乳哺餵嬰兒一至十二
+個月秤重試驗及營養素攝取量之研究. 2011. p. 87-98. 
+70. U.S. Department of Agriculture. Food data central.  2020  [cited; Available 
+from: https://fdc.nal.usda.gov/index.html 
+71. Butte NF, Hopkinson JM. Body composition changes during lactation are highly 
+variable among women. J Nutr. 1998;128:381s-5s. 
+72. Ministry of Health and Welfare, The Korean Nutrition Society. Dietary reference 
+intakes for Koreans 2015.  2015  [cited; Available f rom: 
+http://kns.or.kr/English/Publication.asp 
+73. Australian Government Department of Health. Nutrient reference values for 
+Australia and New Zealand.  2017  [cited 2020 1 July]; Available from: 
+https://www.nrv.gov.au/home 
+74. British Nutrition Foundation. Nutrition requirements.  2019  [cited; Available 
+=== p.30 ===
+ 
+30 
+ 
+from: https://www.foodafactoflife.org.uk/media/1781/drv-factsheet-i-316.pdf 
+75. 中華人民共和國國家衛生健康委員. 中國居民膳食營養素參考攝入量第 2
+部分：常量元素. 2018. 
+76. 翁履珍、鄭裕耀、葉乃華、金惠民、潘文涵. 使用鉀點數表提高飲食鉀攝
+取量. 2006. p. 102-16. 
+77. 衛生福利部食品藥物管理署. 台灣食品成分資料庫 2019 版. 
+https://consumer.fda.gov.tw/Files/other/%E5%8F%B0%E7%81%A3%E9%A3%9F%
+E5%93%81%E6%88%90%E5%88%86%E8%B3%87%E6%96%99%E5%BA%AB2
+019%E7%89%88(UPDATE1)1090401.xlsx. 
+78. Meiners CR, Derise NL, Lau HC, Crews MG, Ritchey SJ, Murphy EW. The 
+content of nine mineral elements in raw and cooked mature dry legumes. J Agric Food 
+Chem. 1976;24:1126-30. 
+79. Kimura M, Itokawa Y . Cooking losses of minerals in foods and its nutritional 
+significance. J Nutr Sci Vitaminol (Tokyo). 1990;36 (Suppl 1):S25-32. 
+80. 胡懷玉、金惠民、駱菲莉. 加熱前處理對蔬菜鉀流失率之影響. 2009. p. 21-
+8. 
+81. World Health Organization. Diet, nutrition and the prevention of chronic 
+diseases: report of a joint WHO/FAO expert consultation. Geneva: World Health 
+Organization; 2003. 
+82. 廖延苓、章雅惠、董家堯. 台灣地區成年人鈉、鉀攝取與血壓之探討. 台北
+市: 2020 年公共衛生聯合年會; 2020. 
+83. Wu SJ, Chang YH, Wei IL, Kao MD, Lin YC, Pan WH. Intake levels and major 
+food sources of energy and nutrients in the Taiwanese elderly. Asia Pac J Clin Nutr. 
+2005;14:211-20. 
+84. 潘文涵、章雅惠、陳正義、吳幸娟、曾明淑、高美丁. 國民營養健康狀況
+變遷調查 (NAHSIT) 1993-1996：以二十四小時飲食回顧法評估國人膳食營養狀
+況. 中華民國營養學會雜誌. 1999;24:11-39. 
+85. Wu SJ, Pan WH, Yeh NH, Chang HY . Dietary nutrient intake and major food 
+sources: the nutrition and health survey of Taiwan elementary school children 2001-
+2002. Asia Pac J Clin Nutr. 2007;16 Suppl 2:518-33. 
+86. Chang H-Y , Hu Y-W, Yue C-SJ, Wen Y-W, Yeh W-T, Hsu L-S, Tsai S-Y , Pan W-
+H. Effect of potassium-enriched salt on cardiovascular mortality and medical 
+expenses of elderly men. Am J Clin Nutr. 2006;83:1289-96. 
+87. 潘文涵. 含鉀減鈉鹽：設計之初衷與輻射爭議. ILSI Taiwan. 2018;4:2. 
+88. Lai YH, Leu HB, Yeh WT, Chang HY , Pan WH. Low-normal serum potassium is 
+associated with an increased risk of cardiovascular and all-cause death in community-
+based elderly. J Formos Med Assoc. 2015;114:517-25. 
+89. 賴瑩荷. 鉀鎂的營養狀況與死亡率以及神經功能表現之關係. 台北市: 國立
+=== p.31 ===
+ 
+31 
+ 
+臺灣大學; 2015. p. 147. 
+90. Pan WH, Lai YH, Yeh WT, Chen JR, Jeng JS, Bai CH, et al. Intake of potassium- 
+and magnesium-enriched salt improves functional outcome after stroke: a 
+randomized, multicenter, double-blind controlled trial. Am J Clin Nutr. 
+2017;106:1267-73. 
+91. Mente A, O'Donnell MJ, Rangarajan S, McQueen MJ, Poirier P, Wielgosz A, et 
+al. Association of urinary sodium and potassium excretion with blood pressure. N 
+Engl J Med. 2014;371:601-11. 
+92. 姜小敏. 針對高血壓患者進行逐步減鹽和使用低鈉鹽之研究--影響血壓機制
+之探討. 台北市: 文化大學; 1994. p. 145. 
+93. Kong SH, Kim JH, Hong AR, Lee JH, Kim SW, Shin CS. Dietary potassium 
+intake is beneficial to bone health in a low calcium intake population: the Korean 
+National Health and Nutrition Examination Survey (KNHANES) (2008-2011). 
+Osteoporos Int. 2017;28:1577-85. 
+94. Ha J, Kim SA, Lim K, Shin S. The association of potassium intake with bone 
+mineral density and the prevalence of osteoporosis among older Korean adults. Nutr 
+Res Pract. 2020;14:55-61. 
+95. Jehle S, Hulter HN, Krapf R. Effect of potassium citrate on bone density, 
+microarchitecture, and fracture risk in healthy older adults without osteoporosis: a 
+randomized controlled trial. J Clin Endocrinol Metab. 2013;98:207-17. 
+96. Ferraro PM, Mandel EI, Curhan GC, Gambaro G, Taylor EN. Dietary protein and 
+potassium, diet-dependent net acid load, and risk of incident kidney stones. Clin J Am 
+Soc Nephrol. 2016;11:1834-44. 
+97. Chatterjee R, Yeh HC, Shafi T, Selvin E, Anderson C, Pankow JS, Miller E, 
+Brancati F. Serum and dietary potassium and risk of incident type 2 diabetes mellitus: 
+The Atherosclerosis Risk in Communities (ARIC) study. Arch Intern Med. 
+2010;170:1745-51. 
+98. Newberry SJ, Chung M, Anderson CAM, Chen C, Fu Z, Tang A, et al. AHRQ 
+comparative effectiveness reviews.  Sodium and Potassium Intake: Effects on 
+Chronic Disease Outcomes and Risks. Rockville (MD): Agency for Healthcare 
+Research and Quality (US); 2018. 
+  
+=== p.32 ===
+ 
+32 
+ 
+附錄、2013-2016年不同性別年齡層「健康者」平均膳食鉀攝取量及分布 
+年齡（歲） 樣本數 
+每日平
+均攝取
+量（毫
+克） 
+每日攝取量（毫克）分布百分位 
+1th 5th 10th 25th 50th 75th 90th 95th 99th 
+全 2-12 月 118 1008 436 578 584 706 925 1206 1652 2144 2451 
+體 01-03 548 1497 267 491 645 970 1394 1911 2502 2899 3871 
+ 04-06 920 1714 420 684 859 1159 1586 2107 2807 3132 4148 
+ 07-09 715 1919 493 727 909 1252 1685 2413 3271 3738 5077 
+ 10-12 747 2017 438 856 1015 1400 1871 2456 3246 3758 4591 
+ 13-15 756 2033 400 754 969 1387 1859 2542 3240 4089 5553 
+ 16-18 653 2087 430 790 970 1370 1937 2596 3389 4046 4982 
+ 19-30 763 2359 513 830 1014 1612 2198 2950 3861 4459 5962 
+ 31-50 1079 2620 348 857 1117 1621 2351 3334 4516 5267 7138 
+ 51-70 948 2837 539 925 1281 1875 2631 3529 4740 5448 7453 
+  71 以上 282 2631 90 775 1017 1571 2330 3607 4572 5526 8010 
+男 2-12 月 56 983 578 584 618 706 943 1152 1287 1719 2144 
+性 01-03 273 1579 267 467 645 1017 1494 1982 2538 3016 4644 
+ 04-06 463 1863 401 730 894 1294 1732 2305 3068 3241 4181 
+ 07-09 367 1994 493 863 971 1287 1699 2401 3341 4085 6406 
+ 10-12 351 2155 797 956 1101 1481 1973 2702 3405 3899 4591 
+ 13-15 375 2267 616 970 1085 1531 2109 2736 3687 4562 5553 
+ 16-18 325 2360 588 828 1138 1674 2270 3000 3659 4292 4982 
+ 19-30 369 2636 568 901 1169 1745 2425 3354 4273 4777 6804 
+ 31-50 499 2864 442 942 1285 1789 2590 3494 4891 5562 7570 
+ 51-70 431 2935 650 1072 1378 1999 2767 3673 4676 5394 7232 
+  71 以上 160 2825 483 775 953 1658 2577 3640 5020 6177 8253 
+女 2-12 月 62 1039 260 450 581 709 791 1216 1710 2342 2451 
+性 01-03 275 1410 177 494 660 899 1297 1780 2224 2599 3374 
+ 04-06 457 1553 447 682 825 1052 1428 1900 2493 2854 4148 
+ 07-09 348 1833 410 649 763 1153 1658 2419 3130 3484 5077 
+ 10-12 396 1870 364 638 904 1284 1749 2277 2952 3366 4572 
+ 13-15 381 1786 368 627 802 1126 1618 2245 2889 3300 4793 
+ 16-18 328 1807 395 682 860 1218 1677 2221 2770 3574 4695 
+ 19-30 394 2091 426 780 860 1382 2016 2748 3317 3724 4622 
+ 31-50 580 2420 298 797 1036 1544 2195 3044 4226 4793 5759 
+ 51-70 517 2764 539 925 1248 1783 2538 3505 4764 5448 7591 
+  71 以上 122 2429 90 827 1156 1460 2009 3562 4299 4673 5961 
+*資料來源：2013-2016 年國民營養健康狀況變遷調查，排除「疾病者」後，以 24 小時飲食回
+憶法評估「健康者」每人每日鉀攝取量，分析結果經加權調整。 
+ 
