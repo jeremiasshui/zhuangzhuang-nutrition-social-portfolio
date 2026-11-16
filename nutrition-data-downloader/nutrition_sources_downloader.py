@@ -75,7 +75,8 @@ def get(url, **kwargs):
 
 def filename_from(response, url, fallback):
     cd = response.headers.get("Content-Disposition", "")
-    m = re.search(r"filename\*?=(?:UTF-8'')?\"?([^\";]+)", cd, re.I)
+    # filename*= 的格式是「編碼'語言'檔名」（RFC 5987），語言可能是空的、空白或有值，要整段去掉
+    m = re.search(r"filename\*?=(?:[\w-]+'[^']*')?\"?([^\";]+)", cd, re.I)
     if m:
         return unquote(m.group(1))
     tail = unquote(Path(urlparse(url).path).name)
